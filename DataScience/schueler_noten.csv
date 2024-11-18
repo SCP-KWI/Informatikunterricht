@@ -1,650 +1,650 @@
-Schule;Geschlecht;Alter;Wohnumgebung;Familiengroesse;AusbildungMutter;AusbildungVater;JobMutter;JobVater;Reisezeit;Lernzeit;Unterstuetzung;Nachhilfe;Freifach;Internet;Familienverhaeltnis;Freizeit;Ausgang;Gesundheit;Absenzen;Test1;Test2;Test3
-GP;W;18;urban;>3;higher;higher;at_home;teacher;15-30min;2-5h;no;no;no;no;good;medium;important;medium;4;0;11;11
-GP;W;17;urban;>3;primary;primary;at_home;other;<15min;2-5h;yes;no;no;yes;very good;medium;medium;medium;2;9;11;11
-GP;W;15;urban;<=3;primary;primary;at_home;other;<15min;2-5h;no;no;no;yes;good;medium;hardly important;medium;6;12;13;12
-GP;W;15;urban;>3;higher;lower_secondary;healthcare;public_services;<15min;5-10h;yes;no;yes;yes;medium;little;hardly important;very good;0;14;14;14
-GP;W;16;urban;>3;upper_secondary;upper_secondary;other;other;<15min;2-5h;yes;no;no;no;good;medium;hardly important;very good;0;11;13;13
-GP;M;16;urban;<=3;higher;upper_secondary;public_services;other;<15min;2-5h;yes;no;yes;yes;very good;much;hardly important;very good;6;12;12;13
-GP;M;16;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;no;yes;good;much;important;medium;0;13;12;13
-GP;W;17;urban;>3;higher;higher;other;teacher;15-30min;2-5h;yes;no;no;no;good;very little;important;very bad;2;10;13;13
-GP;M;15;urban;<=3;upper_secondary;lower_secondary;public_services;other;<15min;2-5h;yes;no;no;yes;good;little;hardly important;very bad;0;15;16;17
-GP;M;15;urban;>3;upper_secondary;higher;other;other;<15min;2-5h;yes;no;yes;yes;very good;very much;not important;very good;0;12;12;13
-GP;W;15;urban;>3;higher;higher;teacher;healthcare;<15min;2-5h;yes;no;no;yes;medium;medium;medium;bad;2;14;14;14
-GP;W;15;urban;>3;lower_secondary;primary;public_services;other;30-60min;5-10h;yes;no;yes;yes;very good;little;hardly important;good;0;10;12;13
-GP;M;15;urban;<=3;higher;higher;healthcare;public_services;<15min;<2h;yes;no;yes;yes;good;medium;medium;very good;0;12;13;12
-GP;M;15;urban;>3;higher;upper_secondary;teacher;other;15-30min;2-5h;yes;no;no;yes;very good;much;medium;medium;0;12;12;13
-GP;M;15;urban;>3;lower_secondary;lower_secondary;other;other;<15min;5-10h;yes;no;no;yes;good;very much;hardly important;medium;0;14;14;15
-GP;W;16;urban;>3;higher;higher;healthcare;other;<15min;<2h;yes;no;no;yes;good;much;important;bad;6;17;17;17
-GP;W;16;urban;>3;higher;higher;public_services;public_services;<15min;5-10h;yes;no;yes;yes;medium;little;medium;bad;10;13;13;14
-GP;W;16;urban;>3;upper_secondary;upper_secondary;other;other;30-60min;2-5h;yes;no;yes;no;very good;medium;hardly important;good;2;13;14;14
-GP;M;17;urban;>3;upper_secondary;lower_secondary;public_services;public_services;<15min;<2h;yes;yes;yes;yes;very good;very much;very important;very good;2;8;8;7
-GP;M;16;urban;<=3;higher;upper_secondary;healthcare;other;<15min;<2h;no;no;yes;yes;medium;very little;medium;very good;6;12;12;12
-GP;M;15;urban;>3;higher;upper_secondary;teacher;other;<15min;2-5h;no;no;no;yes;good;much;not important;very bad;0;12;13;14
-GP;M;15;urban;>3;higher;higher;healthcare;healthcare;<15min;<2h;yes;yes;no;yes;very good;much;hardly important;very good;0;11;12;12
-GP;M;16;urban;<=3;higher;lower_secondary;teacher;other;<15min;2-5h;no;no;yes;yes;good;very much;not important;very good;0;12;13;14
-GP;M;16;urban;<=3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;yes;yes;very good;much;important;very good;2;10;10;10
-GP;W;15;rural;>3;lower_secondary;higher;public_services;healthcare;<15min;5-10h;yes;no;yes;yes;good;medium;hardly important;very good;2;10;11;10
-GP;W;16;urban;>3;lower_secondary;lower_secondary;public_services;public_services;<15min;<2h;yes;no;no;yes;very bad;little;hardly important;very good;6;10;11;12
-GP;M;15;urban;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;yes;good;little;hardly important;very good;8;11;12;12
-GP;M;15;urban;>3;higher;lower_secondary;healthcare;public_services;<15min;<2h;no;no;no;yes;bad;little;important;very bad;0;11;11;11
-GP;M;16;urban;<=3;upper_secondary;higher;public_services;other;<15min;2-5h;yes;yes;yes;yes;very good;medium;medium;very good;2;12;12;13
-GP;M;16;urban;>3;higher;higher;teacher;teacher;<15min;2-5h;yes;yes;yes;yes;good;much;very important;very good;4;12;11;12
-GP;M;15;urban;>3;higher;higher;healthcare;public_services;<15min;2-5h;yes;yes;no;yes;very good;much;hardly important;very good;0;10;11;11
-GP;M;15;urban;>3;higher;higher;public_services;public_services;15-30min;2-5h;yes;no;yes;yes;good;medium;not important;very good;2;15;15;15
-GP;M;15;rural;>3;higher;upper_secondary;teacher;at_home;<15min;2-5h;yes;no;yes;yes;good;very much;hardly important;very good;0;13;14;15
-GP;M;15;urban;<=3;upper_secondary;upper_secondary;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;hardly important;bad;0;13;12;12
-GP;M;16;urban;>3;upper_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;yes;very good;much;medium;very good;4;12;12;12
-GP;W;15;urban;>3;lower_secondary;upper_secondary;other;other;15-30min;<2h;yes;no;yes;no;medium;very much;not important;very good;4;11;11;11
-GP;M;15;urban;<=3;higher;upper_secondary;teacher;public_services;<15min;5-10h;yes;no;yes;yes;very good;much;medium;good;0;14;14;14
-GP;M;16;rural;>3;higher;higher;other;teacher;15-30min;5-10h;yes;no;yes;yes;bad;much;medium;very good;4;13;13;13
-GP;W;15;rural;>3;upper_secondary;higher;public_services;healthcare;<15min;5-10h;yes;no;yes;yes;good;medium;hardly important;very good;2;11;12;12
-GP;W;15;rural;>3;lower_secondary;lower_secondary;at_home;other;<15min;<2h;yes;no;yes;no;good;medium;not important;bad;8;14;13;12
-GP;W;16;urban;<=3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;yes;yes;medium;medium;medium;medium;16;11;11;10
-GP;M;15;urban;<=3;higher;higher;teacher;other;<15min;<2h;yes;no;no;yes;very good;much;medium;very good;8;10;11;11
-GP;M;15;urban;>3;higher;higher;public_services;teacher;<15min;2-5h;yes;no;yes;yes;good;medium;medium;very good;0;14;15;15
-GP;M;15;urban;>3;lower_secondary;lower_secondary;public_services;public_services;<15min;<2h;yes;no;no;yes;very good;much;not important;very bad;0;9;10;10
-GP;W;16;urban;<=3;lower_secondary;lower_secondary;other;at_home;15-30min;2-5h;no;no;yes;yes;good;medium;medium;very good;14;10;11;11
-GP;W;15;urban;<=3;higher;upper_secondary;other;other;<15min;2-5h;yes;yes;yes;yes;very good;little;hardly important;very good;4;10;11;11
-GP;W;16;urban;<=3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;yes;no;no;yes;bad;medium;very important;medium;6;13;12;13
-GP;M;16;urban;>3;higher;upper_secondary;healthcare;public_services;<15min;>10h;no;no;yes;yes;good;little;hardly important;bad;2;17;17;17
-GP;M;15;urban;>3;higher;lower_secondary;teacher;other;<15min;2-5h;yes;no;no;no;good;medium;medium;very good;4;11;12;13
-GP;W;15;urban;>3;higher;higher;public_services;teacher;<15min;2-5h;yes;no;yes;yes;good;much;important;medium;2;13;12;12
-GP;W;16;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;30-60min;2-5h;yes;no;no;yes;good;medium;medium;good;0;14;13;13
-GP;W;15;urban;<=3;higher;lower_secondary;healthcare;other;<15min;2-5h;yes;no;no;yes;good;medium;medium;very good;0;16;14;16
-GP;M;15;urban;<=3;higher;lower_secondary;healthcare;healthcare;15-30min;<2h;no;no;no;no;very good;very much;very important;very good;4;10;9;9
-GP;W;15;urban;>3;higher;higher;public_services;public_services;<15min;<2h;yes;no;no;yes;medium;medium;important;very good;0;13;12;12
-GP;W;15;urban;<=3;upper_secondary;upper_secondary;other;other;<15min;<2h;no;no;no;yes;very good;medium;important;very bad;0;13;12;13
-GP;W;16;urban;>3;lower_secondary;primary;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;important;bad;2;12;13;12
-GP;W;15;urban;>3;higher;upper_secondary;public_services;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;hardly important;very bad;0;15;14;15
-GP;M;15;urban;>3;higher;higher;teacher;healthcare;<15min;2-5h;yes;no;yes;no;medium;little;hardly important;very good;8;15;15;16
-GP;M;15;urban;<=3;primary;lower_secondary;other;at_home;<15min;2-5h;yes;no;yes;yes;good;medium;hardly important;very good;0;14;13;14
-GP;W;16;urban;>3;higher;lower_secondary;public_services;other;<15min;2-5h;yes;yes;no;yes;good;little;medium;very good;2;16;15;16
-GP;W;16;rural;>3;higher;higher;healthcare;teacher;<15min;2-5h;yes;no;yes;no;bad;much;important;good;0;17;16;16
-GP;W;16;urban;>3;primary;primary;public_services;public_services;>60min;<2h;yes;no;yes;yes;very good;very much;very important;very good;0;10;10;16
-GP;W;16;urban;<=3;primary;lower_secondary;other;public_services;<15min;2-5h;no;no;yes;yes;good;much;medium;very bad;0;13;13;10
-GP;W;16;urban;>3;higher;upper_secondary;teacher;healthcare;<15min;5-10h;yes;no;yes;yes;medium;much;important;good;0;14;13;13
-GP;W;15;urban;<=3;higher;upper_secondary;public_services;public_services;<15min;2-5h;no;no;yes;yes;good;much;important;bad;0;13;12;12
-GP;W;16;urban;<=3;higher;upper_secondary;teacher;public_services;30-60min;2-5h;yes;no;yes;yes;very good;much;medium;very bad;2;16;15;16
-GP;M;15;urban;>3;higher;higher;other;public_services;<15min;>10h;yes;no;yes;yes;very bad;medium;medium;medium;0;11;12;12
-GP;W;16;urban;>3;upper_secondary;primary;public_services;other;<15min;>10h;yes;no;no;yes;good;medium;medium;very good;0;10;9;10
-GP;W;15;rural;<=3;lower_secondary;lower_secondary;healthcare;public_services;15-30min;2-5h;yes;no;no;yes;good;very little;medium;good;0;11;10;11
-GP;W;15;rural;<=3;upper_secondary;primary;other;other;15-30min;>10h;yes;no;no;yes;good;much;hardly important;medium;6;15;15;15
-GP;M;16;urban;>3;upper_secondary;primary;other;other;15-30min;>10h;yes;no;no;yes;good;medium;hardly important;very good;2;13;11;11
-GP;M;15;urban;>3;higher;lower_secondary;other;other;<15min;>10h;no;no;no;yes;medium;medium;medium;medium;0;11;9;10
-GP;W;15;rural;>3;primary;primary;other;other;<15min;2-5h;yes;no;no;yes;medium;medium;important;very good;2;13;11;11
-GP;M;16;urban;>3;upper_secondary;primary;other;other;<15min;<2h;no;no;yes;no;very good;medium;hardly important;very good;0;13;13;14
-GP;W;16;urban;>3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;medium;very good;4;11;11;11
-GP;M;15;urban;>3;higher;upper_secondary;teacher;other;<15min;2-5h;yes;no;yes;yes;good;medium;medium;very good;0;11;11;11
-GP;M;15;urban;>3;higher;none;teacher;other;15-30min;>10h;no;no;yes;yes;medium;much;medium;very bad;0;12;11;11
-GP;W;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;>10h;no;no;no;yes;very good;little;medium;medium;1;13;13;13
-GP;M;17;urban;>3;lower_secondary;primary;other;other;15-30min;<2h;yes;no;yes;yes;good;very much;not important;medium;0;9;9;10
-GP;W;16;urban;>3;upper_secondary;higher;at_home;other;<15min;2-5h;yes;no;no;yes;bad;much;medium;medium;14;12;11;11
-GP;M;15;urban;>3;lower_secondary;upper_secondary;other;public_services;<15min;<2h;yes;no;yes;yes;medium;little;hardly important;medium;0;11;11;12
-GP;M;15;urban;>3;lower_secondary;upper_secondary;other;other;<15min;5-10h;no;no;no;yes;very good;medium;hardly important;very good;2;10;9;9
-GP;W;15;urban;<=3;upper_secondary;lower_secondary;public_services;other;<15min;2-5h;yes;no;no;yes;good;much;important;very good;4;12;11;11
-GP;M;15;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;15-30min;2-5h;no;yes;yes;yes;very good;medium;medium;good;2;13;12;13
-GP;W;15;urban;>3;primary;primary;other;other;<15min;2-5h;yes;no;yes;yes;good;medium;hardly important;good;2;13;12;12
-GP;W;15;urban;>3;higher;higher;public_services;public_services;15-30min;2-5h;no;no;no;yes;good;much;important;very good;4;12;11;12
-GP;W;16;urban;<=3;lower_secondary;lower_secondary;at_home;other;<15min;2-5h;yes;no;no;no;good;medium;important;bad;6;13;11;11
-GP;W;15;urban;>3;higher;lower_secondary;other;other;<15min;5-10h;yes;no;yes;yes;very good;medium;medium;very bad;4;15;15;15
-GP;M;16;urban;>3;lower_secondary;lower_secondary;public_services;other;15-30min;2-5h;no;no;yes;yes;good;much;hardly important;medium;6;12;10;11
-GP;M;16;urban;<=3;higher;higher;teacher;healthcare;<15min;2-5h;yes;no;no;no;good;very little;medium;very good;6;9;9;10
-GP;W;16;urban;>3;upper_secondary;upper_secondary;other;other;<15min;5-10h;yes;no;no;yes;good;medium;medium;good;2;9;11;11
-GP;W;15;urban;>3;higher;upper_secondary;public_services;other;<15min;<2h;no;no;yes;yes;good;very much;very important;very bad;6;14;13;13
-GP;W;16;urban;<=3;upper_secondary;primary;other;other;<15min;2-5h;yes;no;no;no;medium;medium;medium;bad;0;12;13;12
-GP;W;16;urban;>3;higher;lower_secondary;teacher;public_services;15-30min;2-5h;yes;no;yes;yes;very good;medium;medium;very bad;2;13;14;14
-GP;M;15;urban;<=3;lower_secondary;lower_secondary;public_services;healthcare;<15min;>10h;yes;no;yes;yes;good;medium;important;good;2;11;12;12
-GP;W;15;rural;>3;primary;primary;at_home;other;15-30min;>10h;yes;yes;yes;yes;medium;very little;hardly important;very bad;4;13;13;13
-GP;M;16;rural;>3;higher;upper_secondary;public_services;other;15-30min;<2h;yes;yes;yes;yes;medium;medium;medium;good;6;9;11;11
-GP;W;16;urban;>3;lower_secondary;primary;other;other;<15min;2-5h;yes;no;no;no;good;medium;very important;very good;0;13;12;12
-GP;W;16;urban;>3;higher;higher;other;other;<15min;<2h;no;no;yes;yes;very good;medium;important;very bad;4;12;13;13
-GP;W;16;urban;>3;higher;upper_secondary;other;at_home;<15min;5-10h;yes;no;no;yes;very good;medium;very important;medium;2;12;13;13
-GP;M;16;urban;>3;higher;higher;public_services;public_services;<15min;<2h;yes;no;yes;yes;good;very much;very important;good;12;9;9;8
-GP;M;16;urban;>3;higher;higher;public_services;teacher;<15min;5-10h;yes;no;yes;yes;good;much;medium;good;0;16;16;16
-GP;M;15;urban;>3;higher;higher;public_services;other;<15min;<2h;yes;yes;yes;yes;very good;medium;medium;very good;2;12;13;12
-GP;W;15;urban;>3;upper_secondary;lower_secondary;public_services;other;15-30min;2-5h;yes;no;no;yes;good;medium;very important;bad;16;11;10;10
-GP;M;15;urban;>3;upper_secondary;higher;public_services;other;<15min;2-5h;yes;no;yes;yes;very good;much;important;very bad;0;16;16;16
-GP;W;15;urban;>3;upper_secondary;upper_secondary;other;healthcare;<15min;>10h;no;no;no;no;good;medium;medium;good;10;10;10;10
-GP;W;15;urban;>3;lower_secondary;lower_secondary;other;other;<15min;>10h;yes;no;no;yes;very good;very little;hardly important;medium;4;10;10;10
-GP;M;16;urban;>3;upper_secondary;upper_secondary;public_services;other;<15min;5-10h;yes;no;yes;yes;very good;medium;medium;very good;4;13;14;14
-GP;M;15;rural;>3;higher;higher;other;other;>60min;>10h;yes;no;yes;yes;very bad;medium;very important;very bad;8;12;10;11
-GP;W;16;urban;<=3;higher;higher;healthcare;healthcare;<15min;5-10h;yes;no;yes;yes;very good;much;very important;good;2;15;15;14
-GP;M;15;urban;<=3;higher;higher;teacher;teacher;<15min;<2h;no;no;yes;yes;very good;very much;medium;good;4;13;14;14
-GP;W;16;rural;>3;upper_secondary;upper_secondary;public_services;other;<15min;5-10h;yes;no;yes;yes;good;very little;hardly important;bad;4;11;11;11
-GP;W;16;urban;>3;lower_secondary;lower_secondary;at_home;other;<15min;2-5h;no;no;yes;yes;medium;very little;hardly important;very good;12;8;10;10
-GP;M;15;urban;<=3;higher;lower_secondary;teacher;other;<15min;<2h;no;no;no;yes;medium;very much;hardly important;medium;10;18;17;18
-GP;M;15;rural;>3;lower_secondary;primary;healthcare;public_services;<15min;2-5h;no;no;yes;yes;very good;much;hardly important;very good;4;10;9;10
-GP;M;16;urban;>3;higher;higher;teacher;teacher;<15min;2-5h;yes;no;yes;yes;very good;much;important;very good;6;16;14;14
-GP;M;15;urban;>3;higher;higher;other;teacher;15-30min;2-5h;yes;no;yes;no;good;much;medium;bad;4;16;15;16
-GP;M;16;urban;>3;upper_secondary;upper_secondary;other;public_services;15-30min;<2h;no;no;yes;yes;very good;much;hardly important;very good;6;14;14;15
-GP;M;17;rural;>3;primary;upper_secondary;other;other;30-60min;2-5h;yes;no;yes;yes;very good;little;important;very good;14;12;11;11
-GP;M;15;urban;>3;upper_secondary;higher;other;other;<15min;<2h;no;no;no;yes;medium;much;medium;good;2;14;13;14
-GP;W;15;urban;>3;primary;lower_secondary;at_home;public_services;<15min;2-5h;no;no;no;yes;medium;little;medium;very bad;0;14;14;14
-GP;M;15;urban;>3;lower_secondary;lower_secondary;public_services;public_services;<15min;>10h;yes;no;yes;yes;very good;very much;important;very good;6;14;13;13
-GP;W;16;urban;<=3;lower_secondary;higher;other;healthcare;15-30min;2-5h;yes;no;yes;yes;good;little;hardly important;very good;2;14;12;13
-GP;M;16;urban;>3;higher;higher;healthcare;other;<15min;<2h;yes;no;yes;yes;medium;much;important;very good;4;12;13;13
-GP;W;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;no;yes;very good;much;important;very good;0;12;11;11
-GP;M;15;urban;>3;upper_secondary;higher;public_services;public_services;<15min;<2h;no;no;no;yes;very good;very much;very important;very good;2;9;9;9
-GP;W;15;urban;<=3;upper_secondary;higher;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;hardly important;very bad;0;10;11;11
-GP;W;19;urban;>3;none;primary;at_home;other;<15min;2-5h;yes;no;no;no;medium;much;hardly important;very good;0;9;10;11
-GP;M;16;rural;>3;higher;higher;teacher;teacher;<15min;<2h;no;no;yes;yes;medium;very much;very important;good;8;14;14;15
-GP;M;16;urban;>3;lower_secondary;upper_secondary;other;other;15-30min;5-10h;yes;no;no;yes;medium;little;medium;very bad;4;13;12;13
-GP;W;15;rural;>3;upper_secondary;higher;public_services;teacher;15-30min;5-10h;yes;no;no;yes;good;little;hardly important;very good;0;10;11;12
-GP;W;18;urban;>3;lower_secondary;primary;public_services;other;<15min;2-5h;yes;no;yes;yes;very good;much;very important;very good;10;10;9;8
-GP;W;17;urban;<=3;lower_secondary;primary;other;other;30-60min;<2h;yes;no;no;yes;medium;little;hardly important;very good;8;11;10;11
-GP;W;15;urban;>3;primary;primary;at_home;other;30-60min;<2h;yes;no;yes;yes;good;medium;medium;good;6;11;12;13
-GP;W;17;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;yes;medium;much;important;very good;2;13;12;12
-GP;W;16;urban;>3;upper_secondary;higher;public_services;other;<15min;<2h;no;no;no;yes;medium;little;not important;very good;12;15;13;14
-GP;M;16;urban;>3;lower_secondary;primary;at_home;other;>60min;<2h;no;no;no;no;medium;little;not important;bad;4;9;9;11
-GP;W;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;no;no;no;no;very good;medium;important;very good;12;13;11;11
-GP;M;15;rural;>3;upper_secondary;higher;at_home;teacher;>60min;2-5h;yes;no;no;no;very good;medium;medium;very good;2;12;11;11
-GP;W;15;urban;>3;higher;higher;public_services;at_home;<15min;5-10h;yes;no;yes;yes;good;medium;medium;very good;4;13;14;15
-GP;M;17;rural;>3;upper_secondary;higher;at_home;other;30-60min;2-5h;no;no;no;no;very good;much;very important;very good;2;10;9;10
-GP;W;16;rural;>3;primary;primary;at_home;other;>60min;2-5h;yes;no;no;no;very good;very little;medium;medium;0;14;13;13
-GP;M;18;urban;<=3;upper_secondary;primary;public_services;public_services;15-30min;<2h;no;no;yes;yes;medium;medium;important;good;2;11;11;12
-GP;W;18;urban;>3;upper_secondary;lower_secondary;other;public_services;<15min;5-10h;yes;no;yes;yes;good;medium;medium;very good;10;12;11;11
-GP;W;16;rural;>3;primary;primary;other;public_services;15-30min;<2h;yes;no;yes;no;medium;medium;medium;very bad;8;12;11;11
-GP;W;16;urban;>3;upper_secondary;upper_secondary;other;other;15-30min;<2h;yes;no;yes;yes;good;medium;hardly important;very good;4;9;9;10
-GP;M;16;urban;<=3;primary;primary;public_services;other;<15min;2-5h;no;no;no;no;good;much;important;very good;0;10;10;10
-GP;W;15;urban;>3;higher;higher;teacher;teacher;15-30min;<2h;no;no;yes;yes;good;medium;hardly important;very good;6;13;14;14
-GP;W;15;rural;>3;primary;primary;other;other;30-60min;<2h;no;no;yes;yes;very good;very much;very important;very bad;2;8;9;9
-GP;M;15;urban;>3;higher;upper_secondary;teacher;public_services;15-30min;>10h;yes;no;no;yes;bad;little;hardly important;medium;6;9;11;11
-GP;W;15;urban;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;2-5h;no;no;no;no;very bad;medium;hardly important;very bad;24;9;8;9
-GP;M;16;urban;>3;higher;higher;public_services;public_services;<15min;5-10h;yes;no;yes;yes;very good;medium;medium;very good;0;15;13;13
-GP;M;16;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;15-30min;<2h;yes;no;yes;yes;bad;medium;medium;bad;4;12;11;11
-GP;W;15;urban;>3;higher;higher;teacher;public_services;<15min;5-10h;yes;no;yes;yes;good;little;hardly important;very good;2;13;13;13
-GP;W;16;urban;<=3;primary;primary;at_home;at_home;<15min;<2h;no;no;no;yes;medium;much;important;very bad;4;10;11;11
-GP;M;17;urban;>3;lower_secondary;primary;other;other;<15min;<2h;yes;no;no;yes;very good;much;very important;very good;22;9;7;6
-GP;W;15;urban;>3;primary;primary;other;public_services;<15min;2-5h;yes;no;no;yes;good;much;hardly important;very good;0;12;12;12
-GP;W;15;urban;<=3;lower_secondary;primary;at_home;other;15-30min;<2h;yes;no;yes;yes;good;much;hardly important;very good;0;11;10;10
-GP;W;15;urban;>3;upper_secondary;lower_secondary;healthcare;public_services;<15min;2-5h;yes;no;no;yes;medium;medium;hardly important;medium;2;11;11;11
-GP;W;15;urban;>3;primary;lower_secondary;at_home;other;<15min;2-5h;yes;no;no;yes;good;medium;hardly important;very good;6;13;12;13
-GP;W;15;urban;>3;primary;lower_secondary;at_home;public_services;<15min;2-5h;no;no;no;no;bad;medium;important;very bad;6;11;11;11
-GP;M;16;urban;>3;higher;higher;teacher;teacher;<15min;<2h;yes;no;no;yes;medium;medium;hardly important;very good;16;9;9;8
-GP;M;15;urban;<=3;lower_secondary;primary;public_services;other;>60min;<2h;no;no;no;yes;good;very much;very important;very good;0;12;11;11
-GP;M;18;urban;<=3;primary;primary;other;other;<15min;<2h;no;no;no;yes;bad;medium;very important;good;0;11;9;0
-GP;M;16;urban;<=3;lower_secondary;primary;at_home;other;<15min;<2h;no;no;yes;no;good;much;important;very good;6;9;10;10
-GP;W;15;rural;>3;upper_secondary;upper_secondary;public_services;public_services;15-30min;5-10h;yes;yes;yes;yes;good;little;not important;medium;2;13;13;13
-GP;M;19;urban;>3;upper_secondary;lower_secondary;public_services;at_home;<15min;<2h;yes;no;no;yes;good;very much;important;good;6;11;9;11
-GP;W;17;urban;>3;higher;higher;other;teacher;<15min;<2h;yes;no;no;no;good;little;not important;good;0;13;13;13
-GP;M;15;rural;>3;lower_secondary;upper_secondary;at_home;public_services;<15min;2-5h;no;yes;yes;no;good;much;important;very bad;0;7;8;8
-GP;M;17;rural;<=3;primary;lower_secondary;other;other;<15min;<2h;no;no;no;no;bad;little;hardly important;very good;14;9;8;10
-GP;W;18;rural;>3;primary;primary;at_home;other;30-60min;<2h;yes;no;yes;no;very good;little;very important;good;6;11;10;11
-GP;M;16;rural;>3;lower_secondary;lower_secondary;at_home;other;30-60min;<2h;no;no;no;no;good;little;hardly important;medium;4;12;10;11
-GP;M;16;urban;>3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;yes;no;no;yes;good;very much;very important;very good;0;10;10;1
-GP;M;16;urban;<=3;primary;lower_secondary;healthcare;public_services;15-30min;<2h;no;no;no;yes;good;much;very important;very good;0;9;8;10
-GP;M;17;rural;<=3;lower_secondary;primary;at_home;other;15-30min;<2h;no;yes;yes;yes;medium;medium;hardly important;very good;8;8;8;9
-GP;M;17;rural;>3;upper_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;no;yes;good;much;important;medium;4;7;6;8
-GP;M;15;urban;<=3;primary;lower_secondary;other;other;15-30min;<2h;no;no;yes;no;good;much;important;very good;2;8;9;10
-GP;M;16;urban;>3;primary;upper_secondary;at_home;public_services;<15min;<2h;no;no;no;yes;very good;medium;medium;bad;2;9;8;8
-GP;M;17;rural;<=3;primary;primary;other;public_services;>60min;2-5h;no;no;yes;no;very good;medium;very important;very good;0;8;8;8
-GP;M;17;urban;>3;upper_secondary;lower_secondary;public_services;public_services;15-30min;<2h;yes;no;yes;no;good;very much;hardly important;bad;10;8;7;8
-GP;M;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;no;yes;good;medium;very important;good;0;9;10;11
-GP;W;16;urban;>3;higher;lower_secondary;healthcare;public_services;<15min;2-5h;no;no;no;yes;good;little;medium;medium;0;17;17;18
-GP;W;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;very good;very little;very important;good;0;12;12;13
-GP;W;16;urban;>3;higher;higher;healthcare;healthcare;<15min;2-5h;yes;no;no;yes;good;much;hardly important;medium;0;16;16;17
-GP;M;16;urban;>3;upper_secondary;higher;other;other;30-60min;<2h;yes;no;yes;yes;medium;much;very important;bad;4;9;9;10
-GP;M;16;urban;>3;primary;none;other;other;15-30min;2-5h;yes;no;yes;yes;good;medium;hardly important;medium;0;16;17;18
-GP;M;17;urban;<=3;higher;higher;teacher;other;<15min;2-5h;yes;no;yes;yes;good;much;important;very good;0;11;9;10
-GP;W;16;urban;>3;primary;upper_secondary;at_home;public_services;<15min;2-5h;no;no;yes;yes;good;medium;very important;medium;0;14;13;13
-GP;W;16;urban;<=3;upper_secondary;upper_secondary;other;other;15-30min;2-5h;yes;no;yes;yes;good;much;very important;good;0;14;14;15
-GP;M;17;urban;<=3;higher;upper_secondary;teacher;other;15-30min;2-5h;no;no;yes;yes;good;much;important;good;0;10;11;11
-GP;W;16;urban;>3;lower_secondary;lower_secondary;public_services;other;15-30min;2-5h;no;no;yes;yes;medium;much;important;very good;0;13;12;14
-GP;M;17;urban;>3;upper_secondary;upper_secondary;other;other;<15min;2-5h;no;no;yes;yes;good;medium;important;good;4;11;9;10
-GP;M;16;rural;>3;higher;lower_secondary;teacher;public_services;<15min;<2h;yes;no;yes;yes;good;medium;medium;medium;8;10;9;11
-GP;M;17;urban;>3;higher;upper_secondary;other;other;<15min;2-5h;yes;yes;yes;yes;very good;little;medium;bad;4;11;11;13
-GP;M;16;urban;>3;higher;upper_secondary;teacher;other;<15min;2-5h;yes;yes;yes;yes;medium;much;medium;medium;4;11;10;11
-GP;M;16;urban;>3;upper_secondary;upper_secondary;public_services;other;<15min;2-5h;no;no;yes;yes;good;little;medium;medium;0;11;12;13
-GP;W;17;urban;>3;lower_secondary;higher;public_services;public_services;<15min;2-5h;yes;no;yes;no;very good;much;hardly important;very good;0;17;18;17
-GP;W;17;urban;<=3;upper_secondary;upper_secondary;other;other;<15min;2-5h;yes;no;yes;yes;very good;medium;medium;very bad;32;14;13;14
-GP;W;16;urban;>3;upper_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;very bad;little;hardly important;very bad;8;14;15;16
-GP;M;17;urban;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;important;good;6;11;13;14
-GP;M;16;urban;>3;primary;lower_secondary;public_services;public_services;<15min;<2h;yes;no;yes;yes;medium;medium;medium;medium;0;10;9;11
-GP;M;16;urban;<=3;lower_secondary;primary;other;other;<15min;2-5h;no;no;yes;yes;good;little;medium;very good;0;13;14;16
-GP;W;17;urban;>3;upper_secondary;upper_secondary;healthcare;other;<15min;2-5h;yes;no;no;yes;medium;medium;medium;medium;10;12;13;14
-GP;M;17;rural;>3;primary;lower_secondary;at_home;other;<15min;2-5h;no;no;no;no;medium;very little;medium;medium;6;9;9;10
-GP;W;16;urban;>3;lower_secondary;upper_secondary;public_services;public_services;<15min;2-5h;no;no;no;yes;good;medium;medium;bad;6;12;12;13
-GP;W;17;urban;>3;primary;primary;at_home;public_services;<15min;2-5h;no;no;yes;yes;very good;medium;medium;medium;0;12;11;12
-GP;M;17;urban;>3;primary;lower_secondary;at_home;public_services;15-30min;2-5h;no;no;yes;yes;good;much;important;very good;16;10;11;12
-GP;M;16;rural;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;<2h;yes;no;yes;yes;good;medium;hardly important;very good;0;11;10;10
-GP;M;16;urban;>3;lower_secondary;upper_secondary;other;other;15-30min;<2h;no;no;no;yes;very good;medium;medium;medium;0;13;12;12
-GP;W;17;urban;<=3;lower_secondary;higher;public_services;public_services;<15min;2-5h;no;no;yes;yes;good;medium;hardly important;very good;8;14;15;16
-GP;M;17;urban;>3;higher;higher;public_services;teacher;<15min;<2h;no;no;no;yes;very good;little;medium;very good;4;13;13;14
-GP;M;16;rural;<=3;upper_secondary;upper_secondary;teacher;other;30-60min;<2h;yes;no;yes;yes;medium;medium;important;medium;16;10;11;12
-GP;W;17;urban;>3;higher;higher;public_services;teacher;15-30min;<2h;yes;no;no;yes;good;little;important;bad;30;14;15;16
-GP;W;16;urban;<=3;higher;higher;teacher;teacher;<15min;2-5h;yes;no;no;yes;good;very much;hardly important;medium;0;11;10;11
-GP;W;16;urban;>3;higher;upper_secondary;healthcare;other;<15min;2-5h;yes;no;yes;yes;good;medium;very important;bad;2;14;14;15
-GP;W;16;urban;>3;lower_secondary;upper_secondary;other;other;<15min;2-5h;yes;no;yes;no;good;much;medium;good;4;11;12;12
-GP;W;17;urban;>3;primary;primary;other;other;<15min;2-5h;yes;no;no;no;good;much;important;very bad;0;14;15;15
-GP;W;17;rural;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;yes;very good;medium;hardly important;medium;21;13;13;13
-GP;W;16;rural;>3;lower_secondary;lower_secondary;public_services;public_services;15-30min;>10h;yes;no;yes;yes;very good;medium;very important;very good;6;13;13;13
-GP;W;17;urban;>3;upper_secondary;higher;at_home;public_services;<15min;5-10h;yes;yes;no;yes;good;much;medium;very good;14;8;9;8
-GP;W;16;urban;>3;upper_secondary;primary;public_services;other;<15min;2-5h;yes;no;no;yes;bad;medium;medium;good;2;11;11;12
-GP;W;16;urban;>3;higher;upper_secondary;teacher;other;<15min;2-5h;no;no;yes;yes;very bad;medium;hardly important;very bad;4;14;15;15
-GP;W;16;urban;>3;primary;primary;at_home;other;15-30min;<2h;yes;no;no;no;good;medium;hardly important;very good;2;12;13;13
-GP;W;17;rural;>3;higher;upper_secondary;teacher;other;15-30min;5-10h;yes;no;yes;yes;good;much;hardly important;good;0;11;12;12
-GP;W;19;urban;>3;upper_secondary;upper_secondary;other;other;<15min;>10h;yes;no;yes;yes;good;medium;medium;medium;4;12;12;12
-GP;M;17;urban;<=3;higher;higher;public_services;other;<15min;2-5h;yes;no;no;yes;very good;medium;very important;medium;15;13;12;12
-GP;W;16;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;medium;medium;important;good;0;13;13;13
-GP;M;18;urban;>3;lower_secondary;lower_secondary;public_services;other;<15min;2-5h;yes;no;yes;yes;good;much;important;very good;10;12;11;11
-GP;W;17;rural;<=3;higher;higher;public_services;other;<15min;<2h;yes;no;no;no;very good;little;not important;medium;6;12;11;11
-GP;W;17;urban;<=3;upper_secondary;lower_secondary;other;other;15-30min;2-5h;no;no;no;yes;good;much;important;very bad;2;14;16;15
-GP;W;17;urban;>3;higher;upper_secondary;other;other;<15min;2-5h;no;no;no;yes;medium;much;very important;very bad;16;11;9;10
-GP;M;18;urban;<=3;upper_secondary;upper_secondary;public_services;healthcare;<15min;2-5h;yes;no;no;yes;medium;little;important;good;10;10;10;10
-GP;W;17;urban;>3;lower_secondary;upper_secondary;at_home;other;15-30min;<2h;yes;no;no;no;medium;medium;medium;medium;4;12;13;13
-GP;W;17;urban;>3;lower_secondary;lower_secondary;at_home;at_home;<15min;5-10h;yes;no;yes;yes;good;medium;medium;good;0;12;12;13
-GP;W;17;rural;>3;lower_secondary;primary;at_home;public_services;15-30min;2-5h;yes;no;yes;yes;good;little;very important;very good;0;11;10;11
-GP;W;17;urban;>3;primary;primary;at_home;other;<15min;5-10h;yes;no;yes;no;good;medium;important;very good;12;12;12;12
-GP;W;16;urban;>3;lower_secondary;upper_secondary;public_services;teacher;<15min;2-5h;no;no;no;yes;bad;medium;not important;medium;0;13;13;14
-GP;M;18;urban;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;yes;no;yes;medium;medium;medium;good;9;10;9;10
-GP;W;16;urban;>3;higher;higher;teacher;public_services;<15min;5-10h;yes;no;yes;yes;very good;medium;hardly important;very good;4;15;16;16
-GP;W;18;rural;>3;upper_secondary;primary;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;medium;good;4;8;8;8
-GP;W;17;urban;>3;upper_secondary;lower_secondary;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;important;medium;2;17;18;17
-GP;M;17;urban;<=3;lower_secondary;upper_secondary;public_services;public_services;<15min;2-5h;yes;no;no;yes;very good;medium;medium;medium;0;10;11;11
-GP;M;18;urban;<=3;lower_secondary;primary;at_home;other;>60min;2-5h;yes;no;yes;yes;good;medium;hardly important;medium;2;9;10;11
-GP;W;17;urban;>3;lower_secondary;primary;other;other;15-30min;5-10h;no;no;yes;yes;medium;little;medium;medium;0;15;15;16
-GP;W;17;urban;<=3;higher;upper_secondary;healthcare;other;<15min;2-5h;no;no;yes;yes;medium;little;medium;medium;0;14;12;12
-GP;M;17;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;yes;yes;good;very much;hardly important;very bad;0;12;13;13
-GP;M;17;urban;>3;higher;higher;teacher;teacher;<15min;2-5h;yes;no;yes;yes;good;very much;very important;bad;0;13;13;13
-GP;M;16;urban;>3;higher;higher;healthcare;other;<15min;2-5h;yes;no;yes;yes;good;little;important;very bad;0;13;13;14
-GP;M;16;urban;<=3;primary;primary;other;other;15-30min;2-5h;yes;no;no;yes;medium;much;hardly important;very good;2;9;9;9
-GP;M;16;urban;>3;upper_secondary;lower_secondary;at_home;other;15-30min;5-10h;no;no;yes;yes;very good;medium;medium;bad;0;12;12;12
-GP;M;17;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;yes;yes;good;much;hardly important;good;0;16;16;16
-GP;W;16;urban;>3;lower_secondary;primary;other;other;<15min;<2h;no;no;no;yes;good;very much;hardly important;very good;4;9;10;10
-GP;W;16;urban;>3;higher;primary;other;other;<15min;2-5h;no;no;yes;yes;very good;medium;medium;very good;0;14;13;13
-GP;W;18;urban;<=3;lower_secondary;higher;public_services;other;15-30min;2-5h;yes;no;no;yes;good;medium;medium;medium;18;10;10;10
-GP;W;18;urban;<=3;lower_secondary;lower_secondary;at_home;public_services;<15min;2-5h;yes;no;no;yes;very good;medium;not important;very good;16;9;8;10
-GP;W;18;urban;>3;upper_secondary;upper_secondary;other;other;15-30min;<2h;no;no;no;yes;good;very little;not important;medium;14;8;7;7
-GP;M;18;urban;>3;lower_secondary;lower_secondary;other;at_home;<15min;<2h;yes;no;yes;yes;good;much;medium;very bad;26;7;8;8
-GP;M;17;urban;>3;higher;higher;teacher;teacher;<15min;<2h;yes;no;yes;yes;good;little;not important;very good;6;10;8;9
-GP;W;17;urban;>3;upper_secondary;lower_secondary;other;other;<15min;2-5h;no;no;yes;no;very good;much;hardly important;medium;4;14;14;15
-GP;W;17;urban;<=3;primary;primary;at_home;at_home;<15min;5-10h;yes;no;yes;yes;good;medium;hardly important;good;10;11;10;10
-GP;W;16;urban;>3;primary;lower_secondary;other;other;<15min;<2h;no;no;no;yes;very good;medium;very important;very good;4;12;11;11
-GP;W;17;rural;>3;lower_secondary;primary;at_home;public_services;30-60min;2-5h;no;no;yes;no;bad;very little;not important;medium;2;13;13;13
-GP;W;17;rural;<=3;primary;higher;other;other;>60min;<2h;yes;no;no;yes;very good;very much;important;very good;14;9;9;8
-GP;M;18;urban;>3;lower_secondary;lower_secondary;other;public_services;<15min;2-5h;no;no;no;yes;very good;very much;important;bad;16;8;7;8
-GP;W;17;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;yes;medium;very little;hardly important;very bad;8;11;9;10
-GP;W;17;rural;<=3;primary;primary;at_home;other;15-30min;5-10h;no;no;yes;yes;good;medium;medium;very good;4;15;14;15
-GP;W;17;urban;<=3;higher;lower_secondary;teacher;other;<15min;2-5h;yes;no;yes;no;good;medium;hardly important;good;4;15;14;14
-GP;M;17;urban;<=3;higher;upper_secondary;healthcare;other;15-30min;2-5h;no;no;yes;yes;bad;very much;very important;very good;8;15;15;15
-GP;M;17;rural;<=3;higher;higher;teacher;other;15-30min;2-5h;yes;no;no;yes;medium;medium;medium;good;0;12;12;12
-GP;M;16;urban;<=3;higher;upper_secondary;teacher;other;<15min;<2h;no;no;yes;yes;very good;much;very important;medium;7;14;14;15
-GP;M;16;urban;>3;higher;higher;public_services;public_services;<15min;<2h;no;yes;yes;yes;very good;medium;hardly important;very good;4;14;15;15
-GP;W;17;urban;>3;higher;higher;teacher;public_services;<15min;2-5h;yes;yes;no;yes;very good;medium;not important;very good;2;11;11;12
-GP;M;17;rural;>3;primary;primary;other;other;15-30min;5-10h;no;no;no;yes;good;medium;medium;very bad;2;13;14;15
-GP;W;17;urban;>3;upper_secondary;upper_secondary;public_services;other;15-30min;5-10h;yes;no;no;yes;good;little;hardly important;very good;10;11;11;11
-GP;W;17;urban;>3;primary;primary;at_home;other;<15min;2-5h;no;no;no;no;good;medium;hardly important;good;10;10;9;10
-GP;W;18;urban;>3;lower_secondary;primary;other;other;15-30min;5-10h;yes;no;no;yes;good;much;important;medium;10;12;10;11
-GP;M;16;urban;>3;lower_secondary;primary;other;other;30-60min;<2h;no;no;no;yes;good;medium;medium;good;7;15;16;16
-GP;W;17;urban;>3;primary;primary;other;public_services;<15min;2-5h;yes;no;no;no;good;medium;important;very good;4;11;10;11
-GP;M;17;urban;>3;lower_secondary;upper_secondary;other;other;15-30min;<2h;no;no;no;yes;very good;little;hardly important;bad;2;9;12;13
-GP;M;22;urban;>3;upper_secondary;primary;public_services;public_services;<15min;<2h;no;no;no;yes;very good;much;very important;very bad;12;7;8;5
-GP;M;18;rural;<=3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;yes;no;no;yes;good;medium;medium;very good;8;10;9;10
-GP;M;16;urban;>3;none;lower_secondary;other;other;<15min;<2h;no;no;no;yes;good;medium;hardly important;very good;0;11;12;11
-GP;M;18;urban;>3;upper_secondary;lower_secondary;public_services;other;15-30min;<2h;no;no;no;yes;good;much;very important;very good;8;7;8;7
-GP;M;16;urban;>3;upper_secondary;upper_secondary;at_home;other;30-60min;2-5h;yes;no;no;yes;very good;medium;medium;bad;4;9;11;10
-GP;M;18;urban;>3;lower_secondary;primary;public_services;public_services;<15min;<2h;no;no;no;yes;medium;little;very important;very good;4;7;8;6
-GP;M;16;rural;>3;lower_secondary;primary;other;other;15-30min;<2h;no;no;yes;no;medium;medium;hardly important;medium;2;14;13;12
-GP;M;17;rural;>3;lower_secondary;primary;other;other;<15min;<2h;no;no;no;yes;good;much;hardly important;very good;0;12;12;13
-GP;M;17;urban;<=3;primary;primary;healthcare;other;15-30min;<2h;yes;no;yes;yes;good;much;important;very good;0;9;10;10
-GP;W;18;urban;<=3;lower_secondary;primary;other;other;<15min;2-5h;yes;no;no;yes;good;medium;important;very good;2;12;12;13
-GP;W;17;urban;<=3;higher;lower_secondary;teacher;public_services;<15min;>10h;yes;no;yes;yes;good;little;medium;good;2;14;15;17
-GP;W;19;urban;>3;lower_secondary;lower_secondary;public_services;public_services;<15min;2-5h;yes;no;no;yes;good;medium;medium;very good;0;10;10;11
-GP;M;18;urban;<=3;lower_secondary;primary;public_services;other;30-60min;2-5h;no;no;yes;yes;good;much;very important;very good;4;11;10;11
-GP;W;17;rural;>3;higher;lower_secondary;other;other;<15min;5-10h;yes;no;yes;yes;good;medium;important;very good;2;11;12;14
-GP;W;18;urban;<=3;primary;primary;other;at_home;<15min;5-10h;yes;no;no;no;good;much;medium;medium;4;11;12;14
-GP;W;18;rural;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;no;no;medium;little;medium;very good;4;11;11;13
-GP;M;19;urban;<=3;higher;upper_secondary;public_services;at_home;<15min;2-5h;yes;no;no;yes;good;medium;not important;very bad;4;11;13;14
-GP;M;18;urban;>3;lower_secondary;primary;other;other;<15min;2-5h;no;no;yes;yes;very good;little;important;good;2;16;16;16
-GP;M;17;rural;>3;lower_secondary;lower_secondary;other;public_services;15-30min;<2h;no;no;no;no;very good;little;hardly important;good;0;9;10;10
-GP;W;17;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;<15min;>10h;no;no;yes;yes;medium;much;not important;bad;2;10;11;12
-GP;W;20;rural;>3;lower_secondary;primary;other;other;15-30min;2-5h;yes;yes;yes;yes;very bad;little;medium;bad;8;10;12;12
-GP;W;18;urban;>3;higher;upper_secondary;public_services;other;<15min;2-5h;yes;no;no;yes;medium;very little;hardly important;bad;2;15;15;15
-GP;M;18;urban;>3;higher;upper_secondary;teacher;other;<15min;2-5h;yes;no;no;yes;good;medium;hardly important;medium;2;10;10;11
-GP;M;18;rural;>3;upper_secondary;lower_secondary;other;other;<15min;5-10h;no;no;yes;no;very good;medium;hardly important;medium;2;10;11;12
-GP;W;17;urban;>3;upper_secondary;upper_secondary;other;other;<15min;5-10h;no;no;yes;no;medium;little;medium;good;2;15;12;13
-GP;W;18;urban;>3;lower_secondary;lower_secondary;at_home;public_services;<15min;5-10h;yes;no;yes;yes;good;medium;medium;medium;0;11;12;13
-GP;M;17;urban;>3;lower_secondary;lower_secondary;other;other;15-30min;<2h;no;no;no;yes;good;much;important;good;8;8;8;9
-GP;M;18;rural;<=3;upper_secondary;higher;other;other;15-30min;2-5h;yes;no;yes;yes;good;little;very important;very bad;6;15;16;16
-GP;M;17;urban;>3;upper_secondary;primary;public_services;other;<15min;2-5h;no;no;yes;yes;very good;much;important;very good;0;11;11;14
-GP;W;18;rural;>3;higher;higher;teacher;other;15-30min;2-5h;no;no;yes;yes;good;medium;important;good;8;10;11;12
-GP;M;18;urban;>3;higher;lower_secondary;healthcare;other;<15min;2-5h;yes;no;yes;yes;very good;much;very important;very good;4;10;12;14
-GP;W;18;rural;>3;lower_secondary;primary;other;other;15-30min;2-5h;yes;no;no;yes;good;medium;very important;medium;12;8;9;10
-GP;W;19;urban;>3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;very important;very good;16;11;12;12
-GP;W;18;urban;>3;lower_secondary;upper_secondary;other;public_services;<15min;>10h;yes;no;yes;yes;good;very much;very important;bad;10;16;16;16
-GP;W;18;urban;<=3;primary;primary;other;other;15-30min;2-5h;yes;no;no;no;good;much;medium;medium;2;13;13;13
-GP;M;17;rural;>3;primary;lower_secondary;at_home;at_home;<15min;2-5h;yes;no;yes;no;medium;very much;hardly important;very bad;2;16;17;18
-GP;W;18;urban;>3;lower_secondary;primary;other;other;<15min;2-5h;yes;no;no;yes;good;little;very important;very bad;8;14;14;15
-GP;W;17;urban;>3;lower_secondary;higher;at_home;healthcare;15-30min;2-5h;yes;no;no;yes;good;medium;medium;very bad;6;15;16;16
-GP;W;17;urban;<=3;lower_secondary;lower_secondary;public_services;other;15-30min;2-5h;yes;no;no;yes;good;much;important;very good;6;12;12;12
-GP;W;18;rural;>3;upper_secondary;lower_secondary;other;public_services;15-30min;2-5h;no;no;no;yes;good;very little;not important;very good;15;12;9;10
-GP;M;18;urban;>3;higher;higher;teacher;public_services;15-30min;<2h;no;no;yes;yes;medium;little;important;medium;6;11;12;12
-GP;W;18;urban;>3;higher;higher;healthcare;healthcare;<15min;2-5h;yes;no;yes;yes;bad;much;important;good;2;14;12;13
-GP;W;17;urban;>3;lower_secondary;lower_secondary;other;public_services;30-60min;5-10h;yes;no;no;yes;good;little;medium;very bad;8;13;15;15
-GP;W;19;rural;>3;upper_secondary;lower_secondary;public_services;public_services;<15min;2-5h;yes;no;no;yes;medium;medium;medium;medium;0;9;8;10
-GP;M;18;urban;<=3;higher;upper_secondary;teacher;public_services;15-30min;<2h;no;no;yes;yes;good;little;medium;very bad;0;10;10;10
-GP;M;18;urban;>3;primary;lower_secondary;at_home;other;15-30min;<2h;no;no;no;yes;medium;much;important;good;10;10;10;11
-GP;M;17;urban;<=3;higher;primary;public_services;other;15-30min;<2h;no;no;yes;yes;good;very much;important;very good;22;11;11;10
-GP;M;17;urban;<=3;upper_secondary;lower_secondary;teacher;public_services;<15min;<2h;no;no;no;yes;good;much;important;medium;18;13;13;13
-GP;W;18;rural;<=3;primary;primary;at_home;other;15-30min;>10h;yes;no;yes;no;very good;little;hardly important;medium;2;17;17;18
-GP;W;18;urban;>3;primary;primary;other;other;15-30min;2-5h;no;no;yes;yes;very good;much;important;good;0;12;13;13
-GP;W;17;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;very good;much;very important;very good;12;12;12;14
-GP;W;18;urban;>3;lower_secondary;primary;other;other;15-30min;2-5h;no;no;yes;yes;good;medium;not important;very good;10;12;13;14
-GP;M;17;urban;>3;primary;primary;other;other;<15min;2-5h;no;no;no;yes;good;medium;medium;good;0;12;12;12
-GP;W;18;urban;>3;lower_secondary;lower_secondary;at_home;at_home;<15min;5-10h;yes;no;no;yes;good;medium;medium;bad;0;18;18;18
-GP;W;17;urban;>3;primary;primary;public_services;teacher;<15min;5-10h;yes;no;no;yes;good;medium;medium;medium;0;13;13;14
-GP;M;18;urban;>3;lower_secondary;primary;public_services;public_services;<15min;5-10h;no;no;yes;yes;good;little;important;bad;0;14;15;15
-GP;M;18;urban;<=3;higher;higher;teacher;teacher;<15min;2-5h;yes;no;yes;yes;very good;much;medium;bad;0;17;17;17
-GP;M;18;urban;>3;higher;lower_secondary;teacher;other;<15min;2-5h;yes;no;yes;yes;good;medium;hardly important;very good;2;15;16;16
-GP;W;17;urban;>3;higher;upper_secondary;healthcare;public_services;<15min;5-10h;yes;no;no;yes;good;little;hardly important;medium;0;17;18;18
-GP;W;17;rural;<=3;upper_secondary;primary;public_services;other;15-30min;>10h;yes;no;no;no;medium;very little;hardly important;medium;0;18;19;19
-GP;M;18;rural;<=3;upper_secondary;lower_secondary;public_services;other;15-30min;5-10h;yes;no;yes;yes;very good;much;hardly important;good;0;14;15;15
-GP;M;17;urban;>3;upper_secondary;upper_secondary;healthcare;other;<15min;<2h;yes;no;no;yes;good;much;medium;very good;0;14;15;15
-GP;W;19;urban;>3;higher;higher;healthcare;other;15-30min;2-5h;yes;no;yes;yes;bad;medium;important;bad;2;14;13;13
-GP;W;18;urban;<=3;higher;upper_secondary;other;other;15-30min;2-5h;yes;no;no;yes;good;much;very important;bad;0;13;14;14
-GP;W;18;urban;>3;higher;upper_secondary;other;other;<15min;>10h;yes;no;no;yes;good;medium;medium;medium;0;16;17;17
-GP;M;18;urban;<=3;higher;higher;teacher;teacher;<15min;<2h;yes;no;no;yes;very bad;much;hardly important;very bad;0;18;18;17
-GP;W;18;urban;<=3;higher;higher;healthcare;other;<15min;2-5h;yes;yes;no;yes;good;little;important;good;0;14;15;15
-GP;M;17;urban;<=3;higher;higher;other;teacher;15-30min;<2h;no;no;no;yes;good;very little;not important;very good;0;12;13;13
-GP;W;17;rural;>3;higher;higher;public_services;public_services;15-30min;5-10h;yes;no;yes;yes;very good;medium;important;very good;0;7;7;8
-GP;W;17;urban;>3;higher;lower_secondary;other;other;15-30min;5-10h;yes;no;no;yes;good;medium;medium;medium;0;16;16;16
-GP;W;17;urban;>3;upper_secondary;lower_secondary;healthcare;healthcare;<15min;>10h;yes;no;yes;yes;very good;little;hardly important;very good;0;18;18;18
-GP;M;19;rural;<=3;lower_secondary;primary;at_home;public_services;15-30min;5-10h;no;no;yes;yes;good;medium;not important;very good;0;9;10;11
-GP;M;20;urban;>3;upper_secondary;lower_secondary;public_services;other;<15min;<2h;no;no;yes;no;very good;very much;medium;very good;0;14;15;15
-GP;M;19;rural;>3;upper_secondary;upper_secondary;other;public_services;<15min;2-5h;no;no;yes;no;good;very much;medium;very good;0;10;10;11
-GP;W;18;urban;>3;primary;higher;other;teacher;<15min;2-5h;yes;no;no;no;medium;much;important;very good;2;10;10;11
-GP;W;18;urban;>3;lower_secondary;primary;public_services;other;15-30min;2-5h;yes;no;yes;yes;very good;medium;medium;very bad;2;12;12;15
-GP;W;17;urban;>3;lower_secondary;upper_secondary;other;other;15-30min;2-5h;no;no;yes;yes;good;little;not important;medium;2;11;12;14
-GP;W;17;rural;>3;higher;higher;teacher;teacher;<15min;<2h;no;no;yes;yes;good;much;important;very good;2;15;16;17
-GP;W;18;urban;>3;higher;upper_secondary;other;other;<15min;5-10h;yes;no;yes;yes;good;medium;important;very good;2;14;15;17
-GP;W;18;urban;<=3;higher;upper_secondary;healthcare;public_services;15-30min;<2h;yes;no;no;yes;medium;little;important;very bad;8;12;12;15
-GP;W;17;rural;>3;upper_secondary;higher;at_home;public_services;<15min;5-10h;yes;no;yes;yes;good;medium;important;very good;2;15;15;17
-GP;W;18;urban;>3;upper_secondary;upper_secondary;at_home;other;<15min;2-5h;yes;no;no;yes;good;very little;important;medium;8;11;12;14
-GP;M;19;urban;>3;higher;lower_secondary;healthcare;other;15-30min;2-5h;yes;no;yes;yes;very good;much;important;very bad;9;11;10;10
-GP;W;18;urban;>3;higher;higher;teacher;other;<15min;2-5h;yes;no;no;yes;good;much;important;very good;0;12;11;13
-GP;W;18;urban;>3;upper_secondary;higher;other;other;<15min;<2h;yes;no;yes;yes;very good;much;important;very bad;4;11;12;14
-GP;W;17;urban;>3;higher;higher;healthcare;healthcare;<15min;<2h;no;no;yes;yes;very good;medium;important;very good;2;14;15;17
-GP;W;17;urban;>3;higher;upper_secondary;public_services;public_services;<15min;2-5h;yes;no;no;yes;very good;little;hardly important;very good;14;15;14;17
-GP;W;17;urban;<=3;upper_secondary;upper_secondary;public_services;other;<15min;2-5h;yes;no;no;yes;very good;medium;medium;very good;0;12;12;13
-GP;W;17;urban;<=3;lower_secondary;primary;other;other;<15min;2-5h;no;no;yes;yes;good;little;medium;bad;2;11;12;14
-GP;M;18;urban;<=3;higher;higher;other;other;<15min;<2h;yes;no;no;yes;good;little;very important;very good;2;8;9;11
-GP;W;19;urban;>3;primary;primary;other;other;30-60min;5-10h;no;no;yes;no;very bad;very much;very important;very good;12;10;10;11
-GP;W;19;urban;<=3;primary;primary;other;other;30-60min;2-5h;yes;no;no;yes;very good;medium;important;good;2;8;8;9
-GP;W;18;urban;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;yes;yes;good;medium;very important;very good;2;10;10;10
-GP;W;17;urban;>3;lower_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;no;good;little;hardly important;medium;4;14;13;13
-GP;W;17;rural;<=3;lower_secondary;lower_secondary;public_services;public_services;<15min;5-10h;yes;no;yes;yes;medium;medium;hardly important;medium;0;11;11;10
-GP;W;17;urban;>3;upper_secondary;primary;public_services;public_services;<15min;5-10h;yes;no;no;yes;medium;much;medium;very good;0;17;18;17
-GP;W;17;urban;<=3;none;lower_secondary;at_home;at_home;15-30min;5-10h;no;no;no;yes;medium;medium;medium;bad;0;14;14;15
-GP;W;18;urban;>3;primary;primary;other;other;15-30min;5-10h;no;no;yes;yes;good;very much;very important;bad;0;14;14;14
-GP;M;18;urban;>3;higher;higher;other;other;<15min;5-10h;no;no;yes;yes;good;medium;medium;medium;0;13;14;13
-GP;M;17;urban;>3;upper_secondary;upper_secondary;other;public_services;<15min;<2h;no;no;yes;yes;good;medium;very important;very good;0;17;18;17
-GP;M;17;rural;>3;lower_secondary;lower_secondary;public_services;other;>60min;<2h;yes;no;no;yes;good;much;very important;good;2;11;10;10
-GP;W;17;urban;>3;higher;higher;teacher;public_services;<15min;5-10h;yes;no;yes;yes;very good;much;important;good;0;13;12;13
-GP;W;17;urban;>3;higher;higher;teacher;teacher;15-30min;5-10h;yes;no;no;yes;good;medium;medium;good;4;15;14;15
-GP;W;17;urban;>3;upper_secondary;upper_secondary;at_home;other;<15min;<2h;yes;yes;yes;yes;good;little;very important;very good;2;11;12;11
-GP;M;18;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;>10h;yes;yes;yes;yes;good;very much;very important;very good;0;11;11;12
-GP;M;19;rural;>3;upper_secondary;lower_secondary;at_home;public_services;<15min;<2h;yes;no;no;no;very good;medium;important;very good;0;11;10;10
-GP;W;18;urban;>3;lower_secondary;lower_secondary;at_home;other;>60min;2-5h;no;no;yes;no;good;little;very important;bad;2;10;9;10
-GP;W;17;rural;>3;lower_secondary;higher;at_home;other;<15min;5-10h;yes;no;no;yes;good;much;medium;very good;0;15;15;15
-GP;M;18;urban;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;no;no;no;yes;very good;much;hardly important;very good;6;15;14;15
-GP;W;18;urban;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;2-5h;no;no;yes;yes;very good;medium;important;good;8;10;11;12
-GP;W;18;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;2-5h;no;no;yes;yes;good;medium;medium;bad;0;10;9;12
-GP;W;18;rural;>3;lower_secondary;lower_secondary;at_home;other;15-30min;>10h;no;no;yes;no;good;much;important;good;6;14;13;14
-GP;W;17;urban;>3;upper_secondary;higher;public_services;other;<15min;5-10h;no;no;no;yes;good;much;very important;very good;8;11;13;14
-GP;W;17;urban;>3;upper_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;good;medium;hardly important;bad;0;12;13;15
-GP;W;18;urban;<=3;upper_secondary;upper_secondary;public_services;public_services;<15min;>10h;yes;no;no;yes;very good;medium;medium;very bad;4;14;14;15
-GP;W;17;rural;>3;upper_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;good;medium;medium;bad;0;14;14;16
-GP;M;18;urban;>3;higher;higher;teacher;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;medium;bad;0;12;12;13
-GP;M;18;urban;<=3;upper_secondary;higher;public_services;other;<15min;2-5h;no;no;yes;yes;good;medium;medium;very good;6;16;16;17
-GP;W;17;urban;>3;lower_secondary;lower_secondary;at_home;at_home;<15min;2-5h;yes;no;no;yes;medium;medium;not important;good;18;10;12;14
-GP;W;18;urban;>3;lower_secondary;upper_secondary;at_home;other;<15min;5-10h;yes;no;no;yes;good;medium;medium;medium;0;11;12;14
-GP;W;18;urban;>3;upper_secondary;lower_secondary;other;public_services;<15min;5-10h;no;no;no;yes;very good;much;medium;very bad;4;14;16;17
-GP;M;18;rural;>3;higher;upper_secondary;teacher;public_services;<15min;5-10h;no;no;no;yes;very good;medium;hardly important;good;4;15;14;17
-GP;M;18;urban;>3;higher;upper_secondary;teacher;other;<15min;5-10h;yes;no;no;yes;very good;much;very important;very good;0;14;13;14
-GP;W;17;urban;>3;higher;upper_secondary;healthcare;other;<15min;5-10h;yes;no;yes;yes;good;much;medium;good;0;11;12;13
-GP;W;17;urban;>3;lower_secondary;primary;public_services;other;15-30min;2-5h;yes;no;yes;yes;good;medium;important;very bad;10;12;15;15
-GP;W;17;urban;>3;lower_secondary;primary;public_services;other;<15min;2-5h;yes;no;yes;yes;good;medium;very important;good;4;12;16;16
-GP;W;19;urban;<=3;lower_secondary;upper_secondary;at_home;other;15-30min;<2h;no;no;no;yes;bad;little;medium;very good;16;10;11;11
-GP;W;17;urban;>3;upper_secondary;primary;other;at_home;<15min;<2h;yes;yes;no;yes;good;very little;hardly important;medium;6;10;13;13
-GP;W;21;urban;<=3;higher;higher;other;other;<15min;5-10h;no;yes;yes;yes;medium;medium;hardly important;very good;0;9;12;12
-GP;M;18;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;<15min;2-5h;yes;no;yes;yes;good;much;important;medium;11;9;11;12
-GP;M;18;urban;<=3;upper_secondary;higher;other;other;<15min;2-5h;no;no;yes;yes;good;medium;very important;bad;9;13;14;15
-GP;W;17;urban;>3;lower_secondary;lower_secondary;public_services;public_services;<15min;2-5h;yes;no;yes;yes;good;medium;important;good;0;13;17;17
-GP;M;17;urban;<=3;higher;higher;healthcare;other;<15min;5-10h;yes;no;no;yes;good;much;hardly important;good;2;12;15;15
-GP;W;18;urban;<=3;higher;lower_secondary;teacher;other;<15min;2-5h;yes;no;yes;yes;good;little;hardly important;medium;0;14;17;17
-GP;M;21;rural;<=3;primary;primary;at_home;other;15-30min;2-5h;yes;no;yes;yes;very good;medium;medium;good;21;9;10;10
-GP;W;20;rural;>3;primary;primary;other;other;15-30min;5-10h;no;no;no;yes;medium;little;hardly important;medium;8;11;15;15
-GP;W;19;urban;>3;higher;higher;teacher;other;<15min;<2h;yes;no;no;yes;medium;little;very important;very good;5;9;10;11
-GP;M;17;urban;<=3;upper_secondary;lower_secondary;other;other;<15min;2-5h;yes;no;no;yes;good;much;important;very good;10;16;18;18
-GP;W;18;urban;>3;upper_secondary;lower_secondary;at_home;other;<15min;5-10h;yes;no;no;yes;good;medium;important;bad;5;14;17;17
-GP;M;18;rural;>3;lower_secondary;upper_secondary;other;public_services;<15min;<2h;no;no;no;yes;medium;very little;medium;good;13;13;14;14
-GP;M;19;urban;>3;lower_secondary;primary;other;other;<15min;<2h;no;no;no;yes;very good;medium;important;good;10;7;11;11
-GP;W;18;urban;<=3;lower_secondary;lower_secondary;public_services;other;15-30min;2-5h;yes;no;no;yes;good;very little;important;good;10;14;17;17
-GP;W;20;urban;>3;primary;none;other;other;15-30min;<2h;no;no;no;yes;very good;medium;not important;very good;5;8;10;10
-GP;W;18;urban;>3;upper_secondary;lower_secondary;public_services;other;<15min;2-5h;yes;no;yes;yes;medium;very little;hardly important;very bad;4;10;13;13
-MS;W;16;urban;>3;primary;upper_secondary;at_home;other;15-30min;<2h;yes;no;no;yes;good;medium;medium;very good;11;10;11;11
-MS;W;16;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;yes;yes;good;much;important;very good;0;12;12;12
-MS;W;15;rural;>3;primary;primary;at_home;public_services;<15min;<2h;yes;no;no;no;good;very little;medium;bad;6;10;10;10
-MS;W;15;rural;>3;upper_secondary;upper_secondary;at_home;other;15-30min;<2h;yes;no;no;yes;very good;much;important;very good;4;10;10;11
-MS;W;16;rural;>3;lower_secondary;upper_secondary;at_home;public_services;15-30min;2-5h;no;no;no;no;good;very much;hardly important;very good;0;16;17;17
-MS;W;15;rural;<=3;lower_secondary;primary;at_home;other;15-30min;<2h;no;no;no;no;very bad;medium;important;very bad;0;6;8;9
-MS;M;16;rural;<=3;higher;higher;at_home;other;<15min;2-5h;yes;no;no;no;very good;medium;hardly important;bad;5;10;11;11
-MS;M;16;urban;>3;primary;lower_secondary;other;other;<15min;5-10h;no;no;no;yes;good;much;medium;very good;0;10;11;11
-MS;W;17;rural;>3;upper_secondary;lower_secondary;at_home;other;<15min;2-5h;no;no;no;no;good;very much;important;very good;0;10;10;10
-MS;W;17;rural;>3;primary;primary;other;other;<15min;<2h;yes;no;no;yes;very good;much;important;very good;0;6;6;7
-MS;W;15;rural;>3;higher;higher;teacher;other;15-30min;<2h;no;no;no;yes;very bad;very much;not important;very good;0;13;14;14
-MS;W;16;urban;<=3;lower_secondary;lower_secondary;at_home;other;15-30min;>10h;no;no;yes;no;very bad;little;not important;very bad;4;10;9;11
-MS;W;15;rural;<=3;primary;primary;at_home;public_services;15-30min;2-5h;yes;no;no;yes;very good;much;medium;good;0;10;10;10
-MS;W;15;rural;<=3;primary;primary;other;public_services;15-30min;<2h;yes;no;no;yes;good;much;medium;bad;4;6;7;8
-MS;W;16;rural;>3;none;lower_secondary;other;other;15-30min;<2h;yes;no;yes;no;medium;little;medium;bad;0;12;11;12
-MS;W;17;rural;>3;lower_secondary;upper_secondary;other;other;15-30min;<2h;yes;no;no;yes;very good;very much;very important;medium;2;10;11;12
-MS;W;15;rural;>3;upper_secondary;upper_secondary;other;public_services;15-30min;<2h;no;no;no;yes;good;very little;medium;good;0;14;16;16
-MS;M;16;urban;>3;primary;primary;at_home;public_services;15-30min;2-5h;yes;no;yes;no;very good;much;very important;medium;0;7;0;0
-MS;M;17;urban;>3;primary;primary;other;other;<15min;2-5h;no;yes;no;yes;good;much;medium;very good;4;8;9;9
-MS;M;15;rural;<=3;higher;primary;healthcare;public_services;<15min;2-5h;yes;no;yes;yes;very good;medium;important;bad;0;12;13;14
-MS;M;15;rural;<=3;higher;primary;healthcare;public_services;<15min;2-5h;yes;no;yes;yes;very good;medium;important;bad;7;7;9;8
-MS;M;16;rural;>3;upper_secondary;higher;other;healthcare;30-60min;2-5h;no;no;no;no;medium;much;very important;very good;4;9;10;11
-MS;M;15;rural;>3;primary;primary;other;other;>60min;2-5h;yes;no;yes;no;very good;much;very important;good;8;7;9;9
-MS;M;15;urban;<=3;upper_secondary;upper_secondary;at_home;at_home;<15min;2-5h;yes;no;yes;yes;very good;medium;medium;very good;0;11;11;11
-MS;M;17;rural;>3;lower_secondary;primary;other;other;30-60min;<2h;no;no;yes;no;very good;very much;very important;medium;8;8;10;9
-MS;W;16;rural;>3;higher;higher;teacher;teacher;15-30min;5-10h;no;no;yes;yes;good;little;hardly important;good;6;16;16;17
-MS;W;15;rural;>3;primary;lower_secondary;other;public_services;15-30min;<2h;no;no;no;no;very good;very little;hardly important;very bad;3;11;13;13
-MS;W;16;rural;>3;lower_secondary;upper_secondary;other;public_services;30-60min;2-5h;yes;no;no;yes;good;very much;important;very bad;2;15;15;15
-MS;M;16;rural;>3;primary;lower_secondary;other;other;15-30min;2-5h;no;no;no;no;good;medium;medium;very good;0;10;11;11
-MS;W;16;rural;>3;lower_secondary;lower_secondary;other;other;30-60min;2-5h;yes;no;no;yes;good;much;very important;good;4;9;10;11
-MS;W;16;urban;>3;primary;lower_secondary;other;public_services;<15min;5-10h;yes;no;no;no;very bad;medium;hardly important;good;0;10;8;8
-MS;W;16;urban;>3;primary;lower_secondary;other;public_services;<15min;5-10h;yes;no;no;no;very bad;medium;hardly important;good;3;9;8;8
-MS;W;15;urban;>3;lower_secondary;primary;at_home;other;<15min;2-5h;yes;no;no;yes;good;much;hardly important;bad;0;9;10;9
-MS;W;16;urban;>3;primary;primary;at_home;other;<15min;2-5h;yes;no;no;no;very good;much;medium;bad;0;13;14;15
-MS;M;17;rural;<=3;primary;lower_secondary;at_home;public_services;<15min;<2h;yes;no;yes;yes;very good;very much;very important;medium;4;10;11;11
-MS;W;16;rural;>3;primary;primary;other;other;>60min;>10h;yes;no;no;yes;good;medium;hardly important;very bad;0;13;10;13
-MS;W;16;rural;>3;primary;primary;at_home;other;>60min;5-10h;yes;no;no;no;good;much;medium;very good;2;10;9;10
-MS;W;15;rural;>3;primary;primary;at_home;other;15-30min;2-5h;yes;no;yes;yes;good;medium;medium;bad;1;11;10;11
-MS;W;16;rural;>3;primary;primary;at_home;other;15-30min;<2h;no;no;yes;yes;good;little;hardly important;bad;0;13;12;14
-MS;W;15;rural;>3;primary;primary;at_home;at_home;30-60min;2-5h;yes;no;no;no;good;little;not important;bad;0;13;14;14
-MS;W;15;rural;<=3;lower_secondary;lower_secondary;other;other;<15min;5-10h;yes;no;no;no;good;much;medium;very good;2;14;11;12
-MS;M;16;rural;>3;primary;primary;at_home;other;15-30min;<2h;no;no;yes;no;medium;much;important;very good;6;11;11;11
-MS;W;18;urban;>3;primary;lower_secondary;other;other;<15min;2-5h;yes;no;yes;yes;medium;much;important;very good;9;9;8;8
-MS;M;15;urban;>3;upper_secondary;primary;other;public_services;15-30min;<2h;yes;no;no;no;medium;little;medium;good;0;10;9;11
-MS;W;16;rural;>3;lower_secondary;lower_secondary;other;public_services;30-60min;2-5h;yes;no;yes;yes;very good;medium;important;bad;1;14;13;14
-MS;M;15;urban;>3;lower_secondary;lower_secondary;healthcare;other;30-60min;<2h;no;no;no;no;good;medium;medium;good;1;13;12;13
-MS;M;16;urban;>3;higher;higher;other;teacher;<15min;2-5h;yes;no;yes;no;good;medium;not important;medium;0;13;12;13
-MS;W;15;rural;>3;upper_secondary;upper_secondary;public_services;other;<15min;2-5h;yes;no;no;yes;good;very much;important;very bad;4;13;12;12
-MS;W;16;rural;>3;lower_secondary;lower_secondary;at_home;other;15-30min;2-5h;yes;no;yes;no;good;much;important;very good;2;12;11;12
-MS;W;16;rural;<=3;lower_secondary;lower_secondary;other;other;30-60min;<2h;yes;no;yes;no;good;medium;hardly important;good;0;14;14;16
-MS;M;16;urban;<=3;lower_secondary;primary;at_home;public_services;15-30min;<2h;yes;no;yes;yes;bad;much;medium;good;4;10;8;10
-MS;M;15;rural;<=3;primary;upper_secondary;at_home;other;30-60min;<2h;yes;no;yes;yes;good;little;important;medium;2;10;11;11
-MS;W;15;urban;>3;lower_secondary;lower_secondary;other;public_services;15-30min;5-10h;yes;no;yes;no;very good;medium;hardly important;good;0;12;13;14
-MS;W;16;rural;<=3;lower_secondary;primary;other;other;<15min;<2h;yes;no;no;yes;very good;much;medium;very good;2;10;8;8
-MS;M;15;urban;>3;upper_secondary;upper_secondary;public_services;public_services;15-30min;<2h;yes;no;yes;yes;good;medium;medium;medium;11;12;10;11
-MS;W;16;rural;>3;primary;primary;at_home;other;15-30min;2-5h;yes;no;no;no;medium;much;medium;very bad;0;7;7;8
-MS;W;17;urban;>3;lower_secondary;lower_secondary;other;at_home;<15min;<2h;yes;no;yes;no;good;very much;medium;very good;4;9;9;10
-MS;W;19;urban;>3;lower_secondary;upper_secondary;at_home;public_services;<15min;<2h;no;no;no;yes;good;much;important;bad;0;9;9;10
-MS;W;17;rural;>3;lower_secondary;primary;at_home;other;30-60min;<2h;yes;no;yes;no;very good;very much;medium;medium;2;9;10;11
-MS;W;15;rural;<=3;primary;primary;at_home;other;15-30min;<2h;yes;no;no;no;very good;little;not important;good;0;9;10;9
-MS;W;16;rural;>3;lower_secondary;lower_secondary;other;other;30-60min;2-5h;yes;no;no;yes;medium;much;very important;very bad;1;9;10;11
-MS;W;16;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;<2h;yes;no;no;no;good;medium;important;very bad;6;7;7;8
-MS;W;17;rural;>3;lower_secondary;lower_secondary;at_home;other;15-30min;2-5h;yes;no;no;yes;good;medium;very important;good;0;11;10;11
-MS;W;16;urban;>3;lower_secondary;lower_secondary;other;public_services;<15min;<2h;yes;yes;yes;yes;good;much;medium;medium;1;9;10;10
-MS;W;18;rural;<=3;upper_secondary;lower_secondary;other;other;15-30min;5-10h;yes;no;no;no;medium;medium;hardly important;bad;6;7;9;10
-MS;W;19;urban;>3;primary;primary;at_home;public_services;<15min;5-10h;no;no;yes;no;very good;medium;not important;medium;6;7;9;9
-MS;M;18;rural;>3;primary;primary;other;other;15-30min;<2h;no;no;yes;yes;good;much;medium;good;0;8;9;10
-MS;W;18;rural;>3;primary;primary;at_home;at_home;15-30min;<2h;no;no;no;yes;medium;little;medium;bad;4;9;11;10
-MS;W;19;urban;>3;primary;primary;other;other;15-30min;2-5h;yes;no;no;yes;very bad;very little;important;very bad;12;7;8;9
-MS;W;16;rural;>3;lower_secondary;lower_secondary;healthcare;other;<15min;2-5h;no;no;no;no;medium;medium;hardly important;medium;2;8;10;10
-MS;W;17;urban;>3;none;primary;other;at_home;15-30min;<2h;no;no;yes;no;bad;much;important;very good;5;9;9;10
-MS;W;16;rural;<=3;primary;lower_secondary;at_home;other;<15min;2-5h;no;no;yes;yes;good;much;very important;medium;0;8;9;9
-MS;W;16;urban;>3;upper_secondary;upper_secondary;other;other;<15min;<2h;no;no;yes;yes;good;very much;important;good;0;14;13;13
-MS;W;16;rural;<=3;primary;primary;public_services;public_services;<15min;<2h;yes;no;yes;yes;good;much;important;good;2;14;14;14
-MS;M;17;urban;>3;upper_secondary;upper_secondary;public_services;at_home;15-30min;>10h;yes;yes;yes;no;very good;much;very important;very good;0;10;11;10
-MS;W;16;urban;>3;lower_secondary;primary;other;public_services;<15min;2-5h;yes;no;yes;yes;very good;medium;medium;very bad;0;14;13;14
-MS;W;16;urban;>3;lower_secondary;lower_secondary;public_services;other;<15min;<2h;yes;yes;yes;no;good;little;very important;very good;0;17;16;16
-MS;M;17;urban;>3;primary;lower_secondary;other;other;<15min;<2h;yes;no;yes;yes;very good;medium;very important;very bad;12;6;7;7
-MS;M;16;urban;<=3;higher;upper_secondary;other;other;<15min;<2h;no;no;yes;yes;good;little;very important;very good;8;14;12;13
-MS;M;17;rural;<=3;lower_secondary;lower_secondary;public_services;public_services;30-60min;>10h;yes;no;no;no;very bad;medium;very important;medium;2;10;8;9
-MS;W;16;urban;>3;primary;primary;other;other;<15min;>10h;yes;no;yes;yes;bad;little;not important;very good;0;14;14;14
-MS;W;19;urban;<=3;lower_secondary;lower_secondary;other;other;<15min;5-10h;no;no;no;yes;very good;much;very important;very bad;0;12;13;13
-MS;W;17;rural;>3;primary;primary;at_home;other;15-30min;<2h;yes;no;yes;yes;good;much;very important;very good;0;11;11;11
-MS;W;20;urban;>3;upper_secondary;upper_secondary;at_home;public_services;15-30min;2-5h;no;no;yes;yes;medium;medium;important;medium;8;11;9;10
-MS;W;17;urban;<=3;primary;primary;other;public_services;<15min;5-10h;yes;no;no;no;good;medium;medium;medium;0;11;11;10
-MS;M;17;rural;>3;lower_secondary;lower_secondary;other;other;30-60min;<2h;yes;no;no;yes;good;much;very important;very good;0;10;9;9
-MS;W;16;rural;<=3;primary;primary;at_home;other;30-60min;2-5h;yes;no;no;no;very good;medium;hardly important;very bad;0;16;17;18
-MS;W;17;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;yes;no;very good;medium;hardly important;very bad;0;15;17;17
-MS;W;17;urban;>3;primary;none;other;other;15-30min;2-5h;no;no;no;yes;good;much;very important;good;1;11;9;10
-MS;W;18;rural;>3;primary;primary;at_home;other;<15min;2-5h;yes;no;no;yes;good;medium;hardly important;very good;9;7;7;7
-MS;W;16;urban;>3;upper_secondary;primary;other;other;<15min;<2h;no;no;yes;yes;medium;very little;medium;very bad;0;8;6;8
-MS;W;16;urban;>3;upper_secondary;lower_secondary;public_services;at_home;<15min;<2h;no;no;no;yes;medium;very little;medium;medium;2;7;6;7
-MS;W;18;urban;<=3;primary;primary;other;at_home;15-30min;2-5h;no;no;no;no;bad;medium;very important;medium;8;9;8;10
-MS;W;16;rural;>3;higher;higher;healthcare;teacher;<15min;2-5h;no;no;yes;yes;good;medium;medium;bad;0;14;16;16
-MS;W;16;rural;<=3;primary;lower_secondary;other;other;15-30min;<2h;no;no;yes;yes;very good;much;very important;bad;0;14;14;15
-MS;W;18;urban;>3;lower_secondary;higher;other;public_services;<15min;2-5h;yes;no;no;yes;bad;medium;hardly important;very bad;8;8;5;8
-MS;M;16;rural;>3;lower_secondary;primary;other;public_services;15-30min;2-5h;no;no;yes;yes;very good;little;not important;bad;0;8;7;0
-MS;W;16;urban;<=3;primary;primary;at_home;other;30-60min;2-5h;yes;no;no;yes;good;medium;hardly important;very good;6;6;8;8
-MS;W;16;rural;>3;lower_secondary;upper_secondary;at_home;public_services;15-30min;2-5h;yes;no;yes;yes;medium;medium;medium;bad;0;8;10;10
-MS;W;16;urban;>3;higher;higher;healthcare;healthcare;<15min;2-5h;yes;no;no;yes;good;medium;important;medium;4;8;8;8
-MS;M;18;urban;<=3;higher;higher;at_home;healthcare;<15min;>10h;yes;no;yes;yes;very good;very much;very important;very good;2;5;6;6
-MS;W;16;rural;<=3;upper_secondary;higher;at_home;other;30-60min;2-5h;yes;no;no;no;good;little;not important;bad;2;7;9;8
-MS;M;17;urban;<=3;higher;higher;other;public_services;<15min;5-10h;yes;no;no;yes;good;much;medium;very good;0;15;14;16
-MS;W;17;rural;>3;higher;primary;other;other;<15min;<2h;no;no;no;yes;good;little;medium;very good;1;13;14;14
-MS;M;16;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;>60min;5-10h;no;no;no;no;very good;very little;medium;medium;0;10;9;10
-MS;W;17;rural;>3;lower_secondary;lower_secondary;at_home;other;<15min;<2h;yes;yes;no;yes;very good;very little;medium;very good;5;9;9;9
-MS;W;16;urban;<=3;higher;higher;public_services;public_services;15-30min;<2h;yes;no;no;no;very good;very little;medium;very good;1;11;11;11
-MS;M;17;urban;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;<2h;yes;no;yes;yes;good;very little;important;medium;8;7;10;9
-MS;M;17;urban;>3;primary;primary;at_home;public_services;30-60min;2-5h;no;no;no;yes;very good;very little;medium;very bad;0;10;10;10
-MS;M;16;urban;>3;lower_secondary;primary;healthcare;public_services;15-30min;2-5h;no;no;no;yes;good;little;hardly important;very good;2;9;7;8
-MS;W;16;urban;<=3;lower_secondary;primary;other;public_services;<15min;2-5h;no;no;no;yes;medium;little;hardly important;medium;0;14;15;16
-MS;M;16;urban;<=3;higher;higher;teacher;healthcare;<15min;<2h;yes;no;no;yes;good;very little;hardly important;very good;0;11;12;12
-MS;M;15;rural;>3;primary;lower_secondary;other;public_services;30-60min;2-5h;yes;no;yes;no;very good;very much;very important;very good;11;9;11;10
-MS;M;15;urban;<=3;lower_secondary;lower_secondary;other;other;30-60min;>10h;yes;no;yes;no;very good;much;very important;very good;8;13;14;14
-MS;M;15;urban;<=3;lower_secondary;primary;public_services;public_services;<15min;<2h;no;no;yes;yes;good;medium;medium;very good;11;12;13;12
-MS;W;16;rural;<=3;lower_secondary;lower_secondary;other;other;<15min;5-10h;yes;no;no;no;good;medium;medium;very good;2;11;11;11
-MS;W;16;urban;<=3;higher;primary;other;other;15-30min;2-5h;yes;no;yes;yes;very bad;little;important;very bad;8;9;10;10
-MS;W;17;urban;>3;upper_secondary;lower_secondary;at_home;other;15-30min;<2h;no;no;no;no;good;medium;medium;very bad;5;9;11;11
-MS;W;17;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;no;yes;no;no;very good;very little;medium;very good;0;11;9;11
-MS;W;16;urban;>3;higher;higher;teacher;public_services;15-30min;5-10h;yes;no;no;yes;very good;medium;very important;very good;1;10;11;12
-MS;M;17;rural;>3;higher;higher;healthcare;other;30-60min;<2h;no;no;yes;yes;medium;medium;medium;very good;2;9;9;8
-MS;M;17;rural;<=3;primary;upper_secondary;other;other;15-30min;<2h;no;no;yes;no;very good;very little;hardly important;very good;2;12;11;12
-MS;M;17;urban;>3;upper_secondary;higher;public_services;other;<15min;2-5h;yes;no;yes;yes;very good;much;important;very good;8;8;9;8
-MS;W;17;urban;>3;higher;higher;healthcare;healthcare;<15min;2-5h;yes;no;no;yes;very good;little;very important;very good;0;13;15;16
-MS;M;16;rural;<=3;higher;primary;other;at_home;<15min;<2h;no;no;no;yes;good;very little;hardly important;bad;0;10;11;11
-MS;W;17;urban;>3;primary;primary;at_home;at_home;<15min;2-5h;no;no;yes;yes;good;very much;very important;medium;2;11;10;11
-MS;W;17;rural;>3;higher;lower_secondary;other;other;15-30min;2-5h;yes;no;no;yes;good;medium;medium;very good;0;17;18;18
-MS;M;16;urban;<=3;lower_secondary;lower_secondary;other;public_services;15-30min;2-5h;yes;no;no;yes;good;very little;hardly important;very good;0;12;13;13
-MS;M;17;urban;>3;upper_secondary;lower_secondary;other;other;15-30min;2-5h;yes;yes;no;yes;good;very little;hardly important;very bad;0;13;14;13
-MS;M;19;urban;>3;primary;primary;other;other;<15min;2-5h;yes;no;yes;yes;good;much;medium;good;2;9;9;10
-MS;M;17;urban;<=3;primary;none;other;other;<15min;<2h;no;no;no;no;good;very little;hardly important;very good;4;11;11;12
-MS;W;17;rural;>3;primary;primary;at_home;at_home;15-30min;<2h;yes;no;yes;yes;medium;very much;very important;good;3;10;11;10
-MS;W;16;rural;>3;primary;lower_secondary;other;other;<15min;5-10h;yes;no;no;yes;good;medium;important;medium;5;13;14;13
-MS;M;16;rural;<=3;primary;lower_secondary;other;at_home;<15min;<2h;no;no;no;no;good;much;important;very good;4;9;10;11
-MS;W;17;rural;>3;upper_secondary;primary;other;other;15-30min;2-5h;yes;no;yes;yes;very good;much;important;very good;2;7;9;10
-MS;M;17;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;<2h;no;no;yes;no;very good;very much;very important;very good;0;8;13;10
-MS;M;18;rural;>3;primary;none;at_home;at_home;30-60min;<2h;yes;no;no;no;good;medium;hardly important;good;0;12;12;13
-MS;M;17;rural;>3;primary;primary;other;public_services;15-30min;<2h;yes;no;yes;yes;good;very much;very important;bad;0;10;9;10
-MS;M;18;urban;<=3;primary;primary;at_home;at_home;15-30min;2-5h;yes;no;yes;no;good;medium;medium;very good;6;10;9;10
-MS;W;16;rural;<=3;lower_secondary;lower_secondary;other;public_services;<15min;2-5h;no;no;yes;no;very good;much;medium;very bad;0;11;13;12
-MS;M;17;urban;>3;lower_secondary;lower_secondary;other;other;<15min;<2h;no;no;yes;no;very bad;little;not important;very good;0;7;0;0
-MS;M;16;rural;>3;upper_secondary;lower_secondary;public_services;other;15-30min;<2h;no;no;no;yes;good;very much;very important;very good;2;11;9;10
-MS;M;16;rural;<=3;primary;primary;at_home;other;15-30min;<2h;no;no;yes;yes;good;very much;very important;very good;0;10;10;9
-MS;M;18;rural;>3;primary;primary;public_services;other;15-30min;<2h;yes;no;no;yes;very good;medium;medium;very good;2;9;7;9
-MS;M;18;rural;>3;upper_secondary;lower_secondary;public_services;other;<15min;<2h;no;no;no;yes;bad;medium;not important;very good;0;4;0;0
-MS;M;19;urban;>3;upper_secondary;lower_secondary;at_home;public_services;15-30min;<2h;no;no;yes;no;medium;little;not important;medium;4;6;11;9
-MS;M;18;urban;>3;upper_secondary;upper_secondary;at_home;at_home;<15min;2-5h;yes;no;yes;yes;good;much;very important;medium;9;4;8;8
-MS;M;16;rural;>3;lower_secondary;lower_secondary;public_services;public_services;15-30min;<2h;yes;no;yes;yes;very good;much;medium;good;6;7;8;8
-MS;M;19;urban;>3;lower_secondary;primary;at_home;other;15-30min;<2h;no;no;yes;yes;good;much;medium;very good;4;8;9;9
-MS;W;16;urban;>3;upper_secondary;lower_secondary;public_services;at_home;15-30min;2-5h;yes;no;yes;no;bad;very much;very important;very bad;8;5;5;7
-MS;W;17;urban;>3;primary;primary;other;at_home;<15min;<2h;yes;no;yes;no;good;medium;hardly important;very good;9;7;9;10
-MS;M;20;rural;>3;primary;primary;other;other;15-30min;<2h;yes;no;no;yes;good;much;medium;good;12;8;11;10
-MS;W;18;rural;>3;higher;upper_secondary;public_services;public_services;<15min;<2h;yes;no;no;yes;very good;much;important;bad;8;10;11;10
-MS;M;18;rural;>3;upper_secondary;lower_secondary;other;other;15-30min;<2h;yes;no;no;yes;bad;very much;very important;very good;8;9;10;11
-MS;M;19;rural;>3;primary;primary;other;public_services;30-60min;2-5h;no;no;no;yes;very good;much;important;bad;8;10;9;11
-MS;M;17;urban;>3;upper_secondary;upper_secondary;healthcare;other;15-30min;2-5h;yes;no;no;yes;good;very much;important;medium;4;8;9;10
-MS;M;18;urban;<=3;primary;upper_secondary;at_home;public_services;<15min;<2h;no;no;no;yes;good;medium;medium;medium;0;9;10;9
-MS;M;19;rural;>3;primary;primary;other;other;30-60min;<2h;yes;no;no;yes;good;much;important;very good;4;8;9;10
-MS;W;18;urban;>3;primary;lower_secondary;at_home;other;15-30min;2-5h;yes;no;no;no;good;medium;medium;very good;2;6;8;8
-MS;W;19;urban;<=3;primary;primary;at_home;other;<15min;<2h;yes;no;no;no;very bad;much;important;very good;0;6;8;7
-MS;W;18;rural;>3;lower_secondary;lower_secondary;other;other;15-30min;<2h;no;no;no;yes;very good;very much;very important;medium;0;8;6;0
-MS;W;17;rural;>3;none;none;at_home;other;15-30min;<2h;yes;no;no;yes;good;much;medium;very good;0;10;11;11
-MS;W;17;rural;<=3;upper_secondary;primary;other;at_home;15-30min;5-10h;yes;yes;no;no;good;little;medium;medium;5;8;7;8
-MS;W;17;urban;>3;higher;lower_secondary;teacher;public_services;<15min;2-5h;yes;no;yes;yes;very good;very much;very important;very good;0;8;8;0
-MS;W;18;rural;<=3;lower_secondary;lower_secondary;public_services;public_services;<15min;2-5h;yes;no;yes;yes;bad;medium;medium;good;3;7;6;8
-MS;W;17;urban;>3;higher;primary;healthcare;at_home;<15min;<2h;yes;no;no;no;medium;little;hardly important;very good;0;8;10;9
-MS;W;17;urban;<=3;primary;lower_secondary;at_home;other;<15min;<2h;no;no;no;yes;very good;very much;not important;medium;0;7;10;10
-MS;W;18;urban;>3;primary;primary;other;other;30-60min;2-5h;no;no;yes;no;medium;much;important;very good;3;7;8;7
-MS;W;18;urban;>3;lower_secondary;lower_secondary;public_services;at_home;15-30min;2-5h;no;no;yes;yes;good;medium;very important;very bad;2;12;13;14
-MS;W;17;urban;>3;upper_secondary;upper_secondary;public_services;public_services;15-30min;<2h;yes;no;no;yes;good;much;medium;good;0;11;12;13
-MS;W;18;urban;<=3;primary;lower_secondary;at_home;other;15-30min;2-5h;no;no;no;yes;good;much;medium;good;0;12;13;14
-MS;W;18;urban;>3;higher;higher;teacher;teacher;15-30min;2-5h;no;no;yes;yes;good;medium;very important;very bad;0;18;18;18
-MS;M;18;urban;<=3;higher;higher;public_services;other;<15min;<2h;yes;no;yes;yes;very good;much;very important;very good;3;17;17;17
-MS;W;17;urban;>3;higher;lower_secondary;other;other;15-30min;2-5h;yes;no;no;yes;good;medium;medium;good;0;17;18;18
-MS;W;18;rural;>3;lower_secondary;lower_secondary;at_home;other;30-60min;2-5h;no;no;yes;no;good;medium;medium;good;0;9;0;0
-MS;M;18;urban;<=3;primary;lower_secondary;at_home;public_services;15-30min;<2h;yes;no;no;no;good;very little;important;very bad;8;10;11;11
-MS;M;18;rural;>3;higher;higher;at_home;public_services;30-60min;<2h;yes;yes;yes;yes;bad;very much;very important;very bad;5;12;13;14
-MS;M;17;rural;>3;primary;primary;other;public_services;30-60min;<2h;no;no;no;no;good;little;medium;good;4;12;13;14
-MS;W;18;urban;>3;lower_secondary;lower_secondary;other;other;15-30min;2-5h;yes;no;no;yes;very bad;medium;not important;bad;4;8;8;10
-MS;W;18;urban;<=3;lower_secondary;lower_secondary;public_services;public_services;15-30min;5-10h;no;no;no;yes;very good;much;very important;medium;0;11;12;13
-MS;W;18;rural;<=3;higher;lower_secondary;teacher;other;<15min;2-5h;no;no;yes;yes;very good;medium;not important;very good;0;5;0;0
-MS;W;18;urban;>3;primary;primary;at_home;public_services;30-60min;2-5h;no;no;no;no;good;much;hardly important;bad;2;9;10;10
-MS;W;19;urban;>3;primary;primary;at_home;public_services;15-30min;<2h;no;no;no;no;very good;very much;very important;bad;0;5;0;0
-MS;W;17;urban;>3;higher;lower_secondary;teacher;other;15-30min;>10h;no;no;no;yes;good;little;medium;very good;0;18;18;18
-MS;W;17;rural;<=3;lower_secondary;primary;public_services;other;15-30min;2-5h;no;no;yes;yes;very good;medium;medium;bad;5;11;11;12
-MS;W;18;urban;<=3;primary;primary;at_home;public_services;<15min;2-5h;no;no;no;no;very good;little;medium;medium;2;8;10;11
-MS;W;18;urban;>3;primary;lower_secondary;at_home;at_home;15-30min;2-5h;yes;no;no;no;good;very little;not important;good;0;11;11;12
-MS;W;19;rural;>3;primary;primary;at_home;at_home;15-30min;2-5h;yes;no;yes;no;medium;very much;important;very bad;0;8;0;0
-MS;W;18;rural;>3;lower_secondary;lower_secondary;public_services;other;15-30min;5-10h;no;no;no;yes;good;little;not important;good;5;14;14;15
-MS;M;17;rural;>3;higher;upper_secondary;public_services;other;15-30min;2-5h;yes;yes;yes;yes;good;very much;very important;bad;4;10;11;11
-MS;W;18;urban;>3;upper_secondary;upper_secondary;public_services;public_services;<15min;2-5h;yes;no;no;no;very good;medium;important;very good;0;10;10;10
-MS;W;17;rural;>3;higher;higher;teacher;public_services;15-30min;2-5h;yes;yes;yes;yes;good;medium;medium;very good;2;12;12;12
-MS;W;17;urban;<=3;upper_secondary;lower_secondary;public_services;other;15-30min;2-5h;no;no;no;no;very bad;little;medium;very good;0;15;14;15
-MS;M;18;urban;<=3;primary;primary;other;public_services;15-30min;<2h;no;no;no;yes;medium;medium;hardly important;medium;2;14;13;14
-MS;W;18;urban;<=3;primary;primary;at_home;public_services;15-30min;5-10h;no;no;no;yes;very good;medium;hardly important;good;0;19;17;18
-MS;W;18;rural;<=3;primary;lower_secondary;at_home;other;30-60min;2-5h;no;no;no;no;good;medium;important;very good;0;16;15;15
-MS;W;18;urban;>3;upper_secondary;upper_secondary;public_services;public_services;15-30min;2-5h;yes;no;no;yes;good;medium;hardly important;medium;6;13;12;13
-MS;W;17;urban;<=3;higher;higher;at_home;at_home;<15min;2-5h;yes;no;yes;yes;bad;medium;important;very bad;4;15;14;15
-MS;W;17;rural;>3;primary;lower_secondary;other;public_services;15-30min;2-5h;no;no;no;no;medium;little;hardly important;medium;0;13;13;13
-MS;M;18;rural;>3;primary;upper_secondary;at_home;other;15-30min;2-5h;yes;yes;no;no;medium;medium;important;medium;0;8;10;9
-MS;M;18;urban;<=3;higher;higher;teacher;public_services;15-30min;5-10h;no;no;no;yes;good;little;hardly important;very good;0;15;16;16
-MS;W;17;rural;>3;primary;primary;other;public_services;30-60min;<2h;yes;no;no;yes;very good;little;not important;very bad;0;8;8;9
-MS;W;18;urban;>3;lower_secondary;upper_secondary;at_home;public_services;15-30min;<2h;yes;no;no;yes;very good;little;medium;good;0;10;10;10
-MS;W;18;rural;>3;higher;higher;other;teacher;30-60min;2-5h;yes;no;no;yes;medium;little;hardly important;very good;0;7;5;0
-MS;M;18;rural;<=3;primary;lower_secondary;at_home;public_services;30-60min;<2h;yes;no;yes;yes;good;medium;medium;medium;3;9;10;10
-MS;W;17;urban;>3;lower_secondary;lower_secondary;other;at_home;<15min;5-10h;no;no;yes;no;medium;much;medium;medium;8;10;11;12
-MS;W;17;rural;>3;primary;lower_secondary;other;other;<15min;<2h;no;no;yes;yes;medium;very much;very important;very bad;4;7;8;9
-MS;W;18;rural;<=3;higher;higher;other;other;15-30min;5-10h;no;no;no;yes;very good;much;important;very bad;0;15;17;17
-MS;W;18;rural;>3;primary;primary;other;other;>60min;5-10h;no;no;no;yes;good;medium;hardly important;good;4;10;11;12
-MS;W;19;rural;>3;primary;primary;at_home;other;15-30min;2-5h;yes;no;no;yes;good;medium;medium;medium;4;7;8;9
-MS;W;18;rural;<=3;higher;higher;teacher;public_services;<15min;2-5h;no;no;yes;yes;very good;much;medium;bad;1;13;14;14
-MS;W;18;urban;>3;upper_secondary;upper_secondary;other;other;<15min;2-5h;no;no;no;yes;good;very little;medium;very bad;1;16;16;16
-MS;W;17;rural;>3;upper_secondary;primary;at_home;other;<15min;2-5h;yes;no;yes;yes;good;very much;important;very bad;10;8;9;9
-MS;M;18;urban;>3;higher;higher;teacher;teacher;<15min;2-5h;no;no;yes;yes;medium;little;important;bad;4;17;18;19
-MS;M;18;rural;>3;lower_secondary;primary;other;other;15-30min;<2h;no;no;yes;yes;good;much;medium;very good;0;7;7;0
-MS;M;17;urban;>3;lower_secondary;upper_secondary;other;public_services;15-30min;2-5h;no;no;yes;yes;good;much;medium;medium;4;14;15;16
-MS;M;19;rural;>3;primary;primary;other;public_services;15-30min;<2h;no;no;no;no;good;medium;hardly important;very good;0;5;8;0
-MS;M;18;rural;>3;higher;lower_secondary;other;other;15-30min;<2h;no;yes;no;no;very good;much;medium;medium;0;7;7;0
-MS;W;18;rural;>3;lower_secondary;lower_secondary;at_home;other;15-30min;5-10h;no;no;no;no;very good;medium;medium;good;0;14;17;15
-MS;W;17;urban;>3;higher;upper_secondary;teacher;other;15-30min;2-5h;no;no;no;yes;very good;very much;important;very bad;0;6;9;11
-MS;W;18;rural;>3;higher;higher;teacher;at_home;30-60min;<2h;yes;no;yes;yes;good;much;medium;very good;4;7;9;10
-MS;W;19;rural;>3;lower_secondary;upper_secondary;public_services;other;<15min;5-10h;no;no;yes;yes;very good;much;hardly important;very good;4;10;11;10
-MS;W;18;urban;<=3;upper_secondary;primary;teacher;public_services;<15min;2-5h;yes;no;no;yes;good;medium;important;very bad;4;15;15;16
-MS;W;18;urban;>3;primary;primary;other;other;15-30min;2-5h;no;no;yes;no;very bad;very little;not important;very good;6;11;12;9
-MS;M;17;urban;<=3;upper_secondary;primary;public_services;public_services;15-30min;<2h;no;no;no;yes;bad;much;very important;bad;6;10;10;10
-MS;M;18;rural;<=3;upper_secondary;lower_secondary;public_services;other;30-60min;<2h;no;no;no;yes;good;much;not important;very good;4;10;11;11
+Schule,Geschlecht,Alter,Wohnumgebung,Familiengroesse,AusbildungMutter,AusbildungVater,JobMutter,JobVater,Reisezeit,Lernzeit,Unterstuetzung,Nachhilfe,Freifach,Internet,Familienverhaeltnis,Freizeit,Ausgang,Gesundheit,Absenzen,Test1,Test2,Test3
+GP,W,18,urban,>3,higher,higher,at_home,teacher,15-30min,2-5h,no,no,no,no,good,medium,important,medium,4,0,11,11
+GP,W,17,urban,>3,primary,primary,at_home,other,<15min,2-5h,yes,no,no,yes,very good,medium,medium,medium,2,9,11,11
+GP,W,15,urban,<=3,primary,primary,at_home,other,<15min,2-5h,no,no,no,yes,good,medium,hardly important,medium,6,12,13,12
+GP,W,15,urban,>3,higher,lower_secondary,healthcare,public_services,<15min,5-10h,yes,no,yes,yes,medium,little,hardly important,very good,0,14,14,14
+GP,W,16,urban,>3,upper_secondary,upper_secondary,other,other,<15min,2-5h,yes,no,no,no,good,medium,hardly important,very good,0,11,13,13
+GP,M,16,urban,<=3,higher,upper_secondary,public_services,other,<15min,2-5h,yes,no,yes,yes,very good,much,hardly important,very good,6,12,12,13
+GP,M,16,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,no,yes,good,much,important,medium,0,13,12,13
+GP,W,17,urban,>3,higher,higher,other,teacher,15-30min,2-5h,yes,no,no,no,good,very little,important,very bad,2,10,13,13
+GP,M,15,urban,<=3,upper_secondary,lower_secondary,public_services,other,<15min,2-5h,yes,no,no,yes,good,little,hardly important,very bad,0,15,16,17
+GP,M,15,urban,>3,upper_secondary,higher,other,other,<15min,2-5h,yes,no,yes,yes,very good,very much,not important,very good,0,12,12,13
+GP,W,15,urban,>3,higher,higher,teacher,healthcare,<15min,2-5h,yes,no,no,yes,medium,medium,medium,bad,2,14,14,14
+GP,W,15,urban,>3,lower_secondary,primary,public_services,other,30-60min,5-10h,yes,no,yes,yes,very good,little,hardly important,good,0,10,12,13
+GP,M,15,urban,<=3,higher,higher,healthcare,public_services,<15min,<2h,yes,no,yes,yes,good,medium,medium,very good,0,12,13,12
+GP,M,15,urban,>3,higher,upper_secondary,teacher,other,15-30min,2-5h,yes,no,no,yes,very good,much,medium,medium,0,12,12,13
+GP,M,15,urban,>3,lower_secondary,lower_secondary,other,other,<15min,5-10h,yes,no,no,yes,good,very much,hardly important,medium,0,14,14,15
+GP,W,16,urban,>3,higher,higher,healthcare,other,<15min,<2h,yes,no,no,yes,good,much,important,bad,6,17,17,17
+GP,W,16,urban,>3,higher,higher,public_services,public_services,<15min,5-10h,yes,no,yes,yes,medium,little,medium,bad,10,13,13,14
+GP,W,16,urban,>3,upper_secondary,upper_secondary,other,other,30-60min,2-5h,yes,no,yes,no,very good,medium,hardly important,good,2,13,14,14
+GP,M,17,urban,>3,upper_secondary,lower_secondary,public_services,public_services,<15min,<2h,yes,yes,yes,yes,very good,very much,very important,very good,2,8,8,7
+GP,M,16,urban,<=3,higher,upper_secondary,healthcare,other,<15min,<2h,no,no,yes,yes,medium,very little,medium,very good,6,12,12,12
+GP,M,15,urban,>3,higher,upper_secondary,teacher,other,<15min,2-5h,no,no,no,yes,good,much,not important,very bad,0,12,13,14
+GP,M,15,urban,>3,higher,higher,healthcare,healthcare,<15min,<2h,yes,yes,no,yes,very good,much,hardly important,very good,0,11,12,12
+GP,M,16,urban,<=3,higher,lower_secondary,teacher,other,<15min,2-5h,no,no,yes,yes,good,very much,not important,very good,0,12,13,14
+GP,M,16,urban,<=3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,yes,yes,very good,much,important,very good,2,10,10,10
+GP,W,15,rural,>3,lower_secondary,higher,public_services,healthcare,<15min,5-10h,yes,no,yes,yes,good,medium,hardly important,very good,2,10,11,10
+GP,W,16,urban,>3,lower_secondary,lower_secondary,public_services,public_services,<15min,<2h,yes,no,no,yes,very bad,little,hardly important,very good,6,10,11,12
+GP,M,15,urban,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,yes,good,little,hardly important,very good,8,11,12,12
+GP,M,15,urban,>3,higher,lower_secondary,healthcare,public_services,<15min,<2h,no,no,no,yes,bad,little,important,very bad,0,11,11,11
+GP,M,16,urban,<=3,upper_secondary,higher,public_services,other,<15min,2-5h,yes,yes,yes,yes,very good,medium,medium,very good,2,12,12,13
+GP,M,16,urban,>3,higher,higher,teacher,teacher,<15min,2-5h,yes,yes,yes,yes,good,much,very important,very good,4,12,11,12
+GP,M,15,urban,>3,higher,higher,healthcare,public_services,<15min,2-5h,yes,yes,no,yes,very good,much,hardly important,very good,0,10,11,11
+GP,M,15,urban,>3,higher,higher,public_services,public_services,15-30min,2-5h,yes,no,yes,yes,good,medium,not important,very good,2,15,15,15
+GP,M,15,rural,>3,higher,upper_secondary,teacher,at_home,<15min,2-5h,yes,no,yes,yes,good,very much,hardly important,very good,0,13,14,15
+GP,M,15,urban,<=3,upper_secondary,upper_secondary,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,hardly important,bad,0,13,12,12
+GP,M,16,urban,>3,upper_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,yes,very good,much,medium,very good,4,12,12,12
+GP,W,15,urban,>3,lower_secondary,upper_secondary,other,other,15-30min,<2h,yes,no,yes,no,medium,very much,not important,very good,4,11,11,11
+GP,M,15,urban,<=3,higher,upper_secondary,teacher,public_services,<15min,5-10h,yes,no,yes,yes,very good,much,medium,good,0,14,14,14
+GP,M,16,rural,>3,higher,higher,other,teacher,15-30min,5-10h,yes,no,yes,yes,bad,much,medium,very good,4,13,13,13
+GP,W,15,rural,>3,upper_secondary,higher,public_services,healthcare,<15min,5-10h,yes,no,yes,yes,good,medium,hardly important,very good,2,11,12,12
+GP,W,15,rural,>3,lower_secondary,lower_secondary,at_home,other,<15min,<2h,yes,no,yes,no,good,medium,not important,bad,8,14,13,12
+GP,W,16,urban,<=3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,yes,yes,medium,medium,medium,medium,16,11,11,10
+GP,M,15,urban,<=3,higher,higher,teacher,other,<15min,<2h,yes,no,no,yes,very good,much,medium,very good,8,10,11,11
+GP,M,15,urban,>3,higher,higher,public_services,teacher,<15min,2-5h,yes,no,yes,yes,good,medium,medium,very good,0,14,15,15
+GP,M,15,urban,>3,lower_secondary,lower_secondary,public_services,public_services,<15min,<2h,yes,no,no,yes,very good,much,not important,very bad,0,9,10,10
+GP,W,16,urban,<=3,lower_secondary,lower_secondary,other,at_home,15-30min,2-5h,no,no,yes,yes,good,medium,medium,very good,14,10,11,11
+GP,W,15,urban,<=3,higher,upper_secondary,other,other,<15min,2-5h,yes,yes,yes,yes,very good,little,hardly important,very good,4,10,11,11
+GP,W,16,urban,<=3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,yes,no,no,yes,bad,medium,very important,medium,6,13,12,13
+GP,M,16,urban,>3,higher,upper_secondary,healthcare,public_services,<15min,>10h,no,no,yes,yes,good,little,hardly important,bad,2,17,17,17
+GP,M,15,urban,>3,higher,lower_secondary,teacher,other,<15min,2-5h,yes,no,no,no,good,medium,medium,very good,4,11,12,13
+GP,W,15,urban,>3,higher,higher,public_services,teacher,<15min,2-5h,yes,no,yes,yes,good,much,important,medium,2,13,12,12
+GP,W,16,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,30-60min,2-5h,yes,no,no,yes,good,medium,medium,good,0,14,13,13
+GP,W,15,urban,<=3,higher,lower_secondary,healthcare,other,<15min,2-5h,yes,no,no,yes,good,medium,medium,very good,0,16,14,16
+GP,M,15,urban,<=3,higher,lower_secondary,healthcare,healthcare,15-30min,<2h,no,no,no,no,very good,very much,very important,very good,4,10,9,9
+GP,W,15,urban,>3,higher,higher,public_services,public_services,<15min,<2h,yes,no,no,yes,medium,medium,important,very good,0,13,12,12
+GP,W,15,urban,<=3,upper_secondary,upper_secondary,other,other,<15min,<2h,no,no,no,yes,very good,medium,important,very bad,0,13,12,13
+GP,W,16,urban,>3,lower_secondary,primary,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,important,bad,2,12,13,12
+GP,W,15,urban,>3,higher,upper_secondary,public_services,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,hardly important,very bad,0,15,14,15
+GP,M,15,urban,>3,higher,higher,teacher,healthcare,<15min,2-5h,yes,no,yes,no,medium,little,hardly important,very good,8,15,15,16
+GP,M,15,urban,<=3,primary,lower_secondary,other,at_home,<15min,2-5h,yes,no,yes,yes,good,medium,hardly important,very good,0,14,13,14
+GP,W,16,urban,>3,higher,lower_secondary,public_services,other,<15min,2-5h,yes,yes,no,yes,good,little,medium,very good,2,16,15,16
+GP,W,16,rural,>3,higher,higher,healthcare,teacher,<15min,2-5h,yes,no,yes,no,bad,much,important,good,0,17,16,16
+GP,W,16,urban,>3,primary,primary,public_services,public_services,>60min,<2h,yes,no,yes,yes,very good,very much,very important,very good,0,10,10,16
+GP,W,16,urban,<=3,primary,lower_secondary,other,public_services,<15min,2-5h,no,no,yes,yes,good,much,medium,very bad,0,13,13,10
+GP,W,16,urban,>3,higher,upper_secondary,teacher,healthcare,<15min,5-10h,yes,no,yes,yes,medium,much,important,good,0,14,13,13
+GP,W,15,urban,<=3,higher,upper_secondary,public_services,public_services,<15min,2-5h,no,no,yes,yes,good,much,important,bad,0,13,12,12
+GP,W,16,urban,<=3,higher,upper_secondary,teacher,public_services,30-60min,2-5h,yes,no,yes,yes,very good,much,medium,very bad,2,16,15,16
+GP,M,15,urban,>3,higher,higher,other,public_services,<15min,>10h,yes,no,yes,yes,very bad,medium,medium,medium,0,11,12,12
+GP,W,16,urban,>3,upper_secondary,primary,public_services,other,<15min,>10h,yes,no,no,yes,good,medium,medium,very good,0,10,9,10
+GP,W,15,rural,<=3,lower_secondary,lower_secondary,healthcare,public_services,15-30min,2-5h,yes,no,no,yes,good,very little,medium,good,0,11,10,11
+GP,W,15,rural,<=3,upper_secondary,primary,other,other,15-30min,>10h,yes,no,no,yes,good,much,hardly important,medium,6,15,15,15
+GP,M,16,urban,>3,upper_secondary,primary,other,other,15-30min,>10h,yes,no,no,yes,good,medium,hardly important,very good,2,13,11,11
+GP,M,15,urban,>3,higher,lower_secondary,other,other,<15min,>10h,no,no,no,yes,medium,medium,medium,medium,0,11,9,10
+GP,W,15,rural,>3,primary,primary,other,other,<15min,2-5h,yes,no,no,yes,medium,medium,important,very good,2,13,11,11
+GP,M,16,urban,>3,upper_secondary,primary,other,other,<15min,<2h,no,no,yes,no,very good,medium,hardly important,very good,0,13,13,14
+GP,W,16,urban,>3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,medium,very good,4,11,11,11
+GP,M,15,urban,>3,higher,upper_secondary,teacher,other,<15min,2-5h,yes,no,yes,yes,good,medium,medium,very good,0,11,11,11
+GP,M,15,urban,>3,higher,none,teacher,other,15-30min,>10h,no,no,yes,yes,medium,much,medium,very bad,0,12,11,11
+GP,W,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,>10h,no,no,no,yes,very good,little,medium,medium,1,13,13,13
+GP,M,17,urban,>3,lower_secondary,primary,other,other,15-30min,<2h,yes,no,yes,yes,good,very much,not important,medium,0,9,9,10
+GP,W,16,urban,>3,upper_secondary,higher,at_home,other,<15min,2-5h,yes,no,no,yes,bad,much,medium,medium,14,12,11,11
+GP,M,15,urban,>3,lower_secondary,upper_secondary,other,public_services,<15min,<2h,yes,no,yes,yes,medium,little,hardly important,medium,0,11,11,12
+GP,M,15,urban,>3,lower_secondary,upper_secondary,other,other,<15min,5-10h,no,no,no,yes,very good,medium,hardly important,very good,2,10,9,9
+GP,W,15,urban,<=3,upper_secondary,lower_secondary,public_services,other,<15min,2-5h,yes,no,no,yes,good,much,important,very good,4,12,11,11
+GP,M,15,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,15-30min,2-5h,no,yes,yes,yes,very good,medium,medium,good,2,13,12,13
+GP,W,15,urban,>3,primary,primary,other,other,<15min,2-5h,yes,no,yes,yes,good,medium,hardly important,good,2,13,12,12
+GP,W,15,urban,>3,higher,higher,public_services,public_services,15-30min,2-5h,no,no,no,yes,good,much,important,very good,4,12,11,12
+GP,W,16,urban,<=3,lower_secondary,lower_secondary,at_home,other,<15min,2-5h,yes,no,no,no,good,medium,important,bad,6,13,11,11
+GP,W,15,urban,>3,higher,lower_secondary,other,other,<15min,5-10h,yes,no,yes,yes,very good,medium,medium,very bad,4,15,15,15
+GP,M,16,urban,>3,lower_secondary,lower_secondary,public_services,other,15-30min,2-5h,no,no,yes,yes,good,much,hardly important,medium,6,12,10,11
+GP,M,16,urban,<=3,higher,higher,teacher,healthcare,<15min,2-5h,yes,no,no,no,good,very little,medium,very good,6,9,9,10
+GP,W,16,urban,>3,upper_secondary,upper_secondary,other,other,<15min,5-10h,yes,no,no,yes,good,medium,medium,good,2,9,11,11
+GP,W,15,urban,>3,higher,upper_secondary,public_services,other,<15min,<2h,no,no,yes,yes,good,very much,very important,very bad,6,14,13,13
+GP,W,16,urban,<=3,upper_secondary,primary,other,other,<15min,2-5h,yes,no,no,no,medium,medium,medium,bad,0,12,13,12
+GP,W,16,urban,>3,higher,lower_secondary,teacher,public_services,15-30min,2-5h,yes,no,yes,yes,very good,medium,medium,very bad,2,13,14,14
+GP,M,15,urban,<=3,lower_secondary,lower_secondary,public_services,healthcare,<15min,>10h,yes,no,yes,yes,good,medium,important,good,2,11,12,12
+GP,W,15,rural,>3,primary,primary,at_home,other,15-30min,>10h,yes,yes,yes,yes,medium,very little,hardly important,very bad,4,13,13,13
+GP,M,16,rural,>3,higher,upper_secondary,public_services,other,15-30min,<2h,yes,yes,yes,yes,medium,medium,medium,good,6,9,11,11
+GP,W,16,urban,>3,lower_secondary,primary,other,other,<15min,2-5h,yes,no,no,no,good,medium,very important,very good,0,13,12,12
+GP,W,16,urban,>3,higher,higher,other,other,<15min,<2h,no,no,yes,yes,very good,medium,important,very bad,4,12,13,13
+GP,W,16,urban,>3,higher,upper_secondary,other,at_home,<15min,5-10h,yes,no,no,yes,very good,medium,very important,medium,2,12,13,13
+GP,M,16,urban,>3,higher,higher,public_services,public_services,<15min,<2h,yes,no,yes,yes,good,very much,very important,good,12,9,9,8
+GP,M,16,urban,>3,higher,higher,public_services,teacher,<15min,5-10h,yes,no,yes,yes,good,much,medium,good,0,16,16,16
+GP,M,15,urban,>3,higher,higher,public_services,other,<15min,<2h,yes,yes,yes,yes,very good,medium,medium,very good,2,12,13,12
+GP,W,15,urban,>3,upper_secondary,lower_secondary,public_services,other,15-30min,2-5h,yes,no,no,yes,good,medium,very important,bad,16,11,10,10
+GP,M,15,urban,>3,upper_secondary,higher,public_services,other,<15min,2-5h,yes,no,yes,yes,very good,much,important,very bad,0,16,16,16
+GP,W,15,urban,>3,upper_secondary,upper_secondary,other,healthcare,<15min,>10h,no,no,no,no,good,medium,medium,good,10,10,10,10
+GP,W,15,urban,>3,lower_secondary,lower_secondary,other,other,<15min,>10h,yes,no,no,yes,very good,very little,hardly important,medium,4,10,10,10
+GP,M,16,urban,>3,upper_secondary,upper_secondary,public_services,other,<15min,5-10h,yes,no,yes,yes,very good,medium,medium,very good,4,13,14,14
+GP,M,15,rural,>3,higher,higher,other,other,>60min,>10h,yes,no,yes,yes,very bad,medium,very important,very bad,8,12,10,11
+GP,W,16,urban,<=3,higher,higher,healthcare,healthcare,<15min,5-10h,yes,no,yes,yes,very good,much,very important,good,2,15,15,14
+GP,M,15,urban,<=3,higher,higher,teacher,teacher,<15min,<2h,no,no,yes,yes,very good,very much,medium,good,4,13,14,14
+GP,W,16,rural,>3,upper_secondary,upper_secondary,public_services,other,<15min,5-10h,yes,no,yes,yes,good,very little,hardly important,bad,4,11,11,11
+GP,W,16,urban,>3,lower_secondary,lower_secondary,at_home,other,<15min,2-5h,no,no,yes,yes,medium,very little,hardly important,very good,12,8,10,10
+GP,M,15,urban,<=3,higher,lower_secondary,teacher,other,<15min,<2h,no,no,no,yes,medium,very much,hardly important,medium,10,18,17,18
+GP,M,15,rural,>3,lower_secondary,primary,healthcare,public_services,<15min,2-5h,no,no,yes,yes,very good,much,hardly important,very good,4,10,9,10
+GP,M,16,urban,>3,higher,higher,teacher,teacher,<15min,2-5h,yes,no,yes,yes,very good,much,important,very good,6,16,14,14
+GP,M,15,urban,>3,higher,higher,other,teacher,15-30min,2-5h,yes,no,yes,no,good,much,medium,bad,4,16,15,16
+GP,M,16,urban,>3,upper_secondary,upper_secondary,other,public_services,15-30min,<2h,no,no,yes,yes,very good,much,hardly important,very good,6,14,14,15
+GP,M,17,rural,>3,primary,upper_secondary,other,other,30-60min,2-5h,yes,no,yes,yes,very good,little,important,very good,14,12,11,11
+GP,M,15,urban,>3,upper_secondary,higher,other,other,<15min,<2h,no,no,no,yes,medium,much,medium,good,2,14,13,14
+GP,W,15,urban,>3,primary,lower_secondary,at_home,public_services,<15min,2-5h,no,no,no,yes,medium,little,medium,very bad,0,14,14,14
+GP,M,15,urban,>3,lower_secondary,lower_secondary,public_services,public_services,<15min,>10h,yes,no,yes,yes,very good,very much,important,very good,6,14,13,13
+GP,W,16,urban,<=3,lower_secondary,higher,other,healthcare,15-30min,2-5h,yes,no,yes,yes,good,little,hardly important,very good,2,14,12,13
+GP,M,16,urban,>3,higher,higher,healthcare,other,<15min,<2h,yes,no,yes,yes,medium,much,important,very good,4,12,13,13
+GP,W,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,no,yes,very good,much,important,very good,0,12,11,11
+GP,M,15,urban,>3,upper_secondary,higher,public_services,public_services,<15min,<2h,no,no,no,yes,very good,very much,very important,very good,2,9,9,9
+GP,W,15,urban,<=3,upper_secondary,higher,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,hardly important,very bad,0,10,11,11
+GP,W,19,urban,>3,none,primary,at_home,other,<15min,2-5h,yes,no,no,no,medium,much,hardly important,very good,0,9,10,11
+GP,M,16,rural,>3,higher,higher,teacher,teacher,<15min,<2h,no,no,yes,yes,medium,very much,very important,good,8,14,14,15
+GP,M,16,urban,>3,lower_secondary,upper_secondary,other,other,15-30min,5-10h,yes,no,no,yes,medium,little,medium,very bad,4,13,12,13
+GP,W,15,rural,>3,upper_secondary,higher,public_services,teacher,15-30min,5-10h,yes,no,no,yes,good,little,hardly important,very good,0,10,11,12
+GP,W,18,urban,>3,lower_secondary,primary,public_services,other,<15min,2-5h,yes,no,yes,yes,very good,much,very important,very good,10,10,9,8
+GP,W,17,urban,<=3,lower_secondary,primary,other,other,30-60min,<2h,yes,no,no,yes,medium,little,hardly important,very good,8,11,10,11
+GP,W,15,urban,>3,primary,primary,at_home,other,30-60min,<2h,yes,no,yes,yes,good,medium,medium,good,6,11,12,13
+GP,W,17,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,yes,medium,much,important,very good,2,13,12,12
+GP,W,16,urban,>3,upper_secondary,higher,public_services,other,<15min,<2h,no,no,no,yes,medium,little,not important,very good,12,15,13,14
+GP,M,16,urban,>3,lower_secondary,primary,at_home,other,>60min,<2h,no,no,no,no,medium,little,not important,bad,4,9,9,11
+GP,W,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,no,no,no,no,very good,medium,important,very good,12,13,11,11
+GP,M,15,rural,>3,upper_secondary,higher,at_home,teacher,>60min,2-5h,yes,no,no,no,very good,medium,medium,very good,2,12,11,11
+GP,W,15,urban,>3,higher,higher,public_services,at_home,<15min,5-10h,yes,no,yes,yes,good,medium,medium,very good,4,13,14,15
+GP,M,17,rural,>3,upper_secondary,higher,at_home,other,30-60min,2-5h,no,no,no,no,very good,much,very important,very good,2,10,9,10
+GP,W,16,rural,>3,primary,primary,at_home,other,>60min,2-5h,yes,no,no,no,very good,very little,medium,medium,0,14,13,13
+GP,M,18,urban,<=3,upper_secondary,primary,public_services,public_services,15-30min,<2h,no,no,yes,yes,medium,medium,important,good,2,11,11,12
+GP,W,18,urban,>3,upper_secondary,lower_secondary,other,public_services,<15min,5-10h,yes,no,yes,yes,good,medium,medium,very good,10,12,11,11
+GP,W,16,rural,>3,primary,primary,other,public_services,15-30min,<2h,yes,no,yes,no,medium,medium,medium,very bad,8,12,11,11
+GP,W,16,urban,>3,upper_secondary,upper_secondary,other,other,15-30min,<2h,yes,no,yes,yes,good,medium,hardly important,very good,4,9,9,10
+GP,M,16,urban,<=3,primary,primary,public_services,other,<15min,2-5h,no,no,no,no,good,much,important,very good,0,10,10,10
+GP,W,15,urban,>3,higher,higher,teacher,teacher,15-30min,<2h,no,no,yes,yes,good,medium,hardly important,very good,6,13,14,14
+GP,W,15,rural,>3,primary,primary,other,other,30-60min,<2h,no,no,yes,yes,very good,very much,very important,very bad,2,8,9,9
+GP,M,15,urban,>3,higher,upper_secondary,teacher,public_services,15-30min,>10h,yes,no,no,yes,bad,little,hardly important,medium,6,9,11,11
+GP,W,15,urban,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,2-5h,no,no,no,no,very bad,medium,hardly important,very bad,24,9,8,9
+GP,M,16,urban,>3,higher,higher,public_services,public_services,<15min,5-10h,yes,no,yes,yes,very good,medium,medium,very good,0,15,13,13
+GP,M,16,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,15-30min,<2h,yes,no,yes,yes,bad,medium,medium,bad,4,12,11,11
+GP,W,15,urban,>3,higher,higher,teacher,public_services,<15min,5-10h,yes,no,yes,yes,good,little,hardly important,very good,2,13,13,13
+GP,W,16,urban,<=3,primary,primary,at_home,at_home,<15min,<2h,no,no,no,yes,medium,much,important,very bad,4,10,11,11
+GP,M,17,urban,>3,lower_secondary,primary,other,other,<15min,<2h,yes,no,no,yes,very good,much,very important,very good,22,9,7,6
+GP,W,15,urban,>3,primary,primary,other,public_services,<15min,2-5h,yes,no,no,yes,good,much,hardly important,very good,0,12,12,12
+GP,W,15,urban,<=3,lower_secondary,primary,at_home,other,15-30min,<2h,yes,no,yes,yes,good,much,hardly important,very good,0,11,10,10
+GP,W,15,urban,>3,upper_secondary,lower_secondary,healthcare,public_services,<15min,2-5h,yes,no,no,yes,medium,medium,hardly important,medium,2,11,11,11
+GP,W,15,urban,>3,primary,lower_secondary,at_home,other,<15min,2-5h,yes,no,no,yes,good,medium,hardly important,very good,6,13,12,13
+GP,W,15,urban,>3,primary,lower_secondary,at_home,public_services,<15min,2-5h,no,no,no,no,bad,medium,important,very bad,6,11,11,11
+GP,M,16,urban,>3,higher,higher,teacher,teacher,<15min,<2h,yes,no,no,yes,medium,medium,hardly important,very good,16,9,9,8
+GP,M,15,urban,<=3,lower_secondary,primary,public_services,other,>60min,<2h,no,no,no,yes,good,very much,very important,very good,0,12,11,11
+GP,M,18,urban,<=3,primary,primary,other,other,<15min,<2h,no,no,no,yes,bad,medium,very important,good,0,11,9,0
+GP,M,16,urban,<=3,lower_secondary,primary,at_home,other,<15min,<2h,no,no,yes,no,good,much,important,very good,6,9,10,10
+GP,W,15,rural,>3,upper_secondary,upper_secondary,public_services,public_services,15-30min,5-10h,yes,yes,yes,yes,good,little,not important,medium,2,13,13,13
+GP,M,19,urban,>3,upper_secondary,lower_secondary,public_services,at_home,<15min,<2h,yes,no,no,yes,good,very much,important,good,6,11,9,11
+GP,W,17,urban,>3,higher,higher,other,teacher,<15min,<2h,yes,no,no,no,good,little,not important,good,0,13,13,13
+GP,M,15,rural,>3,lower_secondary,upper_secondary,at_home,public_services,<15min,2-5h,no,yes,yes,no,good,much,important,very bad,0,7,8,8
+GP,M,17,rural,<=3,primary,lower_secondary,other,other,<15min,<2h,no,no,no,no,bad,little,hardly important,very good,14,9,8,10
+GP,W,18,rural,>3,primary,primary,at_home,other,30-60min,<2h,yes,no,yes,no,very good,little,very important,good,6,11,10,11
+GP,M,16,rural,>3,lower_secondary,lower_secondary,at_home,other,30-60min,<2h,no,no,no,no,good,little,hardly important,medium,4,12,10,11
+GP,M,16,urban,>3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,yes,no,no,yes,good,very much,very important,very good,0,10,10,1
+GP,M,16,urban,<=3,primary,lower_secondary,healthcare,public_services,15-30min,<2h,no,no,no,yes,good,much,very important,very good,0,9,8,10
+GP,M,17,rural,<=3,lower_secondary,primary,at_home,other,15-30min,<2h,no,yes,yes,yes,medium,medium,hardly important,very good,8,8,8,9
+GP,M,17,rural,>3,upper_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,no,yes,good,much,important,medium,4,7,6,8
+GP,M,15,urban,<=3,primary,lower_secondary,other,other,15-30min,<2h,no,no,yes,no,good,much,important,very good,2,8,9,10
+GP,M,16,urban,>3,primary,upper_secondary,at_home,public_services,<15min,<2h,no,no,no,yes,very good,medium,medium,bad,2,9,8,8
+GP,M,17,rural,<=3,primary,primary,other,public_services,>60min,2-5h,no,no,yes,no,very good,medium,very important,very good,0,8,8,8
+GP,M,17,urban,>3,upper_secondary,lower_secondary,public_services,public_services,15-30min,<2h,yes,no,yes,no,good,very much,hardly important,bad,10,8,7,8
+GP,M,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,no,yes,good,medium,very important,good,0,9,10,11
+GP,W,16,urban,>3,higher,lower_secondary,healthcare,public_services,<15min,2-5h,no,no,no,yes,good,little,medium,medium,0,17,17,18
+GP,W,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,very good,very little,very important,good,0,12,12,13
+GP,W,16,urban,>3,higher,higher,healthcare,healthcare,<15min,2-5h,yes,no,no,yes,good,much,hardly important,medium,0,16,16,17
+GP,M,16,urban,>3,upper_secondary,higher,other,other,30-60min,<2h,yes,no,yes,yes,medium,much,very important,bad,4,9,9,10
+GP,M,16,urban,>3,primary,none,other,other,15-30min,2-5h,yes,no,yes,yes,good,medium,hardly important,medium,0,16,17,18
+GP,M,17,urban,<=3,higher,higher,teacher,other,<15min,2-5h,yes,no,yes,yes,good,much,important,very good,0,11,9,10
+GP,W,16,urban,>3,primary,upper_secondary,at_home,public_services,<15min,2-5h,no,no,yes,yes,good,medium,very important,medium,0,14,13,13
+GP,W,16,urban,<=3,upper_secondary,upper_secondary,other,other,15-30min,2-5h,yes,no,yes,yes,good,much,very important,good,0,14,14,15
+GP,M,17,urban,<=3,higher,upper_secondary,teacher,other,15-30min,2-5h,no,no,yes,yes,good,much,important,good,0,10,11,11
+GP,W,16,urban,>3,lower_secondary,lower_secondary,public_services,other,15-30min,2-5h,no,no,yes,yes,medium,much,important,very good,0,13,12,14
+GP,M,17,urban,>3,upper_secondary,upper_secondary,other,other,<15min,2-5h,no,no,yes,yes,good,medium,important,good,4,11,9,10
+GP,M,16,rural,>3,higher,lower_secondary,teacher,public_services,<15min,<2h,yes,no,yes,yes,good,medium,medium,medium,8,10,9,11
+GP,M,17,urban,>3,higher,upper_secondary,other,other,<15min,2-5h,yes,yes,yes,yes,very good,little,medium,bad,4,11,11,13
+GP,M,16,urban,>3,higher,upper_secondary,teacher,other,<15min,2-5h,yes,yes,yes,yes,medium,much,medium,medium,4,11,10,11
+GP,M,16,urban,>3,upper_secondary,upper_secondary,public_services,other,<15min,2-5h,no,no,yes,yes,good,little,medium,medium,0,11,12,13
+GP,W,17,urban,>3,lower_secondary,higher,public_services,public_services,<15min,2-5h,yes,no,yes,no,very good,much,hardly important,very good,0,17,18,17
+GP,W,17,urban,<=3,upper_secondary,upper_secondary,other,other,<15min,2-5h,yes,no,yes,yes,very good,medium,medium,very bad,32,14,13,14
+GP,W,16,urban,>3,upper_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,very bad,little,hardly important,very bad,8,14,15,16
+GP,M,17,urban,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,important,good,6,11,13,14
+GP,M,16,urban,>3,primary,lower_secondary,public_services,public_services,<15min,<2h,yes,no,yes,yes,medium,medium,medium,medium,0,10,9,11
+GP,M,16,urban,<=3,lower_secondary,primary,other,other,<15min,2-5h,no,no,yes,yes,good,little,medium,very good,0,13,14,16
+GP,W,17,urban,>3,upper_secondary,upper_secondary,healthcare,other,<15min,2-5h,yes,no,no,yes,medium,medium,medium,medium,10,12,13,14
+GP,M,17,rural,>3,primary,lower_secondary,at_home,other,<15min,2-5h,no,no,no,no,medium,very little,medium,medium,6,9,9,10
+GP,W,16,urban,>3,lower_secondary,upper_secondary,public_services,public_services,<15min,2-5h,no,no,no,yes,good,medium,medium,bad,6,12,12,13
+GP,W,17,urban,>3,primary,primary,at_home,public_services,<15min,2-5h,no,no,yes,yes,very good,medium,medium,medium,0,12,11,12
+GP,M,17,urban,>3,primary,lower_secondary,at_home,public_services,15-30min,2-5h,no,no,yes,yes,good,much,important,very good,16,10,11,12
+GP,M,16,rural,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,<2h,yes,no,yes,yes,good,medium,hardly important,very good,0,11,10,10
+GP,M,16,urban,>3,lower_secondary,upper_secondary,other,other,15-30min,<2h,no,no,no,yes,very good,medium,medium,medium,0,13,12,12
+GP,W,17,urban,<=3,lower_secondary,higher,public_services,public_services,<15min,2-5h,no,no,yes,yes,good,medium,hardly important,very good,8,14,15,16
+GP,M,17,urban,>3,higher,higher,public_services,teacher,<15min,<2h,no,no,no,yes,very good,little,medium,very good,4,13,13,14
+GP,M,16,rural,<=3,upper_secondary,upper_secondary,teacher,other,30-60min,<2h,yes,no,yes,yes,medium,medium,important,medium,16,10,11,12
+GP,W,17,urban,>3,higher,higher,public_services,teacher,15-30min,<2h,yes,no,no,yes,good,little,important,bad,30,14,15,16
+GP,W,16,urban,<=3,higher,higher,teacher,teacher,<15min,2-5h,yes,no,no,yes,good,very much,hardly important,medium,0,11,10,11
+GP,W,16,urban,>3,higher,upper_secondary,healthcare,other,<15min,2-5h,yes,no,yes,yes,good,medium,very important,bad,2,14,14,15
+GP,W,16,urban,>3,lower_secondary,upper_secondary,other,other,<15min,2-5h,yes,no,yes,no,good,much,medium,good,4,11,12,12
+GP,W,17,urban,>3,primary,primary,other,other,<15min,2-5h,yes,no,no,no,good,much,important,very bad,0,14,15,15
+GP,W,17,rural,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,yes,very good,medium,hardly important,medium,21,13,13,13
+GP,W,16,rural,>3,lower_secondary,lower_secondary,public_services,public_services,15-30min,>10h,yes,no,yes,yes,very good,medium,very important,very good,6,13,13,13
+GP,W,17,urban,>3,upper_secondary,higher,at_home,public_services,<15min,5-10h,yes,yes,no,yes,good,much,medium,very good,14,8,9,8
+GP,W,16,urban,>3,upper_secondary,primary,public_services,other,<15min,2-5h,yes,no,no,yes,bad,medium,medium,good,2,11,11,12
+GP,W,16,urban,>3,higher,upper_secondary,teacher,other,<15min,2-5h,no,no,yes,yes,very bad,medium,hardly important,very bad,4,14,15,15
+GP,W,16,urban,>3,primary,primary,at_home,other,15-30min,<2h,yes,no,no,no,good,medium,hardly important,very good,2,12,13,13
+GP,W,17,rural,>3,higher,upper_secondary,teacher,other,15-30min,5-10h,yes,no,yes,yes,good,much,hardly important,good,0,11,12,12
+GP,W,19,urban,>3,upper_secondary,upper_secondary,other,other,<15min,>10h,yes,no,yes,yes,good,medium,medium,medium,4,12,12,12
+GP,M,17,urban,<=3,higher,higher,public_services,other,<15min,2-5h,yes,no,no,yes,very good,medium,very important,medium,15,13,12,12
+GP,W,16,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,medium,medium,important,good,0,13,13,13
+GP,M,18,urban,>3,lower_secondary,lower_secondary,public_services,other,<15min,2-5h,yes,no,yes,yes,good,much,important,very good,10,12,11,11
+GP,W,17,rural,<=3,higher,higher,public_services,other,<15min,<2h,yes,no,no,no,very good,little,not important,medium,6,12,11,11
+GP,W,17,urban,<=3,upper_secondary,lower_secondary,other,other,15-30min,2-5h,no,no,no,yes,good,much,important,very bad,2,14,16,15
+GP,W,17,urban,>3,higher,upper_secondary,other,other,<15min,2-5h,no,no,no,yes,medium,much,very important,very bad,16,11,9,10
+GP,M,18,urban,<=3,upper_secondary,upper_secondary,public_services,healthcare,<15min,2-5h,yes,no,no,yes,medium,little,important,good,10,10,10,10
+GP,W,17,urban,>3,lower_secondary,upper_secondary,at_home,other,15-30min,<2h,yes,no,no,no,medium,medium,medium,medium,4,12,13,13
+GP,W,17,urban,>3,lower_secondary,lower_secondary,at_home,at_home,<15min,5-10h,yes,no,yes,yes,good,medium,medium,good,0,12,12,13
+GP,W,17,rural,>3,lower_secondary,primary,at_home,public_services,15-30min,2-5h,yes,no,yes,yes,good,little,very important,very good,0,11,10,11
+GP,W,17,urban,>3,primary,primary,at_home,other,<15min,5-10h,yes,no,yes,no,good,medium,important,very good,12,12,12,12
+GP,W,16,urban,>3,lower_secondary,upper_secondary,public_services,teacher,<15min,2-5h,no,no,no,yes,bad,medium,not important,medium,0,13,13,14
+GP,M,18,urban,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,yes,no,yes,medium,medium,medium,good,9,10,9,10
+GP,W,16,urban,>3,higher,higher,teacher,public_services,<15min,5-10h,yes,no,yes,yes,very good,medium,hardly important,very good,4,15,16,16
+GP,W,18,rural,>3,upper_secondary,primary,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,medium,good,4,8,8,8
+GP,W,17,urban,>3,upper_secondary,lower_secondary,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,important,medium,2,17,18,17
+GP,M,17,urban,<=3,lower_secondary,upper_secondary,public_services,public_services,<15min,2-5h,yes,no,no,yes,very good,medium,medium,medium,0,10,11,11
+GP,M,18,urban,<=3,lower_secondary,primary,at_home,other,>60min,2-5h,yes,no,yes,yes,good,medium,hardly important,medium,2,9,10,11
+GP,W,17,urban,>3,lower_secondary,primary,other,other,15-30min,5-10h,no,no,yes,yes,medium,little,medium,medium,0,15,15,16
+GP,W,17,urban,<=3,higher,upper_secondary,healthcare,other,<15min,2-5h,no,no,yes,yes,medium,little,medium,medium,0,14,12,12
+GP,M,17,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,yes,yes,good,very much,hardly important,very bad,0,12,13,13
+GP,M,17,urban,>3,higher,higher,teacher,teacher,<15min,2-5h,yes,no,yes,yes,good,very much,very important,bad,0,13,13,13
+GP,M,16,urban,>3,higher,higher,healthcare,other,<15min,2-5h,yes,no,yes,yes,good,little,important,very bad,0,13,13,14
+GP,M,16,urban,<=3,primary,primary,other,other,15-30min,2-5h,yes,no,no,yes,medium,much,hardly important,very good,2,9,9,9
+GP,M,16,urban,>3,upper_secondary,lower_secondary,at_home,other,15-30min,5-10h,no,no,yes,yes,very good,medium,medium,bad,0,12,12,12
+GP,M,17,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,yes,yes,good,much,hardly important,good,0,16,16,16
+GP,W,16,urban,>3,lower_secondary,primary,other,other,<15min,<2h,no,no,no,yes,good,very much,hardly important,very good,4,9,10,10
+GP,W,16,urban,>3,higher,primary,other,other,<15min,2-5h,no,no,yes,yes,very good,medium,medium,very good,0,14,13,13
+GP,W,18,urban,<=3,lower_secondary,higher,public_services,other,15-30min,2-5h,yes,no,no,yes,good,medium,medium,medium,18,10,10,10
+GP,W,18,urban,<=3,lower_secondary,lower_secondary,at_home,public_services,<15min,2-5h,yes,no,no,yes,very good,medium,not important,very good,16,9,8,10
+GP,W,18,urban,>3,upper_secondary,upper_secondary,other,other,15-30min,<2h,no,no,no,yes,good,very little,not important,medium,14,8,7,7
+GP,M,18,urban,>3,lower_secondary,lower_secondary,other,at_home,<15min,<2h,yes,no,yes,yes,good,much,medium,very bad,26,7,8,8
+GP,M,17,urban,>3,higher,higher,teacher,teacher,<15min,<2h,yes,no,yes,yes,good,little,not important,very good,6,10,8,9
+GP,W,17,urban,>3,upper_secondary,lower_secondary,other,other,<15min,2-5h,no,no,yes,no,very good,much,hardly important,medium,4,14,14,15
+GP,W,17,urban,<=3,primary,primary,at_home,at_home,<15min,5-10h,yes,no,yes,yes,good,medium,hardly important,good,10,11,10,10
+GP,W,16,urban,>3,primary,lower_secondary,other,other,<15min,<2h,no,no,no,yes,very good,medium,very important,very good,4,12,11,11
+GP,W,17,rural,>3,lower_secondary,primary,at_home,public_services,30-60min,2-5h,no,no,yes,no,bad,very little,not important,medium,2,13,13,13
+GP,W,17,rural,<=3,primary,higher,other,other,>60min,<2h,yes,no,no,yes,very good,very much,important,very good,14,9,9,8
+GP,M,18,urban,>3,lower_secondary,lower_secondary,other,public_services,<15min,2-5h,no,no,no,yes,very good,very much,important,bad,16,8,7,8
+GP,W,17,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,yes,medium,very little,hardly important,very bad,8,11,9,10
+GP,W,17,rural,<=3,primary,primary,at_home,other,15-30min,5-10h,no,no,yes,yes,good,medium,medium,very good,4,15,14,15
+GP,W,17,urban,<=3,higher,lower_secondary,teacher,other,<15min,2-5h,yes,no,yes,no,good,medium,hardly important,good,4,15,14,14
+GP,M,17,urban,<=3,higher,upper_secondary,healthcare,other,15-30min,2-5h,no,no,yes,yes,bad,very much,very important,very good,8,15,15,15
+GP,M,17,rural,<=3,higher,higher,teacher,other,15-30min,2-5h,yes,no,no,yes,medium,medium,medium,good,0,12,12,12
+GP,M,16,urban,<=3,higher,upper_secondary,teacher,other,<15min,<2h,no,no,yes,yes,very good,much,very important,medium,7,14,14,15
+GP,M,16,urban,>3,higher,higher,public_services,public_services,<15min,<2h,no,yes,yes,yes,very good,medium,hardly important,very good,4,14,15,15
+GP,W,17,urban,>3,higher,higher,teacher,public_services,<15min,2-5h,yes,yes,no,yes,very good,medium,not important,very good,2,11,11,12
+GP,M,17,rural,>3,primary,primary,other,other,15-30min,5-10h,no,no,no,yes,good,medium,medium,very bad,2,13,14,15
+GP,W,17,urban,>3,upper_secondary,upper_secondary,public_services,other,15-30min,5-10h,yes,no,no,yes,good,little,hardly important,very good,10,11,11,11
+GP,W,17,urban,>3,primary,primary,at_home,other,<15min,2-5h,no,no,no,no,good,medium,hardly important,good,10,10,9,10
+GP,W,18,urban,>3,lower_secondary,primary,other,other,15-30min,5-10h,yes,no,no,yes,good,much,important,medium,10,12,10,11
+GP,M,16,urban,>3,lower_secondary,primary,other,other,30-60min,<2h,no,no,no,yes,good,medium,medium,good,7,15,16,16
+GP,W,17,urban,>3,primary,primary,other,public_services,<15min,2-5h,yes,no,no,no,good,medium,important,very good,4,11,10,11
+GP,M,17,urban,>3,lower_secondary,upper_secondary,other,other,15-30min,<2h,no,no,no,yes,very good,little,hardly important,bad,2,9,12,13
+GP,M,22,urban,>3,upper_secondary,primary,public_services,public_services,<15min,<2h,no,no,no,yes,very good,much,very important,very bad,12,7,8,5
+GP,M,18,rural,<=3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,yes,no,no,yes,good,medium,medium,very good,8,10,9,10
+GP,M,16,urban,>3,none,lower_secondary,other,other,<15min,<2h,no,no,no,yes,good,medium,hardly important,very good,0,11,12,11
+GP,M,18,urban,>3,upper_secondary,lower_secondary,public_services,other,15-30min,<2h,no,no,no,yes,good,much,very important,very good,8,7,8,7
+GP,M,16,urban,>3,upper_secondary,upper_secondary,at_home,other,30-60min,2-5h,yes,no,no,yes,very good,medium,medium,bad,4,9,11,10
+GP,M,18,urban,>3,lower_secondary,primary,public_services,public_services,<15min,<2h,no,no,no,yes,medium,little,very important,very good,4,7,8,6
+GP,M,16,rural,>3,lower_secondary,primary,other,other,15-30min,<2h,no,no,yes,no,medium,medium,hardly important,medium,2,14,13,12
+GP,M,17,rural,>3,lower_secondary,primary,other,other,<15min,<2h,no,no,no,yes,good,much,hardly important,very good,0,12,12,13
+GP,M,17,urban,<=3,primary,primary,healthcare,other,15-30min,<2h,yes,no,yes,yes,good,much,important,very good,0,9,10,10
+GP,W,18,urban,<=3,lower_secondary,primary,other,other,<15min,2-5h,yes,no,no,yes,good,medium,important,very good,2,12,12,13
+GP,W,17,urban,<=3,higher,lower_secondary,teacher,public_services,<15min,>10h,yes,no,yes,yes,good,little,medium,good,2,14,15,17
+GP,W,19,urban,>3,lower_secondary,lower_secondary,public_services,public_services,<15min,2-5h,yes,no,no,yes,good,medium,medium,very good,0,10,10,11
+GP,M,18,urban,<=3,lower_secondary,primary,public_services,other,30-60min,2-5h,no,no,yes,yes,good,much,very important,very good,4,11,10,11
+GP,W,17,rural,>3,higher,lower_secondary,other,other,<15min,5-10h,yes,no,yes,yes,good,medium,important,very good,2,11,12,14
+GP,W,18,urban,<=3,primary,primary,other,at_home,<15min,5-10h,yes,no,no,no,good,much,medium,medium,4,11,12,14
+GP,W,18,rural,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,no,no,medium,little,medium,very good,4,11,11,13
+GP,M,19,urban,<=3,higher,upper_secondary,public_services,at_home,<15min,2-5h,yes,no,no,yes,good,medium,not important,very bad,4,11,13,14
+GP,M,18,urban,>3,lower_secondary,primary,other,other,<15min,2-5h,no,no,yes,yes,very good,little,important,good,2,16,16,16
+GP,M,17,rural,>3,lower_secondary,lower_secondary,other,public_services,15-30min,<2h,no,no,no,no,very good,little,hardly important,good,0,9,10,10
+GP,W,17,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,<15min,>10h,no,no,yes,yes,medium,much,not important,bad,2,10,11,12
+GP,W,20,rural,>3,lower_secondary,primary,other,other,15-30min,2-5h,yes,yes,yes,yes,very bad,little,medium,bad,8,10,12,12
+GP,W,18,urban,>3,higher,upper_secondary,public_services,other,<15min,2-5h,yes,no,no,yes,medium,very little,hardly important,bad,2,15,15,15
+GP,M,18,urban,>3,higher,upper_secondary,teacher,other,<15min,2-5h,yes,no,no,yes,good,medium,hardly important,medium,2,10,10,11
+GP,M,18,rural,>3,upper_secondary,lower_secondary,other,other,<15min,5-10h,no,no,yes,no,very good,medium,hardly important,medium,2,10,11,12
+GP,W,17,urban,>3,upper_secondary,upper_secondary,other,other,<15min,5-10h,no,no,yes,no,medium,little,medium,good,2,15,12,13
+GP,W,18,urban,>3,lower_secondary,lower_secondary,at_home,public_services,<15min,5-10h,yes,no,yes,yes,good,medium,medium,medium,0,11,12,13
+GP,M,17,urban,>3,lower_secondary,lower_secondary,other,other,15-30min,<2h,no,no,no,yes,good,much,important,good,8,8,8,9
+GP,M,18,rural,<=3,upper_secondary,higher,other,other,15-30min,2-5h,yes,no,yes,yes,good,little,very important,very bad,6,15,16,16
+GP,M,17,urban,>3,upper_secondary,primary,public_services,other,<15min,2-5h,no,no,yes,yes,very good,much,important,very good,0,11,11,14
+GP,W,18,rural,>3,higher,higher,teacher,other,15-30min,2-5h,no,no,yes,yes,good,medium,important,good,8,10,11,12
+GP,M,18,urban,>3,higher,lower_secondary,healthcare,other,<15min,2-5h,yes,no,yes,yes,very good,much,very important,very good,4,10,12,14
+GP,W,18,rural,>3,lower_secondary,primary,other,other,15-30min,2-5h,yes,no,no,yes,good,medium,very important,medium,12,8,9,10
+GP,W,19,urban,>3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,very important,very good,16,11,12,12
+GP,W,18,urban,>3,lower_secondary,upper_secondary,other,public_services,<15min,>10h,yes,no,yes,yes,good,very much,very important,bad,10,16,16,16
+GP,W,18,urban,<=3,primary,primary,other,other,15-30min,2-5h,yes,no,no,no,good,much,medium,medium,2,13,13,13
+GP,M,17,rural,>3,primary,lower_secondary,at_home,at_home,<15min,2-5h,yes,no,yes,no,medium,very much,hardly important,very bad,2,16,17,18
+GP,W,18,urban,>3,lower_secondary,primary,other,other,<15min,2-5h,yes,no,no,yes,good,little,very important,very bad,8,14,14,15
+GP,W,17,urban,>3,lower_secondary,higher,at_home,healthcare,15-30min,2-5h,yes,no,no,yes,good,medium,medium,very bad,6,15,16,16
+GP,W,17,urban,<=3,lower_secondary,lower_secondary,public_services,other,15-30min,2-5h,yes,no,no,yes,good,much,important,very good,6,12,12,12
+GP,W,18,rural,>3,upper_secondary,lower_secondary,other,public_services,15-30min,2-5h,no,no,no,yes,good,very little,not important,very good,15,12,9,10
+GP,M,18,urban,>3,higher,higher,teacher,public_services,15-30min,<2h,no,no,yes,yes,medium,little,important,medium,6,11,12,12
+GP,W,18,urban,>3,higher,higher,healthcare,healthcare,<15min,2-5h,yes,no,yes,yes,bad,much,important,good,2,14,12,13
+GP,W,17,urban,>3,lower_secondary,lower_secondary,other,public_services,30-60min,5-10h,yes,no,no,yes,good,little,medium,very bad,8,13,15,15
+GP,W,19,rural,>3,upper_secondary,lower_secondary,public_services,public_services,<15min,2-5h,yes,no,no,yes,medium,medium,medium,medium,0,9,8,10
+GP,M,18,urban,<=3,higher,upper_secondary,teacher,public_services,15-30min,<2h,no,no,yes,yes,good,little,medium,very bad,0,10,10,10
+GP,M,18,urban,>3,primary,lower_secondary,at_home,other,15-30min,<2h,no,no,no,yes,medium,much,important,good,10,10,10,11
+GP,M,17,urban,<=3,higher,primary,public_services,other,15-30min,<2h,no,no,yes,yes,good,very much,important,very good,22,11,11,10
+GP,M,17,urban,<=3,upper_secondary,lower_secondary,teacher,public_services,<15min,<2h,no,no,no,yes,good,much,important,medium,18,13,13,13
+GP,W,18,rural,<=3,primary,primary,at_home,other,15-30min,>10h,yes,no,yes,no,very good,little,hardly important,medium,2,17,17,18
+GP,W,18,urban,>3,primary,primary,other,other,15-30min,2-5h,no,no,yes,yes,very good,much,important,good,0,12,13,13
+GP,W,17,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,very good,much,very important,very good,12,12,12,14
+GP,W,18,urban,>3,lower_secondary,primary,other,other,15-30min,2-5h,no,no,yes,yes,good,medium,not important,very good,10,12,13,14
+GP,M,17,urban,>3,primary,primary,other,other,<15min,2-5h,no,no,no,yes,good,medium,medium,good,0,12,12,12
+GP,W,18,urban,>3,lower_secondary,lower_secondary,at_home,at_home,<15min,5-10h,yes,no,no,yes,good,medium,medium,bad,0,18,18,18
+GP,W,17,urban,>3,primary,primary,public_services,teacher,<15min,5-10h,yes,no,no,yes,good,medium,medium,medium,0,13,13,14
+GP,M,18,urban,>3,lower_secondary,primary,public_services,public_services,<15min,5-10h,no,no,yes,yes,good,little,important,bad,0,14,15,15
+GP,M,18,urban,<=3,higher,higher,teacher,teacher,<15min,2-5h,yes,no,yes,yes,very good,much,medium,bad,0,17,17,17
+GP,M,18,urban,>3,higher,lower_secondary,teacher,other,<15min,2-5h,yes,no,yes,yes,good,medium,hardly important,very good,2,15,16,16
+GP,W,17,urban,>3,higher,upper_secondary,healthcare,public_services,<15min,5-10h,yes,no,no,yes,good,little,hardly important,medium,0,17,18,18
+GP,W,17,rural,<=3,upper_secondary,primary,public_services,other,15-30min,>10h,yes,no,no,no,medium,very little,hardly important,medium,0,18,19,19
+GP,M,18,rural,<=3,upper_secondary,lower_secondary,public_services,other,15-30min,5-10h,yes,no,yes,yes,very good,much,hardly important,good,0,14,15,15
+GP,M,17,urban,>3,upper_secondary,upper_secondary,healthcare,other,<15min,<2h,yes,no,no,yes,good,much,medium,very good,0,14,15,15
+GP,W,19,urban,>3,higher,higher,healthcare,other,15-30min,2-5h,yes,no,yes,yes,bad,medium,important,bad,2,14,13,13
+GP,W,18,urban,<=3,higher,upper_secondary,other,other,15-30min,2-5h,yes,no,no,yes,good,much,very important,bad,0,13,14,14
+GP,W,18,urban,>3,higher,upper_secondary,other,other,<15min,>10h,yes,no,no,yes,good,medium,medium,medium,0,16,17,17
+GP,M,18,urban,<=3,higher,higher,teacher,teacher,<15min,<2h,yes,no,no,yes,very bad,much,hardly important,very bad,0,18,18,17
+GP,W,18,urban,<=3,higher,higher,healthcare,other,<15min,2-5h,yes,yes,no,yes,good,little,important,good,0,14,15,15
+GP,M,17,urban,<=3,higher,higher,other,teacher,15-30min,<2h,no,no,no,yes,good,very little,not important,very good,0,12,13,13
+GP,W,17,rural,>3,higher,higher,public_services,public_services,15-30min,5-10h,yes,no,yes,yes,very good,medium,important,very good,0,7,7,8
+GP,W,17,urban,>3,higher,lower_secondary,other,other,15-30min,5-10h,yes,no,no,yes,good,medium,medium,medium,0,16,16,16
+GP,W,17,urban,>3,upper_secondary,lower_secondary,healthcare,healthcare,<15min,>10h,yes,no,yes,yes,very good,little,hardly important,very good,0,18,18,18
+GP,M,19,rural,<=3,lower_secondary,primary,at_home,public_services,15-30min,5-10h,no,no,yes,yes,good,medium,not important,very good,0,9,10,11
+GP,M,20,urban,>3,upper_secondary,lower_secondary,public_services,other,<15min,<2h,no,no,yes,no,very good,very much,medium,very good,0,14,15,15
+GP,M,19,rural,>3,upper_secondary,upper_secondary,other,public_services,<15min,2-5h,no,no,yes,no,good,very much,medium,very good,0,10,10,11
+GP,W,18,urban,>3,primary,higher,other,teacher,<15min,2-5h,yes,no,no,no,medium,much,important,very good,2,10,10,11
+GP,W,18,urban,>3,lower_secondary,primary,public_services,other,15-30min,2-5h,yes,no,yes,yes,very good,medium,medium,very bad,2,12,12,15
+GP,W,17,urban,>3,lower_secondary,upper_secondary,other,other,15-30min,2-5h,no,no,yes,yes,good,little,not important,medium,2,11,12,14
+GP,W,17,rural,>3,higher,higher,teacher,teacher,<15min,<2h,no,no,yes,yes,good,much,important,very good,2,15,16,17
+GP,W,18,urban,>3,higher,upper_secondary,other,other,<15min,5-10h,yes,no,yes,yes,good,medium,important,very good,2,14,15,17
+GP,W,18,urban,<=3,higher,upper_secondary,healthcare,public_services,15-30min,<2h,yes,no,no,yes,medium,little,important,very bad,8,12,12,15
+GP,W,17,rural,>3,upper_secondary,higher,at_home,public_services,<15min,5-10h,yes,no,yes,yes,good,medium,important,very good,2,15,15,17
+GP,W,18,urban,>3,upper_secondary,upper_secondary,at_home,other,<15min,2-5h,yes,no,no,yes,good,very little,important,medium,8,11,12,14
+GP,M,19,urban,>3,higher,lower_secondary,healthcare,other,15-30min,2-5h,yes,no,yes,yes,very good,much,important,very bad,9,11,10,10
+GP,W,18,urban,>3,higher,higher,teacher,other,<15min,2-5h,yes,no,no,yes,good,much,important,very good,0,12,11,13
+GP,W,18,urban,>3,upper_secondary,higher,other,other,<15min,<2h,yes,no,yes,yes,very good,much,important,very bad,4,11,12,14
+GP,W,17,urban,>3,higher,higher,healthcare,healthcare,<15min,<2h,no,no,yes,yes,very good,medium,important,very good,2,14,15,17
+GP,W,17,urban,>3,higher,upper_secondary,public_services,public_services,<15min,2-5h,yes,no,no,yes,very good,little,hardly important,very good,14,15,14,17
+GP,W,17,urban,<=3,upper_secondary,upper_secondary,public_services,other,<15min,2-5h,yes,no,no,yes,very good,medium,medium,very good,0,12,12,13
+GP,W,17,urban,<=3,lower_secondary,primary,other,other,<15min,2-5h,no,no,yes,yes,good,little,medium,bad,2,11,12,14
+GP,M,18,urban,<=3,higher,higher,other,other,<15min,<2h,yes,no,no,yes,good,little,very important,very good,2,8,9,11
+GP,W,19,urban,>3,primary,primary,other,other,30-60min,5-10h,no,no,yes,no,very bad,very much,very important,very good,12,10,10,11
+GP,W,19,urban,<=3,primary,primary,other,other,30-60min,2-5h,yes,no,no,yes,very good,medium,important,good,2,8,8,9
+GP,W,18,urban,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,yes,yes,good,medium,very important,very good,2,10,10,10
+GP,W,17,urban,>3,lower_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,no,good,little,hardly important,medium,4,14,13,13
+GP,W,17,rural,<=3,lower_secondary,lower_secondary,public_services,public_services,<15min,5-10h,yes,no,yes,yes,medium,medium,hardly important,medium,0,11,11,10
+GP,W,17,urban,>3,upper_secondary,primary,public_services,public_services,<15min,5-10h,yes,no,no,yes,medium,much,medium,very good,0,17,18,17
+GP,W,17,urban,<=3,none,lower_secondary,at_home,at_home,15-30min,5-10h,no,no,no,yes,medium,medium,medium,bad,0,14,14,15
+GP,W,18,urban,>3,primary,primary,other,other,15-30min,5-10h,no,no,yes,yes,good,very much,very important,bad,0,14,14,14
+GP,M,18,urban,>3,higher,higher,other,other,<15min,5-10h,no,no,yes,yes,good,medium,medium,medium,0,13,14,13
+GP,M,17,urban,>3,upper_secondary,upper_secondary,other,public_services,<15min,<2h,no,no,yes,yes,good,medium,very important,very good,0,17,18,17
+GP,M,17,rural,>3,lower_secondary,lower_secondary,public_services,other,>60min,<2h,yes,no,no,yes,good,much,very important,good,2,11,10,10
+GP,W,17,urban,>3,higher,higher,teacher,public_services,<15min,5-10h,yes,no,yes,yes,very good,much,important,good,0,13,12,13
+GP,W,17,urban,>3,higher,higher,teacher,teacher,15-30min,5-10h,yes,no,no,yes,good,medium,medium,good,4,15,14,15
+GP,W,17,urban,>3,upper_secondary,upper_secondary,at_home,other,<15min,<2h,yes,yes,yes,yes,good,little,very important,very good,2,11,12,11
+GP,M,18,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,>10h,yes,yes,yes,yes,good,very much,very important,very good,0,11,11,12
+GP,M,19,rural,>3,upper_secondary,lower_secondary,at_home,public_services,<15min,<2h,yes,no,no,no,very good,medium,important,very good,0,11,10,10
+GP,W,18,urban,>3,lower_secondary,lower_secondary,at_home,other,>60min,2-5h,no,no,yes,no,good,little,very important,bad,2,10,9,10
+GP,W,17,rural,>3,lower_secondary,higher,at_home,other,<15min,5-10h,yes,no,no,yes,good,much,medium,very good,0,15,15,15
+GP,M,18,urban,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,no,no,no,yes,very good,much,hardly important,very good,6,15,14,15
+GP,W,18,urban,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,2-5h,no,no,yes,yes,very good,medium,important,good,8,10,11,12
+GP,W,18,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,2-5h,no,no,yes,yes,good,medium,medium,bad,0,10,9,12
+GP,W,18,rural,>3,lower_secondary,lower_secondary,at_home,other,15-30min,>10h,no,no,yes,no,good,much,important,good,6,14,13,14
+GP,W,17,urban,>3,upper_secondary,higher,public_services,other,<15min,5-10h,no,no,no,yes,good,much,very important,very good,8,11,13,14
+GP,W,17,urban,>3,upper_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,good,medium,hardly important,bad,0,12,13,15
+GP,W,18,urban,<=3,upper_secondary,upper_secondary,public_services,public_services,<15min,>10h,yes,no,no,yes,very good,medium,medium,very bad,4,14,14,15
+GP,W,17,rural,>3,upper_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,good,medium,medium,bad,0,14,14,16
+GP,M,18,urban,>3,higher,higher,teacher,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,medium,bad,0,12,12,13
+GP,M,18,urban,<=3,upper_secondary,higher,public_services,other,<15min,2-5h,no,no,yes,yes,good,medium,medium,very good,6,16,16,17
+GP,W,17,urban,>3,lower_secondary,lower_secondary,at_home,at_home,<15min,2-5h,yes,no,no,yes,medium,medium,not important,good,18,10,12,14
+GP,W,18,urban,>3,lower_secondary,upper_secondary,at_home,other,<15min,5-10h,yes,no,no,yes,good,medium,medium,medium,0,11,12,14
+GP,W,18,urban,>3,upper_secondary,lower_secondary,other,public_services,<15min,5-10h,no,no,no,yes,very good,much,medium,very bad,4,14,16,17
+GP,M,18,rural,>3,higher,upper_secondary,teacher,public_services,<15min,5-10h,no,no,no,yes,very good,medium,hardly important,good,4,15,14,17
+GP,M,18,urban,>3,higher,upper_secondary,teacher,other,<15min,5-10h,yes,no,no,yes,very good,much,very important,very good,0,14,13,14
+GP,W,17,urban,>3,higher,upper_secondary,healthcare,other,<15min,5-10h,yes,no,yes,yes,good,much,medium,good,0,11,12,13
+GP,W,17,urban,>3,lower_secondary,primary,public_services,other,15-30min,2-5h,yes,no,yes,yes,good,medium,important,very bad,10,12,15,15
+GP,W,17,urban,>3,lower_secondary,primary,public_services,other,<15min,2-5h,yes,no,yes,yes,good,medium,very important,good,4,12,16,16
+GP,W,19,urban,<=3,lower_secondary,upper_secondary,at_home,other,15-30min,<2h,no,no,no,yes,bad,little,medium,very good,16,10,11,11
+GP,W,17,urban,>3,upper_secondary,primary,other,at_home,<15min,<2h,yes,yes,no,yes,good,very little,hardly important,medium,6,10,13,13
+GP,W,21,urban,<=3,higher,higher,other,other,<15min,5-10h,no,yes,yes,yes,medium,medium,hardly important,very good,0,9,12,12
+GP,M,18,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,<15min,2-5h,yes,no,yes,yes,good,much,important,medium,11,9,11,12
+GP,M,18,urban,<=3,upper_secondary,higher,other,other,<15min,2-5h,no,no,yes,yes,good,medium,very important,bad,9,13,14,15
+GP,W,17,urban,>3,lower_secondary,lower_secondary,public_services,public_services,<15min,2-5h,yes,no,yes,yes,good,medium,important,good,0,13,17,17
+GP,M,17,urban,<=3,higher,higher,healthcare,other,<15min,5-10h,yes,no,no,yes,good,much,hardly important,good,2,12,15,15
+GP,W,18,urban,<=3,higher,lower_secondary,teacher,other,<15min,2-5h,yes,no,yes,yes,good,little,hardly important,medium,0,14,17,17
+GP,M,21,rural,<=3,primary,primary,at_home,other,15-30min,2-5h,yes,no,yes,yes,very good,medium,medium,good,21,9,10,10
+GP,W,20,rural,>3,primary,primary,other,other,15-30min,5-10h,no,no,no,yes,medium,little,hardly important,medium,8,11,15,15
+GP,W,19,urban,>3,higher,higher,teacher,other,<15min,<2h,yes,no,no,yes,medium,little,very important,very good,5,9,10,11
+GP,M,17,urban,<=3,upper_secondary,lower_secondary,other,other,<15min,2-5h,yes,no,no,yes,good,much,important,very good,10,16,18,18
+GP,W,18,urban,>3,upper_secondary,lower_secondary,at_home,other,<15min,5-10h,yes,no,no,yes,good,medium,important,bad,5,14,17,17
+GP,M,18,rural,>3,lower_secondary,upper_secondary,other,public_services,<15min,<2h,no,no,no,yes,medium,very little,medium,good,13,13,14,14
+GP,M,19,urban,>3,lower_secondary,primary,other,other,<15min,<2h,no,no,no,yes,very good,medium,important,good,10,7,11,11
+GP,W,18,urban,<=3,lower_secondary,lower_secondary,public_services,other,15-30min,2-5h,yes,no,no,yes,good,very little,important,good,10,14,17,17
+GP,W,20,urban,>3,primary,none,other,other,15-30min,<2h,no,no,no,yes,very good,medium,not important,very good,5,8,10,10
+GP,W,18,urban,>3,upper_secondary,lower_secondary,public_services,other,<15min,2-5h,yes,no,yes,yes,medium,very little,hardly important,very bad,4,10,13,13
+MS,W,16,urban,>3,primary,upper_secondary,at_home,other,15-30min,<2h,yes,no,no,yes,good,medium,medium,very good,11,10,11,11
+MS,W,16,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,yes,yes,good,much,important,very good,0,12,12,12
+MS,W,15,rural,>3,primary,primary,at_home,public_services,<15min,<2h,yes,no,no,no,good,very little,medium,bad,6,10,10,10
+MS,W,15,rural,>3,upper_secondary,upper_secondary,at_home,other,15-30min,<2h,yes,no,no,yes,very good,much,important,very good,4,10,10,11
+MS,W,16,rural,>3,lower_secondary,upper_secondary,at_home,public_services,15-30min,2-5h,no,no,no,no,good,very much,hardly important,very good,0,16,17,17
+MS,W,15,rural,<=3,lower_secondary,primary,at_home,other,15-30min,<2h,no,no,no,no,very bad,medium,important,very bad,0,6,8,9
+MS,M,16,rural,<=3,higher,higher,at_home,other,<15min,2-5h,yes,no,no,no,very good,medium,hardly important,bad,5,10,11,11
+MS,M,16,urban,>3,primary,lower_secondary,other,other,<15min,5-10h,no,no,no,yes,good,much,medium,very good,0,10,11,11
+MS,W,17,rural,>3,upper_secondary,lower_secondary,at_home,other,<15min,2-5h,no,no,no,no,good,very much,important,very good,0,10,10,10
+MS,W,17,rural,>3,primary,primary,other,other,<15min,<2h,yes,no,no,yes,very good,much,important,very good,0,6,6,7
+MS,W,15,rural,>3,higher,higher,teacher,other,15-30min,<2h,no,no,no,yes,very bad,very much,not important,very good,0,13,14,14
+MS,W,16,urban,<=3,lower_secondary,lower_secondary,at_home,other,15-30min,>10h,no,no,yes,no,very bad,little,not important,very bad,4,10,9,11
+MS,W,15,rural,<=3,primary,primary,at_home,public_services,15-30min,2-5h,yes,no,no,yes,very good,much,medium,good,0,10,10,10
+MS,W,15,rural,<=3,primary,primary,other,public_services,15-30min,<2h,yes,no,no,yes,good,much,medium,bad,4,6,7,8
+MS,W,16,rural,>3,none,lower_secondary,other,other,15-30min,<2h,yes,no,yes,no,medium,little,medium,bad,0,12,11,12
+MS,W,17,rural,>3,lower_secondary,upper_secondary,other,other,15-30min,<2h,yes,no,no,yes,very good,very much,very important,medium,2,10,11,12
+MS,W,15,rural,>3,upper_secondary,upper_secondary,other,public_services,15-30min,<2h,no,no,no,yes,good,very little,medium,good,0,14,16,16
+MS,M,16,urban,>3,primary,primary,at_home,public_services,15-30min,2-5h,yes,no,yes,no,very good,much,very important,medium,0,7,0,0
+MS,M,17,urban,>3,primary,primary,other,other,<15min,2-5h,no,yes,no,yes,good,much,medium,very good,4,8,9,9
+MS,M,15,rural,<=3,higher,primary,healthcare,public_services,<15min,2-5h,yes,no,yes,yes,very good,medium,important,bad,0,12,13,14
+MS,M,15,rural,<=3,higher,primary,healthcare,public_services,<15min,2-5h,yes,no,yes,yes,very good,medium,important,bad,7,7,9,8
+MS,M,16,rural,>3,upper_secondary,higher,other,healthcare,30-60min,2-5h,no,no,no,no,medium,much,very important,very good,4,9,10,11
+MS,M,15,rural,>3,primary,primary,other,other,>60min,2-5h,yes,no,yes,no,very good,much,very important,good,8,7,9,9
+MS,M,15,urban,<=3,upper_secondary,upper_secondary,at_home,at_home,<15min,2-5h,yes,no,yes,yes,very good,medium,medium,very good,0,11,11,11
+MS,M,17,rural,>3,lower_secondary,primary,other,other,30-60min,<2h,no,no,yes,no,very good,very much,very important,medium,8,8,10,9
+MS,W,16,rural,>3,higher,higher,teacher,teacher,15-30min,5-10h,no,no,yes,yes,good,little,hardly important,good,6,16,16,17
+MS,W,15,rural,>3,primary,lower_secondary,other,public_services,15-30min,<2h,no,no,no,no,very good,very little,hardly important,very bad,3,11,13,13
+MS,W,16,rural,>3,lower_secondary,upper_secondary,other,public_services,30-60min,2-5h,yes,no,no,yes,good,very much,important,very bad,2,15,15,15
+MS,M,16,rural,>3,primary,lower_secondary,other,other,15-30min,2-5h,no,no,no,no,good,medium,medium,very good,0,10,11,11
+MS,W,16,rural,>3,lower_secondary,lower_secondary,other,other,30-60min,2-5h,yes,no,no,yes,good,much,very important,good,4,9,10,11
+MS,W,16,urban,>3,primary,lower_secondary,other,public_services,<15min,5-10h,yes,no,no,no,very bad,medium,hardly important,good,0,10,8,8
+MS,W,16,urban,>3,primary,lower_secondary,other,public_services,<15min,5-10h,yes,no,no,no,very bad,medium,hardly important,good,3,9,8,8
+MS,W,15,urban,>3,lower_secondary,primary,at_home,other,<15min,2-5h,yes,no,no,yes,good,much,hardly important,bad,0,9,10,9
+MS,W,16,urban,>3,primary,primary,at_home,other,<15min,2-5h,yes,no,no,no,very good,much,medium,bad,0,13,14,15
+MS,M,17,rural,<=3,primary,lower_secondary,at_home,public_services,<15min,<2h,yes,no,yes,yes,very good,very much,very important,medium,4,10,11,11
+MS,W,16,rural,>3,primary,primary,other,other,>60min,>10h,yes,no,no,yes,good,medium,hardly important,very bad,0,13,10,13
+MS,W,16,rural,>3,primary,primary,at_home,other,>60min,5-10h,yes,no,no,no,good,much,medium,very good,2,10,9,10
+MS,W,15,rural,>3,primary,primary,at_home,other,15-30min,2-5h,yes,no,yes,yes,good,medium,medium,bad,1,11,10,11
+MS,W,16,rural,>3,primary,primary,at_home,other,15-30min,<2h,no,no,yes,yes,good,little,hardly important,bad,0,13,12,14
+MS,W,15,rural,>3,primary,primary,at_home,at_home,30-60min,2-5h,yes,no,no,no,good,little,not important,bad,0,13,14,14
+MS,W,15,rural,<=3,lower_secondary,lower_secondary,other,other,<15min,5-10h,yes,no,no,no,good,much,medium,very good,2,14,11,12
+MS,M,16,rural,>3,primary,primary,at_home,other,15-30min,<2h,no,no,yes,no,medium,much,important,very good,6,11,11,11
+MS,W,18,urban,>3,primary,lower_secondary,other,other,<15min,2-5h,yes,no,yes,yes,medium,much,important,very good,9,9,8,8
+MS,M,15,urban,>3,upper_secondary,primary,other,public_services,15-30min,<2h,yes,no,no,no,medium,little,medium,good,0,10,9,11
+MS,W,16,rural,>3,lower_secondary,lower_secondary,other,public_services,30-60min,2-5h,yes,no,yes,yes,very good,medium,important,bad,1,14,13,14
+MS,M,15,urban,>3,lower_secondary,lower_secondary,healthcare,other,30-60min,<2h,no,no,no,no,good,medium,medium,good,1,13,12,13
+MS,M,16,urban,>3,higher,higher,other,teacher,<15min,2-5h,yes,no,yes,no,good,medium,not important,medium,0,13,12,13
+MS,W,15,rural,>3,upper_secondary,upper_secondary,public_services,other,<15min,2-5h,yes,no,no,yes,good,very much,important,very bad,4,13,12,12
+MS,W,16,rural,>3,lower_secondary,lower_secondary,at_home,other,15-30min,2-5h,yes,no,yes,no,good,much,important,very good,2,12,11,12
+MS,W,16,rural,<=3,lower_secondary,lower_secondary,other,other,30-60min,<2h,yes,no,yes,no,good,medium,hardly important,good,0,14,14,16
+MS,M,16,urban,<=3,lower_secondary,primary,at_home,public_services,15-30min,<2h,yes,no,yes,yes,bad,much,medium,good,4,10,8,10
+MS,M,15,rural,<=3,primary,upper_secondary,at_home,other,30-60min,<2h,yes,no,yes,yes,good,little,important,medium,2,10,11,11
+MS,W,15,urban,>3,lower_secondary,lower_secondary,other,public_services,15-30min,5-10h,yes,no,yes,no,very good,medium,hardly important,good,0,12,13,14
+MS,W,16,rural,<=3,lower_secondary,primary,other,other,<15min,<2h,yes,no,no,yes,very good,much,medium,very good,2,10,8,8
+MS,M,15,urban,>3,upper_secondary,upper_secondary,public_services,public_services,15-30min,<2h,yes,no,yes,yes,good,medium,medium,medium,11,12,10,11
+MS,W,16,rural,>3,primary,primary,at_home,other,15-30min,2-5h,yes,no,no,no,medium,much,medium,very bad,0,7,7,8
+MS,W,17,urban,>3,lower_secondary,lower_secondary,other,at_home,<15min,<2h,yes,no,yes,no,good,very much,medium,very good,4,9,9,10
+MS,W,19,urban,>3,lower_secondary,upper_secondary,at_home,public_services,<15min,<2h,no,no,no,yes,good,much,important,bad,0,9,9,10
+MS,W,17,rural,>3,lower_secondary,primary,at_home,other,30-60min,<2h,yes,no,yes,no,very good,very much,medium,medium,2,9,10,11
+MS,W,15,rural,<=3,primary,primary,at_home,other,15-30min,<2h,yes,no,no,no,very good,little,not important,good,0,9,10,9
+MS,W,16,rural,>3,lower_secondary,lower_secondary,other,other,30-60min,2-5h,yes,no,no,yes,medium,much,very important,very bad,1,9,10,11
+MS,W,16,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,<2h,yes,no,no,no,good,medium,important,very bad,6,7,7,8
+MS,W,17,rural,>3,lower_secondary,lower_secondary,at_home,other,15-30min,2-5h,yes,no,no,yes,good,medium,very important,good,0,11,10,11
+MS,W,16,urban,>3,lower_secondary,lower_secondary,other,public_services,<15min,<2h,yes,yes,yes,yes,good,much,medium,medium,1,9,10,10
+MS,W,18,rural,<=3,upper_secondary,lower_secondary,other,other,15-30min,5-10h,yes,no,no,no,medium,medium,hardly important,bad,6,7,9,10
+MS,W,19,urban,>3,primary,primary,at_home,public_services,<15min,5-10h,no,no,yes,no,very good,medium,not important,medium,6,7,9,9
+MS,M,18,rural,>3,primary,primary,other,other,15-30min,<2h,no,no,yes,yes,good,much,medium,good,0,8,9,10
+MS,W,18,rural,>3,primary,primary,at_home,at_home,15-30min,<2h,no,no,no,yes,medium,little,medium,bad,4,9,11,10
+MS,W,19,urban,>3,primary,primary,other,other,15-30min,2-5h,yes,no,no,yes,very bad,very little,important,very bad,12,7,8,9
+MS,W,16,rural,>3,lower_secondary,lower_secondary,healthcare,other,<15min,2-5h,no,no,no,no,medium,medium,hardly important,medium,2,8,10,10
+MS,W,17,urban,>3,none,primary,other,at_home,15-30min,<2h,no,no,yes,no,bad,much,important,very good,5,9,9,10
+MS,W,16,rural,<=3,primary,lower_secondary,at_home,other,<15min,2-5h,no,no,yes,yes,good,much,very important,medium,0,8,9,9
+MS,W,16,urban,>3,upper_secondary,upper_secondary,other,other,<15min,<2h,no,no,yes,yes,good,very much,important,good,0,14,13,13
+MS,W,16,rural,<=3,primary,primary,public_services,public_services,<15min,<2h,yes,no,yes,yes,good,much,important,good,2,14,14,14
+MS,M,17,urban,>3,upper_secondary,upper_secondary,public_services,at_home,15-30min,>10h,yes,yes,yes,no,very good,much,very important,very good,0,10,11,10
+MS,W,16,urban,>3,lower_secondary,primary,other,public_services,<15min,2-5h,yes,no,yes,yes,very good,medium,medium,very bad,0,14,13,14
+MS,W,16,urban,>3,lower_secondary,lower_secondary,public_services,other,<15min,<2h,yes,yes,yes,no,good,little,very important,very good,0,17,16,16
+MS,M,17,urban,>3,primary,lower_secondary,other,other,<15min,<2h,yes,no,yes,yes,very good,medium,very important,very bad,12,6,7,7
+MS,M,16,urban,<=3,higher,upper_secondary,other,other,<15min,<2h,no,no,yes,yes,good,little,very important,very good,8,14,12,13
+MS,M,17,rural,<=3,lower_secondary,lower_secondary,public_services,public_services,30-60min,>10h,yes,no,no,no,very bad,medium,very important,medium,2,10,8,9
+MS,W,16,urban,>3,primary,primary,other,other,<15min,>10h,yes,no,yes,yes,bad,little,not important,very good,0,14,14,14
+MS,W,19,urban,<=3,lower_secondary,lower_secondary,other,other,<15min,5-10h,no,no,no,yes,very good,much,very important,very bad,0,12,13,13
+MS,W,17,rural,>3,primary,primary,at_home,other,15-30min,<2h,yes,no,yes,yes,good,much,very important,very good,0,11,11,11
+MS,W,20,urban,>3,upper_secondary,upper_secondary,at_home,public_services,15-30min,2-5h,no,no,yes,yes,medium,medium,important,medium,8,11,9,10
+MS,W,17,urban,<=3,primary,primary,other,public_services,<15min,5-10h,yes,no,no,no,good,medium,medium,medium,0,11,11,10
+MS,M,17,rural,>3,lower_secondary,lower_secondary,other,other,30-60min,<2h,yes,no,no,yes,good,much,very important,very good,0,10,9,9
+MS,W,16,rural,<=3,primary,primary,at_home,other,30-60min,2-5h,yes,no,no,no,very good,medium,hardly important,very bad,0,16,17,18
+MS,W,17,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,yes,no,very good,medium,hardly important,very bad,0,15,17,17
+MS,W,17,urban,>3,primary,none,other,other,15-30min,2-5h,no,no,no,yes,good,much,very important,good,1,11,9,10
+MS,W,18,rural,>3,primary,primary,at_home,other,<15min,2-5h,yes,no,no,yes,good,medium,hardly important,very good,9,7,7,7
+MS,W,16,urban,>3,upper_secondary,primary,other,other,<15min,<2h,no,no,yes,yes,medium,very little,medium,very bad,0,8,6,8
+MS,W,16,urban,>3,upper_secondary,lower_secondary,public_services,at_home,<15min,<2h,no,no,no,yes,medium,very little,medium,medium,2,7,6,7
+MS,W,18,urban,<=3,primary,primary,other,at_home,15-30min,2-5h,no,no,no,no,bad,medium,very important,medium,8,9,8,10
+MS,W,16,rural,>3,higher,higher,healthcare,teacher,<15min,2-5h,no,no,yes,yes,good,medium,medium,bad,0,14,16,16
+MS,W,16,rural,<=3,primary,lower_secondary,other,other,15-30min,<2h,no,no,yes,yes,very good,much,very important,bad,0,14,14,15
+MS,W,18,urban,>3,lower_secondary,higher,other,public_services,<15min,2-5h,yes,no,no,yes,bad,medium,hardly important,very bad,8,8,5,8
+MS,M,16,rural,>3,lower_secondary,primary,other,public_services,15-30min,2-5h,no,no,yes,yes,very good,little,not important,bad,0,8,7,0
+MS,W,16,urban,<=3,primary,primary,at_home,other,30-60min,2-5h,yes,no,no,yes,good,medium,hardly important,very good,6,6,8,8
+MS,W,16,rural,>3,lower_secondary,upper_secondary,at_home,public_services,15-30min,2-5h,yes,no,yes,yes,medium,medium,medium,bad,0,8,10,10
+MS,W,16,urban,>3,higher,higher,healthcare,healthcare,<15min,2-5h,yes,no,no,yes,good,medium,important,medium,4,8,8,8
+MS,M,18,urban,<=3,higher,higher,at_home,healthcare,<15min,>10h,yes,no,yes,yes,very good,very much,very important,very good,2,5,6,6
+MS,W,16,rural,<=3,upper_secondary,higher,at_home,other,30-60min,2-5h,yes,no,no,no,good,little,not important,bad,2,7,9,8
+MS,M,17,urban,<=3,higher,higher,other,public_services,<15min,5-10h,yes,no,no,yes,good,much,medium,very good,0,15,14,16
+MS,W,17,rural,>3,higher,primary,other,other,<15min,<2h,no,no,no,yes,good,little,medium,very good,1,13,14,14
+MS,M,16,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,>60min,5-10h,no,no,no,no,very good,very little,medium,medium,0,10,9,10
+MS,W,17,rural,>3,lower_secondary,lower_secondary,at_home,other,<15min,<2h,yes,yes,no,yes,very good,very little,medium,very good,5,9,9,9
+MS,W,16,urban,<=3,higher,higher,public_services,public_services,15-30min,<2h,yes,no,no,no,very good,very little,medium,very good,1,11,11,11
+MS,M,17,urban,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,<2h,yes,no,yes,yes,good,very little,important,medium,8,7,10,9
+MS,M,17,urban,>3,primary,primary,at_home,public_services,30-60min,2-5h,no,no,no,yes,very good,very little,medium,very bad,0,10,10,10
+MS,M,16,urban,>3,lower_secondary,primary,healthcare,public_services,15-30min,2-5h,no,no,no,yes,good,little,hardly important,very good,2,9,7,8
+MS,W,16,urban,<=3,lower_secondary,primary,other,public_services,<15min,2-5h,no,no,no,yes,medium,little,hardly important,medium,0,14,15,16
+MS,M,16,urban,<=3,higher,higher,teacher,healthcare,<15min,<2h,yes,no,no,yes,good,very little,hardly important,very good,0,11,12,12
+MS,M,15,rural,>3,primary,lower_secondary,other,public_services,30-60min,2-5h,yes,no,yes,no,very good,very much,very important,very good,11,9,11,10
+MS,M,15,urban,<=3,lower_secondary,lower_secondary,other,other,30-60min,>10h,yes,no,yes,no,very good,much,very important,very good,8,13,14,14
+MS,M,15,urban,<=3,lower_secondary,primary,public_services,public_services,<15min,<2h,no,no,yes,yes,good,medium,medium,very good,11,12,13,12
+MS,W,16,rural,<=3,lower_secondary,lower_secondary,other,other,<15min,5-10h,yes,no,no,no,good,medium,medium,very good,2,11,11,11
+MS,W,16,urban,<=3,higher,primary,other,other,15-30min,2-5h,yes,no,yes,yes,very bad,little,important,very bad,8,9,10,10
+MS,W,17,urban,>3,upper_secondary,lower_secondary,at_home,other,15-30min,<2h,no,no,no,no,good,medium,medium,very bad,5,9,11,11
+MS,W,17,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,no,yes,no,no,very good,very little,medium,very good,0,11,9,11
+MS,W,16,urban,>3,higher,higher,teacher,public_services,15-30min,5-10h,yes,no,no,yes,very good,medium,very important,very good,1,10,11,12
+MS,M,17,rural,>3,higher,higher,healthcare,other,30-60min,<2h,no,no,yes,yes,medium,medium,medium,very good,2,9,9,8
+MS,M,17,rural,<=3,primary,upper_secondary,other,other,15-30min,<2h,no,no,yes,no,very good,very little,hardly important,very good,2,12,11,12
+MS,M,17,urban,>3,upper_secondary,higher,public_services,other,<15min,2-5h,yes,no,yes,yes,very good,much,important,very good,8,8,9,8
+MS,W,17,urban,>3,higher,higher,healthcare,healthcare,<15min,2-5h,yes,no,no,yes,very good,little,very important,very good,0,13,15,16
+MS,M,16,rural,<=3,higher,primary,other,at_home,<15min,<2h,no,no,no,yes,good,very little,hardly important,bad,0,10,11,11
+MS,W,17,urban,>3,primary,primary,at_home,at_home,<15min,2-5h,no,no,yes,yes,good,very much,very important,medium,2,11,10,11
+MS,W,17,rural,>3,higher,lower_secondary,other,other,15-30min,2-5h,yes,no,no,yes,good,medium,medium,very good,0,17,18,18
+MS,M,16,urban,<=3,lower_secondary,lower_secondary,other,public_services,15-30min,2-5h,yes,no,no,yes,good,very little,hardly important,very good,0,12,13,13
+MS,M,17,urban,>3,upper_secondary,lower_secondary,other,other,15-30min,2-5h,yes,yes,no,yes,good,very little,hardly important,very bad,0,13,14,13
+MS,M,19,urban,>3,primary,primary,other,other,<15min,2-5h,yes,no,yes,yes,good,much,medium,good,2,9,9,10
+MS,M,17,urban,<=3,primary,none,other,other,<15min,<2h,no,no,no,no,good,very little,hardly important,very good,4,11,11,12
+MS,W,17,rural,>3,primary,primary,at_home,at_home,15-30min,<2h,yes,no,yes,yes,medium,very much,very important,good,3,10,11,10
+MS,W,16,rural,>3,primary,lower_secondary,other,other,<15min,5-10h,yes,no,no,yes,good,medium,important,medium,5,13,14,13
+MS,M,16,rural,<=3,primary,lower_secondary,other,at_home,<15min,<2h,no,no,no,no,good,much,important,very good,4,9,10,11
+MS,W,17,rural,>3,upper_secondary,primary,other,other,15-30min,2-5h,yes,no,yes,yes,very good,much,important,very good,2,7,9,10
+MS,M,17,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,<2h,no,no,yes,no,very good,very much,very important,very good,0,8,13,10
+MS,M,18,rural,>3,primary,none,at_home,at_home,30-60min,<2h,yes,no,no,no,good,medium,hardly important,good,0,12,12,13
+MS,M,17,rural,>3,primary,primary,other,public_services,15-30min,<2h,yes,no,yes,yes,good,very much,very important,bad,0,10,9,10
+MS,M,18,urban,<=3,primary,primary,at_home,at_home,15-30min,2-5h,yes,no,yes,no,good,medium,medium,very good,6,10,9,10
+MS,W,16,rural,<=3,lower_secondary,lower_secondary,other,public_services,<15min,2-5h,no,no,yes,no,very good,much,medium,very bad,0,11,13,12
+MS,M,17,urban,>3,lower_secondary,lower_secondary,other,other,<15min,<2h,no,no,yes,no,very bad,little,not important,very good,0,7,0,0
+MS,M,16,rural,>3,upper_secondary,lower_secondary,public_services,other,15-30min,<2h,no,no,no,yes,good,very much,very important,very good,2,11,9,10
+MS,M,16,rural,<=3,primary,primary,at_home,other,15-30min,<2h,no,no,yes,yes,good,very much,very important,very good,0,10,10,9
+MS,M,18,rural,>3,primary,primary,public_services,other,15-30min,<2h,yes,no,no,yes,very good,medium,medium,very good,2,9,7,9
+MS,M,18,rural,>3,upper_secondary,lower_secondary,public_services,other,<15min,<2h,no,no,no,yes,bad,medium,not important,very good,0,4,0,0
+MS,M,19,urban,>3,upper_secondary,lower_secondary,at_home,public_services,15-30min,<2h,no,no,yes,no,medium,little,not important,medium,4,6,11,9
+MS,M,18,urban,>3,upper_secondary,upper_secondary,at_home,at_home,<15min,2-5h,yes,no,yes,yes,good,much,very important,medium,9,4,8,8
+MS,M,16,rural,>3,lower_secondary,lower_secondary,public_services,public_services,15-30min,<2h,yes,no,yes,yes,very good,much,medium,good,6,7,8,8
+MS,M,19,urban,>3,lower_secondary,primary,at_home,other,15-30min,<2h,no,no,yes,yes,good,much,medium,very good,4,8,9,9
+MS,W,16,urban,>3,upper_secondary,lower_secondary,public_services,at_home,15-30min,2-5h,yes,no,yes,no,bad,very much,very important,very bad,8,5,5,7
+MS,W,17,urban,>3,primary,primary,other,at_home,<15min,<2h,yes,no,yes,no,good,medium,hardly important,very good,9,7,9,10
+MS,M,20,rural,>3,primary,primary,other,other,15-30min,<2h,yes,no,no,yes,good,much,medium,good,12,8,11,10
+MS,W,18,rural,>3,higher,upper_secondary,public_services,public_services,<15min,<2h,yes,no,no,yes,very good,much,important,bad,8,10,11,10
+MS,M,18,rural,>3,upper_secondary,lower_secondary,other,other,15-30min,<2h,yes,no,no,yes,bad,very much,very important,very good,8,9,10,11
+MS,M,19,rural,>3,primary,primary,other,public_services,30-60min,2-5h,no,no,no,yes,very good,much,important,bad,8,10,9,11
+MS,M,17,urban,>3,upper_secondary,upper_secondary,healthcare,other,15-30min,2-5h,yes,no,no,yes,good,very much,important,medium,4,8,9,10
+MS,M,18,urban,<=3,primary,upper_secondary,at_home,public_services,<15min,<2h,no,no,no,yes,good,medium,medium,medium,0,9,10,9
+MS,M,19,rural,>3,primary,primary,other,other,30-60min,<2h,yes,no,no,yes,good,much,important,very good,4,8,9,10
+MS,W,18,urban,>3,primary,lower_secondary,at_home,other,15-30min,2-5h,yes,no,no,no,good,medium,medium,very good,2,6,8,8
+MS,W,19,urban,<=3,primary,primary,at_home,other,<15min,<2h,yes,no,no,no,very bad,much,important,very good,0,6,8,7
+MS,W,18,rural,>3,lower_secondary,lower_secondary,other,other,15-30min,<2h,no,no,no,yes,very good,very much,very important,medium,0,8,6,0
+MS,W,17,rural,>3,none,none,at_home,other,15-30min,<2h,yes,no,no,yes,good,much,medium,very good,0,10,11,11
+MS,W,17,rural,<=3,upper_secondary,primary,other,at_home,15-30min,5-10h,yes,yes,no,no,good,little,medium,medium,5,8,7,8
+MS,W,17,urban,>3,higher,lower_secondary,teacher,public_services,<15min,2-5h,yes,no,yes,yes,very good,very much,very important,very good,0,8,8,0
+MS,W,18,rural,<=3,lower_secondary,lower_secondary,public_services,public_services,<15min,2-5h,yes,no,yes,yes,bad,medium,medium,good,3,7,6,8
+MS,W,17,urban,>3,higher,primary,healthcare,at_home,<15min,<2h,yes,no,no,no,medium,little,hardly important,very good,0,8,10,9
+MS,W,17,urban,<=3,primary,lower_secondary,at_home,other,<15min,<2h,no,no,no,yes,very good,very much,not important,medium,0,7,10,10
+MS,W,18,urban,>3,primary,primary,other,other,30-60min,2-5h,no,no,yes,no,medium,much,important,very good,3,7,8,7
+MS,W,18,urban,>3,lower_secondary,lower_secondary,public_services,at_home,15-30min,2-5h,no,no,yes,yes,good,medium,very important,very bad,2,12,13,14
+MS,W,17,urban,>3,upper_secondary,upper_secondary,public_services,public_services,15-30min,<2h,yes,no,no,yes,good,much,medium,good,0,11,12,13
+MS,W,18,urban,<=3,primary,lower_secondary,at_home,other,15-30min,2-5h,no,no,no,yes,good,much,medium,good,0,12,13,14
+MS,W,18,urban,>3,higher,higher,teacher,teacher,15-30min,2-5h,no,no,yes,yes,good,medium,very important,very bad,0,18,18,18
+MS,M,18,urban,<=3,higher,higher,public_services,other,<15min,<2h,yes,no,yes,yes,very good,much,very important,very good,3,17,17,17
+MS,W,17,urban,>3,higher,lower_secondary,other,other,15-30min,2-5h,yes,no,no,yes,good,medium,medium,good,0,17,18,18
+MS,W,18,rural,>3,lower_secondary,lower_secondary,at_home,other,30-60min,2-5h,no,no,yes,no,good,medium,medium,good,0,9,0,0
+MS,M,18,urban,<=3,primary,lower_secondary,at_home,public_services,15-30min,<2h,yes,no,no,no,good,very little,important,very bad,8,10,11,11
+MS,M,18,rural,>3,higher,higher,at_home,public_services,30-60min,<2h,yes,yes,yes,yes,bad,very much,very important,very bad,5,12,13,14
+MS,M,17,rural,>3,primary,primary,other,public_services,30-60min,<2h,no,no,no,no,good,little,medium,good,4,12,13,14
+MS,W,18,urban,>3,lower_secondary,lower_secondary,other,other,15-30min,2-5h,yes,no,no,yes,very bad,medium,not important,bad,4,8,8,10
+MS,W,18,urban,<=3,lower_secondary,lower_secondary,public_services,public_services,15-30min,5-10h,no,no,no,yes,very good,much,very important,medium,0,11,12,13
+MS,W,18,rural,<=3,higher,lower_secondary,teacher,other,<15min,2-5h,no,no,yes,yes,very good,medium,not important,very good,0,5,0,0
+MS,W,18,urban,>3,primary,primary,at_home,public_services,30-60min,2-5h,no,no,no,no,good,much,hardly important,bad,2,9,10,10
+MS,W,19,urban,>3,primary,primary,at_home,public_services,15-30min,<2h,no,no,no,no,very good,very much,very important,bad,0,5,0,0
+MS,W,17,urban,>3,higher,lower_secondary,teacher,other,15-30min,>10h,no,no,no,yes,good,little,medium,very good,0,18,18,18
+MS,W,17,rural,<=3,lower_secondary,primary,public_services,other,15-30min,2-5h,no,no,yes,yes,very good,medium,medium,bad,5,11,11,12
+MS,W,18,urban,<=3,primary,primary,at_home,public_services,<15min,2-5h,no,no,no,no,very good,little,medium,medium,2,8,10,11
+MS,W,18,urban,>3,primary,lower_secondary,at_home,at_home,15-30min,2-5h,yes,no,no,no,good,very little,not important,good,0,11,11,12
+MS,W,19,rural,>3,primary,primary,at_home,at_home,15-30min,2-5h,yes,no,yes,no,medium,very much,important,very bad,0,8,0,0
+MS,W,18,rural,>3,lower_secondary,lower_secondary,public_services,other,15-30min,5-10h,no,no,no,yes,good,little,not important,good,5,14,14,15
+MS,M,17,rural,>3,higher,upper_secondary,public_services,other,15-30min,2-5h,yes,yes,yes,yes,good,very much,very important,bad,4,10,11,11
+MS,W,18,urban,>3,upper_secondary,upper_secondary,public_services,public_services,<15min,2-5h,yes,no,no,no,very good,medium,important,very good,0,10,10,10
+MS,W,17,rural,>3,higher,higher,teacher,public_services,15-30min,2-5h,yes,yes,yes,yes,good,medium,medium,very good,2,12,12,12
+MS,W,17,urban,<=3,upper_secondary,lower_secondary,public_services,other,15-30min,2-5h,no,no,no,no,very bad,little,medium,very good,0,15,14,15
+MS,M,18,urban,<=3,primary,primary,other,public_services,15-30min,<2h,no,no,no,yes,medium,medium,hardly important,medium,2,14,13,14
+MS,W,18,urban,<=3,primary,primary,at_home,public_services,15-30min,5-10h,no,no,no,yes,very good,medium,hardly important,good,0,19,17,18
+MS,W,18,rural,<=3,primary,lower_secondary,at_home,other,30-60min,2-5h,no,no,no,no,good,medium,important,very good,0,16,15,15
+MS,W,18,urban,>3,upper_secondary,upper_secondary,public_services,public_services,15-30min,2-5h,yes,no,no,yes,good,medium,hardly important,medium,6,13,12,13
+MS,W,17,urban,<=3,higher,higher,at_home,at_home,<15min,2-5h,yes,no,yes,yes,bad,medium,important,very bad,4,15,14,15
+MS,W,17,rural,>3,primary,lower_secondary,other,public_services,15-30min,2-5h,no,no,no,no,medium,little,hardly important,medium,0,13,13,13
+MS,M,18,rural,>3,primary,upper_secondary,at_home,other,15-30min,2-5h,yes,yes,no,no,medium,medium,important,medium,0,8,10,9
+MS,M,18,urban,<=3,higher,higher,teacher,public_services,15-30min,5-10h,no,no,no,yes,good,little,hardly important,very good,0,15,16,16
+MS,W,17,rural,>3,primary,primary,other,public_services,30-60min,<2h,yes,no,no,yes,very good,little,not important,very bad,0,8,8,9
+MS,W,18,urban,>3,lower_secondary,upper_secondary,at_home,public_services,15-30min,<2h,yes,no,no,yes,very good,little,medium,good,0,10,10,10
+MS,W,18,rural,>3,higher,higher,other,teacher,30-60min,2-5h,yes,no,no,yes,medium,little,hardly important,very good,0,7,5,0
+MS,M,18,rural,<=3,primary,lower_secondary,at_home,public_services,30-60min,<2h,yes,no,yes,yes,good,medium,medium,medium,3,9,10,10
+MS,W,17,urban,>3,lower_secondary,lower_secondary,other,at_home,<15min,5-10h,no,no,yes,no,medium,much,medium,medium,8,10,11,12
+MS,W,17,rural,>3,primary,lower_secondary,other,other,<15min,<2h,no,no,yes,yes,medium,very much,very important,very bad,4,7,8,9
+MS,W,18,rural,<=3,higher,higher,other,other,15-30min,5-10h,no,no,no,yes,very good,much,important,very bad,0,15,17,17
+MS,W,18,rural,>3,primary,primary,other,other,>60min,5-10h,no,no,no,yes,good,medium,hardly important,good,4,10,11,12
+MS,W,19,rural,>3,primary,primary,at_home,other,15-30min,2-5h,yes,no,no,yes,good,medium,medium,medium,4,7,8,9
+MS,W,18,rural,<=3,higher,higher,teacher,public_services,<15min,2-5h,no,no,yes,yes,very good,much,medium,bad,1,13,14,14
+MS,W,18,urban,>3,upper_secondary,upper_secondary,other,other,<15min,2-5h,no,no,no,yes,good,very little,medium,very bad,1,16,16,16
+MS,W,17,rural,>3,upper_secondary,primary,at_home,other,<15min,2-5h,yes,no,yes,yes,good,very much,important,very bad,10,8,9,9
+MS,M,18,urban,>3,higher,higher,teacher,teacher,<15min,2-5h,no,no,yes,yes,medium,little,important,bad,4,17,18,19
+MS,M,18,rural,>3,lower_secondary,primary,other,other,15-30min,<2h,no,no,yes,yes,good,much,medium,very good,0,7,7,0
+MS,M,17,urban,>3,lower_secondary,upper_secondary,other,public_services,15-30min,2-5h,no,no,yes,yes,good,much,medium,medium,4,14,15,16
+MS,M,19,rural,>3,primary,primary,other,public_services,15-30min,<2h,no,no,no,no,good,medium,hardly important,very good,0,5,8,0
+MS,M,18,rural,>3,higher,lower_secondary,other,other,15-30min,<2h,no,yes,no,no,very good,much,medium,medium,0,7,7,0
+MS,W,18,rural,>3,lower_secondary,lower_secondary,at_home,other,15-30min,5-10h,no,no,no,no,very good,medium,medium,good,0,14,17,15
+MS,W,17,urban,>3,higher,upper_secondary,teacher,other,15-30min,2-5h,no,no,no,yes,very good,very much,important,very bad,0,6,9,11
+MS,W,18,rural,>3,higher,higher,teacher,at_home,30-60min,<2h,yes,no,yes,yes,good,much,medium,very good,4,7,9,10
+MS,W,19,rural,>3,lower_secondary,upper_secondary,public_services,other,<15min,5-10h,no,no,yes,yes,very good,much,hardly important,very good,4,10,11,10
+MS,W,18,urban,<=3,upper_secondary,primary,teacher,public_services,<15min,2-5h,yes,no,no,yes,good,medium,important,very bad,4,15,15,16
+MS,W,18,urban,>3,primary,primary,other,other,15-30min,2-5h,no,no,yes,no,very bad,very little,not important,very good,6,11,12,9
+MS,M,17,urban,<=3,upper_secondary,primary,public_services,public_services,15-30min,<2h,no,no,no,yes,bad,much,very important,bad,6,10,10,10
+MS,M,18,rural,<=3,upper_secondary,lower_secondary,public_services,other,30-60min,<2h,no,no,no,yes,good,much,not important,very good,4,10,11,11
