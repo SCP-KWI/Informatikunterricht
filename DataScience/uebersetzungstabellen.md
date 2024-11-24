@@ -1,30 +1,30 @@
 # Übersetzungstabellen
 
-## School
+## Schule
 | Value | Code |
 |-------|------|
 | GP    | 0    |
 | MS    | 1    |
 
-## Gender
+## Geschlecht
 | Value | Code |
 |-------|------|
 | W     | 0    |
 | M     | 1    |
 
-## Neighborhood
+## Wohnumgebung
 | Value | Code |
 |-------|------|
 | urban | 0    |
 | rural | 1    |
 
-## Family size
+## Familiengrösse
 | Value | Code |
 |-------|------|
 | >3    | 0    |
 | <=3   | 1    |
 
-## Education
+## Ausbildung
 | Value            | Code |
 |-------------------|------|
 | none             | 0    |
@@ -42,7 +42,7 @@
 | public_services  | 3    |
 | teacher          | 4    |
 
-## Travel time
+## Reisezeit
 | Value      | Code |
 |------------|------|
 | <15min     | 0    |
@@ -50,7 +50,7 @@
 | 30-60min   | 2    |
 | >60min     | 3    |
 
-## Learning time
+## Lernzeit
 | Value     | Code |
 |-----------|------|
 | <2h       | 0    |
@@ -58,13 +58,13 @@
 | 5-10h     | 2    |
 | >10h      | 3    |
 
-## Support/Extra Classes/Extracurricular/Internet
+## Unterstützung/Nachhilfe/Freifach/Internet
 | Value | Code |
 |-------|------|
 | yes   | 0    |
 | no    | 1    |
 
-## Family Relationship/Health
+## Familienverhältnis/Gesundheit
 | Value       | Code |
 |-------------|------|
 | very bad    | 0    |
@@ -73,7 +73,7 @@
 | good        | 3    |
 | very good   | 4    |
 
-## Go Out
+## Ausgang
 | Value             | Code |
 |--------------------|------|
 | not important     | 0    |
@@ -82,7 +82,7 @@
 | important         | 3    |
 | very important    | 4    |
 
-## Spare Time
+## Freizeit
 | Value       | Code |
 |-------------|------|
 | very little | 0    |
