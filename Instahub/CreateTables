@@ -1,0 +1,33 @@
+CREATE TABLE follows (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    following_id INT UNSIGNED    NOT NULL,
+    follower_id INT UNSIGNED    NOT NULL,
+    created_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    updated_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    FOREIGN KEY (following_id) REFERENCES users(id), 
+    FOREIGN KEY (follower_id) REFERENCES users(id),
+    PRIMARY KEY(id)
+)
+
+CREATE TABLE comments (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,   
+    user_id INT UNSIGNED    NOT NULL,
+    photo_id INT UNSIGNED    NOT NULL,
+    body VARCHAR(255) NOT NULL,
+    created_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    updated_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    FOREIGN KEY (user_id) REFERENCES users(id), 
+    FOREIGN KEY (photo_id) REFERENCES photos(id),
+    PRIMARY KEY(id)
+)
+
+CREATE TABLE likes(
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,   
+    user_id INT UNSIGNED    NOT NULL,
+    photo_id INT UNSIGNED    NOT NULL,
+    created_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    updated_at    TIMESTAMP NOT NULL    DEFAULT now(),
+    FOREIGN KEY (user_id) REFERENCES users(id), 
+    FOREIGN KEY (photo_id) REFERENCES photos(id),
+    PRIMARY KEY(id)
+)
